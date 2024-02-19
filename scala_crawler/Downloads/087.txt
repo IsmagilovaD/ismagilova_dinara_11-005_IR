@@ -1,0 +1,682 @@
+<!doctype html>
+<html lang="en"> 
+ <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1"> 
+  <title>Symmetric graphene quantum dots for future qubits | ScienceDaily</title> 
+  <meta name="description" content="Quantum dots in semiconductors such as silicon or gallium arsenide have long been considered hot candidates for hosting quantum bits in future quantum processors. Scientists have now shown that bilayer graphene has even more to offer here than other materials. The double quantum dots they have created are characterized by a nearly perfect electron-hole-symmetry that allows a robust read-out mechanism -- one of the necessary criteria for quantum computing." id="metasummary"> 
+  <meta name="keywords" content="Spintronics; Quantum Physics; Physics; Graphene; Spintronics Research; Quantum Computers; Computers and Internet; Encryption" id="metakeywords"> 
+  <meta name="last-modified" content="Sun, 18 Feb 2024 04:15:01 GMT"> 
+  <meta name="expires" content="Sun, 18 Feb 2024 05:15:01 GMT"> 
+  <meta property="og:title" id="og_title" content="Symmetric graphene quantum dots for future qubits"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" id="og_url" content="https://www.sciencedaily.com/releases/2023/05/230508104927.htm"> 
+  <meta property="og:image" content="https://www.sciencedaily.com/images/scidaily-icon.png"> 
+  <meta property="og:description" id="og_description" content="Quantum dots in semiconductors such as silicon or gallium arsenide have long been considered hot candidates for hosting quantum bits in future quantum processors. Scientists have now shown that bilayer graphene has even more to offer here than other materials. The double quantum dots they have created are characterized by a nearly perfect electron-hole-symmetry that allows a robust read-out mechanism -- one of the necessary criteria for quantum computing."> 
+  <meta property="og:site_name" content="ScienceDaily">   <!-- Bootstrap core CSS --> <!-- Font Awesome CSS --> <!-- YAMM!3 CSS --> <!-- Social Share Kit CSS --> <!-- Custom styles for this template --> <!-- Google tag (gtag.js) --> 
+ </head> 
+ <body> 
+  <header>
+   <!-- Container -->
+   <div class="container white"> <!-- Row --> 
+    <div class="row header"> 
+     <div class="col-sm-5 col-md-4 no-padding-right"> 
+      <div class="logo"> <a href="/" title="ScienceDaily"></a> 
+       <hr class="hr-logo"> 
+       <div class="clearfix"></div> 
+       <div class="motto">
+        Your source for the latest research news
+       </div> 
+      </div> 
+     </div> 
+     <div class="col-sm-7 col-md-8 no-padding-left hidden-xs"> 
+      <div class="sharing"> 
+       <div id="controls" class="btn-group" role="group" aria-label="..."> <a href="#" class="btn btn-default topbar hidden-xs">Follow:</a> <a href="https://www.facebook.com/sciencedaily" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="Facebook" aria-label="Facebook Page"><i class="fa fa-facebook fa-fw"><span class="display-none">Facebook</span></i></a> <a href="https://twitter.com/sciencedaily" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="X/Twitter" aria-label="X/Twitter Page"><i class="fa fa-twitter fa-fw"><span class="display-none">X/Twitter</span></i></a> <a href="#" class="btn btn-default topbar hidden-xs">Subscribe:</a> <a href="/newsfeeds.htm" class="btn btn-default hidden-tiny" data-toggle="tooltip" data-placement="bottom" title="RSS Feeds" aria-label="RSS Feeds"><i class="fa fa-rss fa-fw"><span class="display-none">RSS Feeds</span></i></a> <a href="https://sciencedaily.substack.com" class="btn btn-default" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Newsletter" aria-label="Newsletter"><i class="fa fa-envelope-o fa-fw"><span style="display: none">Newsletter</span></i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="callout"> <strong>New!</strong> Sign up for our free <strong><a href="https://sciencedaily.substack.com/#" target="_blank">email newsletter</a></strong>.
+    </div> 
+   </div> <!-- /container --> 
+  </header>
+  <div id="contents" class="container white"> 
+   <div class="row"> <!-- Main --> 
+    <div class="col-sm-8 main less-padding-right hyphenate"> <!-- Top Science News --> 
+     <div class="head no-print"> 
+      <div class="pull-left head-left">
+       Science News
+      </div> 
+      <div class="pull-right head-right">
+       from research organizations
+      </div> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="head-rule no-print"> 
+     <h1 id="headline" class="headline">Symmetric graphene quantum dots for future qubits</h1> 
+     <dl class="dl-horizontal dl-custom"> 
+      <dt>
+       Date:
+      </dt> 
+      <dd id="date_posted">
+       May 8, 2023
+      </dd> 
+      <dt>
+       Source:
+      </dt> 
+      <dd id="source">
+       Forschungszentrum Juelich
+      </dd> 
+      <dt>
+       Summary:
+      </dt> 
+      <dd id="abstract">
+       Quantum dots in semiconductors such as silicon or gallium arsenide have long been considered hot candidates for hosting quantum bits in future quantum processors. Scientists have now shown that bilayer graphene has even more to offer here than other materials. The double quantum dots they have created are characterized by a nearly perfect electron-hole-symmetry that allows a robust read-out mechanism -- one of the necessary criteria for quantum computing. 
+      </dd> 
+      <dt class="no-print">
+       Share:
+      </dt> 
+      <dd class="no-print"> 
+       <div id="share_top"> 
+        <div data-url="https://www.sciencedaily.com/releases/2023/05/230508104927.htm" class="ssk-sm ssk-group"> <a href="#" class="ssk ssk-icon ssk-facebook" aria-label="Facebook"><span class="display-none">Facebook</span></a> <a href="#" class="ssk ssk-icon ssk-twitter" aria-label="Twitter"><span class="display-none">Twitter</span></a> <a href="#" class="ssk ssk-icon ssk-pinterest" aria-label="Pinterest"><span class="display-none">Pinterest</span></a> <a href="#" class="ssk ssk-icon ssk-linkedin" aria-label="LinkedIN"><span class="display-none">LinkedIN</span></a> <a href="#" class="ssk ssk-icon ssk-email" aria-label="Email"><span class="display-none">Email</span></a> 
+        </div> 
+       </div> 
+      </dd> 
+     </dl> 
+     <div class="mobile-top-rectangle"> 
+     </div> 
+     <div class="row"> 
+      <div class="col-md-8 col-md-push-4"> 
+       <div class="fullstory">
+        FULL STORY
+       </div> 
+       <hr class="hr-fullstory"> <!-- /story_photo --> 
+       <div class="clearfix"></div> 
+       <div id="story_text" class="hyphenate underline"> 
+        <p id="first" class="lead">Quantum dots in semiconductors such as silicon or gallium arsenide have long been considered hot candidates for hosting quantum bits in future quantum processors. Scientists at Forschungszentrum Jülich and RWTH Aachen University have now shown that bilayer graphene has even more to offer here than other materials. The double quantum dots they have created are characterized by a nearly perfect electron-hole-symmetry that allows a robust read-out mechanism -- one of the necessary criteria for quantum computing. The results were published in the journal <em>Nature</em>.</p> 
+        <div id="text"> 
+         <p>The development of robust semiconductor spin qubits could help the realization of large-scale quantum computers in the future. However, current quantum dot based qubit systems are still in their infancy. In 2022, researchers at QuTech in the Netherlands were able to create 6 silicon-based spin qubits for the first time. With graphene, there is still a long way to go. The material, which was first isolated in 2004, is highly attractive to many scientists. But the realization of the first quantum bit has yet to come.</p> 
+         <p>"Bilayer graphene is a unique semiconductor," explains Prof. Christoph Stampfer of Forschungszentrum Jülich and RWTH Aachen University. "It shares several properties with single-layer graphene and also has some other special features. This makes it very interesting for quantum technologies."</p> 
+         <p>One of these features is that it has a bandgap that can be tuned by an external electric field from zero to about 120 milli-electronvolt. The band gap can be used to confine charge carriers in individual areas, so-called quantum dots. Depending on the applied voltage, these can trap a single electron or its counterpart, a hole -- basically a missing electron in the solid-state structure. The possibility of using the same gate structure to trap both electrons and holes is a feature that has no counter part in conventional semiconductors.</p> 
+         <p>"Bilayer graphene is still a fairly new material. So far, mainly experiments that have already been realized with other semiconductors have been carried out with it. Our current experiment now goes really beyond this for the first time," Christoph Stampfer says. He and his colleagues have created a so-called double quantum dot: two opposing quantum dots, each housing an electron and a hole whose spin properties mirror each other almost perfectly.</p> 
+         <p><strong>Wide range of applications</strong></p> 
+         <p>"This symmetry has two remarkable consequences: it is almost perfectly preserved even when electrons and holes are spatially separated in different quantum dots," Stampfer said. This mechanism can be used to couple qubits to other qubits over a longer distance. And what's more, "the symmetry results in a very robust blockade mechanism which could be used to read out the spin state of the dot with high fidelity."</p> 
+         <p>"This goes beyond what can be done in conventional semiconductors or any other two-dimensional electron systems," says Prof. Fabian Hassler of the JARA Institute for Quantum Information at Forschungszentrum Jülich and RWTH Aachen University, co-author of the study. "The near-perfect symmetry and strong selection rules are very attractive not only for operating qubits, but also for realizing single-particle terahertz detectors. In addition, it lends itself to coupling quantum dots of bilayer graphene with superconductors, two systems in which electron-hole symmetry plays an important role. These hybrid systems could be used to create efficient sources of entangled particle pairs or artificial topological systems, bringing us one step closer to realizing topological quantum computers."</p> 
+         <p>The research results were published in the journal Nature. The data supporting the results and the codes used for the analysis are available in a Zenodo repository. The research was funded, among others, by the European Union's Horizon 2020 research and innovation program (Graphene Flagship) and by the European Research Council (ERC), as well as by the German Research Foundation (DFG) as part of the Matter of Light for Quantum Computing (ML4Q) cluster of excellence.</p> 
+        </div> 
+       </div> <!-- /story_text --> 
+      </div> <!-- /col-md-8 --> 
+      <div class="col-md-4 col-md-pull-8 less-padding-left no-print"> 
+       <div class="row"> 
+        <div class="col-xs-6 col-md-12"> 
+         <ul class="nav topics"> 
+          <li class="nav-header"> <a href="#">RELATED TOPICS</a> 
+           <ul id="related_topics" class="nav subnav"> 
+            <li> <a href="/news/matter_energy/">Matter &amp; Energy</a> 
+             <ul class="nav nav-condensed fa-ul"> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/matter_energy/spintronics/" rel="tag">Spintronics</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/matter_energy/quantum_physics/" rel="tag">Quantum Physics</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/matter_energy/physics/" rel="tag">Physics</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/matter_energy/graphene/" rel="tag">Graphene</a> </li> 
+             </ul> </li> 
+            <li> <a href="/news/computers_math/">Computers &amp; Math</a> 
+             <ul class="nav nav-condensed fa-ul"> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/computers_math/spintronics/" rel="tag">Spintronics Research</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/computers_math/quantum_computers/" rel="tag">Quantum Computers</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/computers_math/computers_and_internet/" rel="tag">Computers and Internet</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/computers_math/encryption/" rel="tag">Encryption</a> </li> 
+             </ul> </li> 
+           </ul> </li> 
+         </ul> 
+        </div> 
+        <div class="col-xs-6 col-md-12"> 
+         <ul class="nav topics"> 
+          <li class="nav-header"> <a href="#">RELATED TERMS</a> 
+           <ul id="related_terms" class="nav nav-condensed fa-ul"> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/quantum_dot.htm">Quantum dot</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/quantum_number.htm">Quantum number</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/quantum_entanglement.htm">Quantum entanglement</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/electron_configuration.htm">Electron configuration</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/quantum_computer.htm">Quantum computer</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/quantum_tunnelling.htm">Quantum tunnelling</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/linus_pauling.htm">Linus Pauling</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/bose-einstein_condensate.htm">Bose-Einstein condensate</a> </li> 
+           </ul> </li> 
+         </ul> 
+        </div> <!-- /col-xs-6 --> 
+       </div> <!-- /row --> 
+      </div> <!-- /col-md-4 --> 
+     </div> <!-- /row --> 
+     <div id="insertion_end"></div> 
+     <hr> 
+     <div id="story_source"> 
+      <p><strong>Story Source:</strong></p> 
+      <p><a href="https://www.fz-juelich.de/en/news/archive/highlights/2023/symmetric-graphene-quantum-dots-for-future-qubits" style="text-decoration: underline" rel="noopener noreferrer" target="_blank">Materials</a> provided by <a href="https://www.fz-juelich.de/en" rel="noopener noreferrer" target="_blank"><strong>Forschungszentrum Juelich</strong></a>. <em>Note: Content may be edited for style and length.</em></p> 
+     </div> <!-- /story_source --> 
+     <hr> <!-- /related_multimedia --> 
+     <div id="journal_references">
+      <p><strong>Journal Reference</strong>:</p> 
+      <ol class="journal"> 
+       <li>L. Banszerus, S. Möller, K. Hecker, E. Icking, K. Watanabe, T. Taniguchi, F. Hassler, C. Volk, C. Stampfer. <strong>Particle–hole symmetry protects spin-valley blockade in graphene quantum dots</strong>. <em>Nature</em>, 2023; DOI: <a href="http://dx.doi.org/10.1038/s41586-023-05953-5" style="text-decoration: underline" rel="noopener noreferrer" target="_blank">10.1038/s41586-023-05953-5</a> </li> 
+      </ol> 
+      <hr> 
+     </div> <!-- /journal_references --> 
+     <div id="citations"> 
+      <div role="tabpanel" class="right-tabs clearfix"> 
+       <p class="pull-left"><strong>Cite This Page</strong>:</p> <!-- Nav tabs --> 
+       <ul class="nav nav-tabs" role="tablist"> 
+        <li role="presentation" class="active"><a href="#citation_mla" aria-controls="citation_mla" role="tab" data-toggle="tab">MLA</a></li> 
+        <li role="presentation"><a href="#citation_apa" aria-controls="citation_apa" role="tab" data-toggle="tab">APA</a></li> 
+        <li role="presentation"><a href="#citation_chicago" aria-controls="citation_chicago" role="tab" data-toggle="tab">Chicago</a></li> 
+       </ul> <!-- Tab panes -->
+       <div class="tab-content tab-citations"> 
+        <div role="tabpanel" class="tab-pane active" id="citation_mla">
+         Forschungszentrum Juelich. "Symmetric graphene quantum dots for future qubits." ScienceDaily. ScienceDaily, 8 May 2023. &lt;www.sciencedaily.com
+         <wbr>/
+         <wbr>releases
+         <wbr>/
+         <wbr>2023
+         <wbr>/
+         <wbr>05
+         <wbr>/
+         <wbr>230508104927.htm&gt;.
+        </div> 
+        <div role="tabpanel" class="tab-pane" id="citation_apa">
+         Forschungszentrum Juelich. (2023, May 8). Symmetric graphene quantum dots for future qubits. <em>ScienceDaily</em>. Retrieved February 18, 2024 from www.sciencedaily.com
+         <wbr>/
+         <wbr>releases
+         <wbr>/
+         <wbr>2023
+         <wbr>/
+         <wbr>05
+         <wbr>/
+         <wbr>230508104927.htm
+        </div> 
+        <div role="tabpanel" class="tab-pane" id="citation_chicago">
+         Forschungszentrum Juelich. "Symmetric graphene quantum dots for future qubits." ScienceDaily. www.sciencedaily.com
+         <wbr>/
+         <wbr>releases
+         <wbr>/
+         <wbr>2023
+         <wbr>/
+         <wbr>05
+         <wbr>/
+         <wbr>230508104927.htm (accessed February 18, 2024).
+        </div> 
+       </div> 
+      </div> 
+      <div class="clearfix"></div> 
+     </div> <!-- end citations --> 
+     <div class="clearfix"></div> 
+     <br>
+     <div class="head"> 
+      <div id="exploremore_heading" class="pull-left head-left">
+       Explore More
+      </div> 
+      <div class="pull-right head-right">
+       from ScienceDaily
+      </div> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="head-rule"> 
+     <div class="fullstory">
+      RELATED STORIES
+     </div> 
+     <hr class="hr-fullstory"> 
+     <div id="related_releases"> 
+      <div class="related-headline clearfix">
+       <a href="/releases/2021/02/210205150132.htm">Breakthrough in Quantum Photonics Promises a New Era in Optical Circuits</a>
+      </div> 
+      <div class="related-summary"> <span class="story-date">Feb. 5, 2021 —</span> Researchers have shown that single photons can be emitted in a uniform way from quantum dots arranged in a precise pattern. The team has used such methods to create single-quantum dots, with their ... 
+      </div> 
+      <div class="related-headline clearfix">
+       <a href="/releases/2020/11/201123161011.htm">Direct Visualization of Quantum Dots Reveals Shape of Quantum Wave Function</a>
+      </div> 
+      <div class="related-summary"> <span class="story-date">Nov. 23, 2020 —</span> Trapping and controlling electrons in bilayer graphene quantum dots yields a promising platform for quantum information technologies. Researchers have now achieved the first direct visualization of ... 
+      </div> 
+      <div class="related-headline clearfix">
+       <a href="/releases/2020/01/200129143345.htm">What a Pair! Coupled Quantum Dots May Offer a New Way to Store Quantum Information</a>
+      </div> 
+      <div class="related-summary"> <span class="story-date">Jan. 29, 2020 —</span> Researchers have for the first time created and imaged a novel pair of quantum dots -- tiny islands of confined electric charge that act like interacting artificial atoms. Such ''coupled'' quantum ... 
+      </div> 
+      <div class="related-headline clearfix">
+       <a href="/releases/2019/03/190318112010.htm">Long-Distance Quantum Information Exchange -- Success at the Nanoscale</a>
+      </div> 
+      <div class="related-summary"> <span class="story-date">Mar. 18, 2019 —</span> Researchers have realized the swap of electron spins between distant quantum dots. The discovery is a step towards applications of quantum information, as the dots leave enough room for delicate ... 
+      </div> 
+     </div> 
+    </div> <!-- /Main --> <!-- Sidebar --> 
+    <div class="col-sm-4 less-padding-left sidebar no-print"> 
+     <div class="pull-right btn-group btn-group-sm tools-top hidden-tiny hidden-xs" role="group" aria-label="..."> <a href="#" class="btn btn-default print black"><i class="fa fa-print"></i> &nbsp; <span class="hidden-sm">Print</span></a> <a href="#" class="btn btn-default email black"><i class="fa fa-envelope"></i> &nbsp; <span class="hidden-sm">Email</span></a> <a href="#" class="btn btn-default black" data-toggle="modal" data-target="#shareModal"><i class="fa fa-share"></i> &nbsp; <span class="hidden-sm">Share</span></a> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="hr-tools-top"> 
+     <div class="head"> 
+      <div id="breaking_heading" class="pull-left head-left">
+       <a href="/breaking/" class="breaking-head">Breaking</a>
+      </div> 
+      <div class="pull-right head-right">
+       this hour
+      </div> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="head-rule"> 
+     <ul id="justin_headlines" class="list-unstyled breaking-list"> 
+      <li><a href="/releases/2024/02/240212144634.htm">Salt Substitutes for Blood Pressure Control</a></li> 
+      <li><a href="/releases/2024/02/240215142301.htm">Icy Dwarf Planets With Geothermal Activity</a></li> 
+      <li><a href="/releases/2024/02/240215142140.htm">Reforestation Threatens Vast Tropical Grasslands</a></li> 
+      <li><a href="/releases/2024/02/240215142138.htm">New Direction for Sustainable Batteries</a></li> 
+      <li><a href="/releases/2024/02/240214122551.htm">A 'Quantum Leap' at Room Temperature</a></li> 
+      <li><a href="/releases/2024/02/240215113629.htm">Gravastar Inside Another Gravastar?</a></li> 
+      <li><a href="/releases/2024/02/240215113554.htm">Root Microbes: Secret to a Tastier Cup of Tea</a></li> 
+      <li><a href="/releases/2024/02/240215113551.htm">Ancient Retroviruses and Our Big Brains</a></li> 
+      <li><a href="/releases/2024/02/240215113656.htm">Diverse Ancient Volcanoes On Mars</a></li> 
+      <li><a href="/releases/2024/02/240215113642.htm">Brain 'Programmed' to Learn from Those We Like</a></li> 
+     </ul> 
+     <div class="head extra-top-margin"> 
+      <div id="most_popular_heading" class="pull-left head-left">
+       Trending Topics
+      </div> 
+      <div class="pull-right head-right">
+       this week
+      </div> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="head-rule"> 
+     <div id="most_popular_section1_head" class="side-subhead">
+      <a href="/news/space_time/" class="gray">SPACE &amp; TIME</a> 
+     </div> 
+     <div id="most_popular_section1"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/space_time/black_holes/">Black Holes</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/space_time/nasa/">NASA</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/space_time/space_missions/">Space Missions</a>
+      </div> 
+     </div> 
+     <div id="most_popular_section2_head" class="side-subhead">
+      <a href="/news/matter_energy/" class="gray">MATTER &amp; ENERGY</a> 
+     </div> 
+     <div id="most_popular_section2"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/matter_energy/quantum_physics/">Quantum Physics</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/matter_energy/medical_technology/">Medical Technology</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/matter_energy/thermodynamics/">Thermodynamics</a>
+      </div> 
+     </div> 
+     <div id="most_popular_section3_head" class="side-subhead">
+      <a href="/news/computers_math/" class="gray">COMPUTERS &amp; MATH</a> 
+     </div> 
+     <div id="most_popular_section3"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/computers_math/artificial_intelligence/">Artificial Intelligence</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/computers_math/computers_and_internet/">Computers and Internet</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/computers_math/internet/">Internet</a>
+      </div> 
+     </div> 
+     <div class="halfpage double-extra-top-margin"> 
+     </div> 
+     <div class="head extra-top-margin"> 
+      <div id="strange_offbeat_heading" class="pull-left head-left">
+       Strange &amp; Offbeat
+      </div> 
+      <div class="pull-right head-right">
+       &nbsp;
+      </div> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="head-rule"> 
+     <div id="strange_offbeat_section1_head" class="side-subhead">
+      <a href="/news/strange_offbeat/space_time/" class="gray">SPACE &amp; TIME</a> 
+     </div> 
+     <div id="strange_offbeat_section1"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240215142301.htm">Evidence of Geothermal Activity Within Icy Dwarf Planets</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240215113656.htm">Diverse Ancient Volcanoes on Mars Discovered by Planetary Scientist May Hold Clues to Pre-Plate Tectonic Activity on Earth</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240215113629.htm">A Star Like a Matryoshka Doll: New Theory for Gravastars</a>
+      </div> 
+     </div> 
+     <div id="strange_offbeat_section2_head" class="side-subhead">
+      <a href="/news/strange_offbeat/matter_energy/" class="gray">MATTER &amp; ENERGY</a> 
+     </div> 
+     <div id="strange_offbeat_section2"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240215142133.htm">First-Ever Atomic Freeze-Frame of Liquid Water</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240214122551.htm">A 'Quantum Leap' at Room Temperature</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240213130458.htm">Greetings from the Island of Enhanced Stability: The Quest for the Limit of the Periodic Table</a>
+      </div> 
+     </div> 
+     <div id="strange_offbeat_section3_head" class="side-subhead">
+      <a href="/news/strange_offbeat/computers_math/" class="gray">COMPUTERS &amp; MATH</a> 
+     </div> 
+     <div id="strange_offbeat_section3"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240215142306.htm">1,000 Atomic Qubits and Rising</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240212153511.htm">How Ancient Sea Creatures Can Inform Soft Robotics</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240209134402.htm">Researchers Show Classical Computers Can Keep Up With, and Surpass, Their Quantum Counterparts</a>
+      </div> 
+     </div> 
+    </div> <!-- /Sidebar --> 
+   </div> <!-- /Row --> 
+   <br> 
+  </div> <!-- /Container --> 
+  <div id="navwrapper"> 
+   <div id="topnav"> <!-- Static navbar --> 
+    <nav class="navbar yamm navbar-default navbar-static navbar-custom">
+     <div class="container"> 
+      <div class="navbar-header"> <button type="button" class="navbar-toggle collapsed menu" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span>Menu &nbsp;<i class="fa fa-bars"></i></span> </button> <a class="navbar-brand visible-xs" href="#"><span class="icon-s">S<span class="icon-d">D</span></span></a> 
+       <ul class="nav navbar-nav hidden-xs"> 
+        <li class="dropdown"> <a href="#" class="navbar-brand dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="icon-s">S<span class="icon-d">D</span></span></a> 
+         <ul class="dropdown-menu brand" role="menu"> 
+          <li><a href="/" role="menuitem">Home Page</a></li> 
+          <li class="divider"> </li> 
+          <li><a href="/news/top/science/" role="menuitem">Top Science News</a></li> 
+          <li class="divider"> </li> 
+          <li><a href="/news/" role="menuitem">Latest News</a></li> 
+         </ul> </li> 
+       </ul> 
+      </div> 
+      <div id="navbar" class="navbar-collapse collapse"> 
+       <ul class="nav navbar-nav"> 
+        <li class="dropdown visible-xs"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Home <span class="caret"></span></a> 
+         <ul class="dropdown-menu" role="menu"> 
+          <li><a href="/" role="menuitem">Home Page</a></li> 
+          <li class="divider"> </li> 
+          <li><a href="/news/top/science/" role="menuitem">Top Science News</a></li> 
+          <li class="divider"> </li> 
+          <li><a href="/news/" role="menuitem">Latest News</a></li> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Health <span class="caret"></span></a> 
+         <ul class="dropdown-menu dropdown-menu-left" role="menu"> 
+          <li class="menu-item"> 
+           <div class="yamm-content hyphenate"> 
+            <div>
+             View all the latest <strong><a href="/news/top/health/">top news</a></strong> in the health sciences, <span class="hidden-xs hidden-sm"><br></span>or browse the topics below:
+            </div> 
+            <div class="row"> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/health_medicine/">Health &amp; Medicine</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/health_medicine/allergy/" role="menuitem">Allergy</a></li> 
+               <li><a href="/news/health_medicine/cancer/" role="menuitem">Cancer</a></li> 
+               <li><a href="/news/health_medicine/cold_and_flu/" role="menuitem">Cold and Flu</a></li> 
+               <li><a href="/news/health_medicine/diabetes/" role="menuitem">Diabetes</a></li> 
+               <li><a href="/news/health_medicine/heart_disease/" role="menuitem">Heart Disease</a></li> 
+               <li><a href="/news/health_medicine/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/mind_brain/" role="menuitem">Mind &amp; Brain</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/mind_brain/add_and_adhd/" role="menuitem">ADD and ADHD</a></li> 
+               <li><a href="/news/mind_brain/alzheimer's/" role="menuitem">Alzheimer's</a></li> 
+               <li><a href="/news/mind_brain/headaches/" role="menuitem">Headaches</a></li> 
+               <li><a href="/news/mind_brain/intelligence/" role="menuitem">Intelligence</a></li> 
+               <li><a href="/news/mind_brain/psychology/" role="menuitem">Psychology</a></li> 
+               <li><a href="/news/mind_brain/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/living_well/" role="menuitem">Living Well</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/mind_brain/parenting/" role="menuitem">Parenting</a></li> 
+               <li><a href="/news/mind_brain/child_development/" role="menuitem">Child Development</a></li> 
+               <li><a href="/news/mind_brain/stress/" role="menuitem">Stress</a></li> 
+               <li><a href="/news/health_medicine/nutrition/" role="menuitem">Nutrition</a></li> 
+               <li><a href="/news/health_medicine/fitness/" role="menuitem">Fitness</a></li> 
+               <li><a href="/news/living_well/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+            </div> <!-- /row --> 
+           </div> <!-- /yamm-content --> </li> <!-- /menu-item --> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Tech <span class="caret"></span></a> 
+         <ul class="dropdown-menu dropdown-menu-left" role="menu"> 
+          <li class="menu-item"> 
+           <div class="yamm-content hyphenate"> 
+            <div>
+             View all the latest <strong><a href="/news/top/technology/">top news</a></strong> in the physical sciences &amp; technology, <span class="hidden-xs hidden-sm"><br></span>or browse the topics below:
+            </div> 
+            <div class="row"> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/matter_energy/" role="menuitem">Matter &amp; Energy</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/matter_energy/chemistry/" role="menuitem">Chemistry</a></li> 
+               <li><a href="/news/matter_energy/fossil_fuels/" role="menuitem">Fossil Fuels</a></li> 
+               <li><a href="/news/matter_energy/nanotechnology/" role="menuitem">Nanotechnology</a></li> 
+               <li><a href="/news/matter_energy/physics/" role="menuitem">Physics</a></li> 
+               <li><a href="/news/matter_energy/solar_energy/" role="menuitem">Solar Energy</a></li> 
+               <li><a href="/news/matter_energy/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/space_time/" role="menuitem">Space &amp; Time</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/space_time/black_holes/" role="menuitem">Black Holes</a></li> 
+               <li><a href="/news/space_time/dark_matter/" role="menuitem">Dark Matter</a></li> 
+               <li><a href="/news/space_time/extrasolar_planets/" role="menuitem">Extrasolar Planets</a></li> 
+               <li><a href="/news/space_time/solar_system/" role="menuitem">Solar System</a></li> 
+               <li><a href="/news/space_time/space_telescopes/" role="menuitem">Space Telescopes</a></li> 
+               <li><a href="/news/space_time/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/computers_math/" role="menuitem">Computers &amp; Math</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/computers_math/artificial_intelligence/" role="menuitem">Artificial Intelligence</a></li> 
+               <li><a href="/news/computers_math/mathematics/" role="menuitem">Mathematics</a></li> 
+               <li><a href="/news/computers_math/quantum_computers/" role="menuitem">Quantum Computers</a></li> 
+               <li><a href="/news/computers_math/robotics/" role="menuitem">Robotics</a></li> 
+               <li><a href="/news/computers_math/virtual_reality/" role="menuitem">Virtual Reality</a></li> 
+               <li><a href="/news/computers_math/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+            </div> <!-- /row --> 
+           </div> <!-- /yamm-content --> </li> <!-- /menu-item --> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Enviro <span class="caret"></span></a> 
+         <ul class="dropdown-menu dropdown-menu-left" role="menu"> 
+          <li class="menu-item"> 
+           <div class="yamm-content hyphenate"> 
+            <div>
+             View all the latest <strong><a href="/news/top/environment/">top news</a></strong> in the environmental sciences, <span class="hidden-xs hidden-sm"><br></span>or browse the topics below:
+            </div> 
+            <div class="row"> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/plants_animals/" role="menuitem">Plants &amp; Animals</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/plants_animals/agriculture_and_food/" role="menuitem">Agriculture and Food</a></li> 
+               <li><a href="/news/plants_animals/biology/" role="menuitem">Biology</a></li> 
+               <li><a href="/news/plants_animals/biotechnology/" role="menuitem">Biotechnology</a></li> 
+               <li><a href="/news/plants_animals/extinction/" role="menuitem">Extinction</a></li> 
+               <li><a href="/news/plants_animals/microbes_and_more/" role="menuitem">Microbes and More</a></li> 
+               <li><a href="/news/plants_animals/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/earth_climate/" role="menuitem">Earth &amp; Climate</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/earth_climate/climate/" role="menuitem">Climate</a></li> 
+               <li><a href="/news/earth_climate/earthquakes/" role="menuitem">Earthquakes</a></li> 
+               <li><a href="/news/earth_climate/geology/" role="menuitem">Geology</a></li> 
+               <li><a href="/news/earth_climate/global_warming/" role="menuitem">Global Warming</a></li> 
+               <li><a href="/news/earth_climate/pollution/" role="menuitem">Pollution</a></li> 
+               <li><a href="/news/earth_climate/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/fossils_ruins/" role="menuitem">Fossils &amp; Ruins</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/fossils_ruins/anthropology/" role="menuitem">Anthropology</a></li> 
+               <li><a href="/news/fossils_ruins/archaeology/" role="menuitem">Archaeology</a></li> 
+               <li><a href="/news/fossils_ruins/dinosaurs/" role="menuitem">Dinosaurs</a></li> 
+               <li><a href="/news/fossils_ruins/evolution/" role="menuitem">Evolution</a></li> 
+               <li><a href="/news/fossils_ruins/paleontology/" role="menuitem">Paleontology</a></li> 
+               <li><a href="/news/fossils_ruins/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+            </div> <!-- /row --> 
+           </div> <!-- /yamm-content --> </li> <!-- /menu-item --> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Society <span class="caret"></span></a> 
+         <ul class="dropdown-menu dropdown-menu-left" role="menu"> 
+          <li class="menu-item"> 
+           <div class="yamm-content hyphenate"> 
+            <div>
+             View all the latest <strong><a href="/news/top/society/">top news</a></strong> in the social sciences &amp; education, <span class="hidden-xs hidden-sm"><br></span>or browse the topics below:
+            </div> 
+            <div class="row"> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/science_society/" role="menuitem">Science &amp; Society</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/science_society/arts_and_culture/" role="menuitem">Arts &amp; Culture</a></li> 
+               <li><a href="/news/science_society/economics/" role="menuitem">Economics</a></li> 
+               <li><a href="/news/science_society/privacy_issues/" role="menuitem">Privacy Issues</a></li> 
+               <li><a href="/news/science_society/public_health/" role="menuitem">Public Health</a></li> 
+               <li><a href="/news/science_society/sports/" role="menuitem">Sports</a></li> 
+               <li><a href="/news/science_society/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/business_industry/" role="menuitem">Business &amp; Industry</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/computers_math/computers_and_internet/" role="menuitem">Computers &amp; Internet</a></li> 
+               <li><a href="/news/matter_energy/energy_and_resources/" role="menuitem">Energy &amp; Resources</a></li> 
+               <li><a href="/news/matter_energy/engineering/" role="menuitem">Engineering</a></li> 
+               <li><a href="/news/matter_energy/medical_technology/" role="menuitem">Medical Technology</a></li> 
+               <li><a href="/news/matter_energy/automotive_and_transportation/" role="menuitem">Transportation</a></li> 
+               <li><a href="/news/business_industry/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/education_learning/" role="menuitem">Education &amp; Learning</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/mind_brain/creativity/" role="menuitem">Creativity</a></li> 
+               <li><a href="/news/mind_brain/educational_psychology/" role="menuitem">Educational Psychology</a></li> 
+               <li><a href="/news/mind_brain/infant_and_preschool_learning/" role="menuitem">Infant &amp; Preschool</a></li> 
+               <li><a href="/news/mind_brain/learning_disorders/" role="menuitem">Learning Disorders</a></li> 
+               <li><a href="/news/science_society/stem_education/" role="menuitem">STEM Education</a></li> 
+               <li><a href="/news/education_learning/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+            </div> <!-- /row --> 
+           </div> <!-- /yamm-content --> </li> <!-- /menu-item --> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Quirky <span class="caret"></span></a> 
+         <ul class="dropdown-menu" role="menu"> 
+          <li><a href="/news/strange_offbeat/" role="menuitem">Top News</a></li> 
+          <li class="divider"> </li> 
+          <li><a href="/news/strange_offbeat/human_quirks/" role="menuitem">Human Quirks</a></li> 
+          <li><a href="/news/strange_offbeat/odd_creatures/" role="menuitem">Odd Creatures</a></li> 
+          <li><a href="/news/strange_offbeat/bizarre_things/" role="menuitem">Bizarre Things</a></li> 
+          <li><a href="/news/strange_offbeat/weird_world/" role="menuitem">Weird World</a></li> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+       </ul> 
+       <form action="/search/" method="get" class="navbar-form navbar-right" role="search"> 
+        <div class="form-group search"> 
+         <div class="input-group"> <label id="keywordlabel" for="keyword" class="display-none">Keyword:</label>
+          <input type="text" id="keyword" name="keyword" aria-labelledby="keywordlabel" title="Enter keyword to search" class="form-control hidden-xs" placeholder="Search"><span class="input-group-btn"><button class="btn btn-default" type="submit" aria-label="search"><i class="fa fa-search"><span class="display-none">Search</span></i></button></span> 
+         </div> 
+        </div> 
+       </form> 
+      </div> <!--/.nav-collapse --> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> <!-- /navwrapper --> 
+  <footer>
+   <div class="container light-gray"> 
+    <div class="row footer-links"> 
+     <div class="col-sm-12 col-md-4"> 
+      <div class="footer-head">
+       Free Subscriptions
+      </div> 
+      <hr class="footer-rule"> 
+      <p>Stay informed with ScienceDaily's free email newsletter, updated daily and weekly. Or view our many newsfeeds in your RSS reader:</p> 
+      <ul class="list-unstyled footer-list"> 
+       <li> <i class="fa fa-envelope fa-fw"></i> <a href="https://sciencedaily.substack.com">Email Newsletter</a> </li> 
+       <li> <i class="fa fa-rss fa-fw"></i> <a href="/newsfeeds.htm">RSS Feeds</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col-sm-12 col-md-4"> 
+      <div class="footer-head">
+       Follow Us
+      </div> 
+      <hr class="footer-rule"> 
+      <p>Keep up to date with the latest news from ScienceDaily via social networks:</p> 
+      <ul class="list-unstyled footer-list"> 
+       <li> <i class="fa fa-facebook fa-fw"></i> <a href="https://www.facebook.com/sciencedaily">Facebook</a> </li> 
+       <li> <i class="fa fa-twitter fa-fw"></i> <a href="https://twitter.com/sciencedaily">X / Twitter</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col-sm-12 col-md-4"> 
+      <div class="footer-head">
+       Have Feedback?
+      </div> 
+      <hr class="footer-rule"> 
+      <p>Tell us what you think of ScienceDaily -- we welcome both positive and negative comments. Have any problems using the site? Questions?</p> 
+      <ul class="list-unstyled footer-list"> 
+       <li> <i class="fa fa-comment fa-fw"></i> <a href="#" class="feedback">Leave Feedback</a> </li> 
+       <li> <i class="fa fa-phone fa-fw"></i> <a href="/contact.htm">Contact Us</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="container dark-gray"> 
+    <div class="bottom-links"> <a href="/about.htm">About This Site</a> &nbsp;|&nbsp; <a href="/staff.htm">Staff</a> &nbsp;|&nbsp; <a href="/contribute.htm">Contribute</a> &nbsp;|&nbsp; <a href="/advertise.htm">Advertise</a> &nbsp;|&nbsp; <a href="/privacy.htm">Privacy Policy</a> &nbsp;|&nbsp; <a href="/editorial.htm">Editorial Policy</a> &nbsp;|&nbsp; <a href="/terms.htm">Terms of Use</a> 
+    </div> 
+    <div id="bottom_text"> <a href="/copyright.htm">Copyright 1995-2024 ScienceDaily</a> or by other parties, where indicated. All rights controlled by their respective owners. Content on this website is for information only. It is not intended to provide medical or other professional advice. Views expressed here do not necessarily reflect those of ScienceDaily, contributors or partners. Financial support for ScienceDaily comes from advertisements and referral programs.
+    </div> 
+   </div> 
+  </footer><!-- Bootstrap core JavaScript
+	================================================== --><!-- Placed at the end of the document so the pages load faster -->  <!-- Page successfully generated: February 18, 2024 02:33:32 pm -->
+ </body>
+</html>

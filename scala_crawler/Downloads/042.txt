@@ -1,0 +1,686 @@
+<!doctype html>
+<html lang="en"> 
+ <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1"> 
+  <title>A simpler way to connect quantum computers | ScienceDaily</title> 
+  <meta name="description" content="Researchers have developed a new approach to building quantum repeaters, devices that can link quantum computers over long distances. The new system transmits low-loss signals over optical fiber using light in the telecom band, a longstanding goal in the march toward robust quantum communication networks." id="metasummary"> 
+  <meta name="keywords" content="Spintronics; Quantum Physics; Physics; Quantum Computing; Quantum Computers; Spintronics Research; Computers and Internet; Encryption" id="metakeywords"> 
+  <meta name="last-modified" content="Mon, 19 Feb 2024 15:02:01 GMT"> 
+  <meta name="expires" content="Mon, 19 Feb 2024 16:02:01 GMT"> 
+  <meta property="og:title" id="og_title" content="A simpler way to connect quantum computers"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" id="og_url" content="https://www.sciencedaily.com/releases/2023/08/230830131937.htm"> 
+  <meta property="og:image" content="https://www.sciencedaily.com/images/scidaily-icon.png"> 
+  <meta property="og:description" id="og_description" content="Researchers have developed a new approach to building quantum repeaters, devices that can link quantum computers over long distances. The new system transmits low-loss signals over optical fiber using light in the telecom band, a longstanding goal in the march toward robust quantum communication networks."> 
+  <meta property="og:site_name" content="ScienceDaily">   <!-- Bootstrap core CSS --> <!-- Font Awesome CSS --> <!-- YAMM!3 CSS --> <!-- Social Share Kit CSS --> <!-- Custom styles for this template --> <!-- Google tag (gtag.js) --> 
+ </head> 
+ <body> 
+  <header>
+   <!-- Container -->
+   <div class="container white"> <!-- Row --> 
+    <div class="row header"> 
+     <div class="col-sm-5 col-md-4 no-padding-right"> 
+      <div class="logo"> <a href="/" title="ScienceDaily"></a> 
+       <hr class="hr-logo"> 
+       <div class="clearfix"></div> 
+       <div class="motto">
+        Your source for the latest research news
+       </div> 
+      </div> 
+     </div> 
+     <div class="col-sm-7 col-md-8 no-padding-left hidden-xs"> 
+      <div class="sharing"> 
+       <div id="controls" class="btn-group" role="group" aria-label="..."> <a href="#" class="btn btn-default topbar hidden-xs">Follow:</a> <a href="https://www.facebook.com/sciencedaily" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="Facebook" aria-label="Facebook Page"><i class="fa fa-facebook fa-fw"><span class="display-none">Facebook</span></i></a> <a href="https://twitter.com/sciencedaily" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="X/Twitter" aria-label="X/Twitter Page"><i class="fa fa-twitter fa-fw"><span class="display-none">X/Twitter</span></i></a> <a href="#" class="btn btn-default topbar hidden-xs">Subscribe:</a> <a href="/newsfeeds.htm" class="btn btn-default hidden-tiny" data-toggle="tooltip" data-placement="bottom" title="RSS Feeds" aria-label="RSS Feeds"><i class="fa fa-rss fa-fw"><span class="display-none">RSS Feeds</span></i></a> <a href="https://sciencedaily.substack.com" class="btn btn-default" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Newsletter" aria-label="Newsletter"><i class="fa fa-envelope-o fa-fw"><span style="display: none">Newsletter</span></i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="callout"> <strong>New!</strong> Sign up for our free <strong><a href="https://sciencedaily.substack.com/#" target="_blank">email newsletter</a></strong>.
+    </div> 
+   </div> <!-- /container --> 
+  </header>
+  <div id="contents" class="container white"> 
+   <div class="row"> <!-- Main --> 
+    <div class="col-sm-8 main less-padding-right hyphenate"> <!-- Top Science News --> 
+     <div class="head no-print"> 
+      <div class="pull-left head-left">
+       Science News
+      </div> 
+      <div class="pull-right head-right">
+       from research organizations
+      </div> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="head-rule no-print"> 
+     <h1 id="headline" class="headline">A simpler way to connect quantum computers</h1> 
+     <h2 id="subtitle" class="subtitle">A new atomic device sends high-fidelity quantum information over fiber optic networks</h2> 
+     <dl class="dl-horizontal dl-custom"> 
+      <dt>
+       Date:
+      </dt> 
+      <dd id="date_posted">
+       August 30, 2023
+      </dd> 
+      <dt>
+       Source:
+      </dt> 
+      <dd id="source">
+       Princeton University, Engineering School
+      </dd> 
+      <dt>
+       Summary:
+      </dt> 
+      <dd id="abstract">
+       Researchers have developed a new approach to building quantum repeaters, devices that can link quantum computers over long distances. The new system transmits low-loss signals over optical fiber using light in the telecom band, a longstanding goal in the march toward robust quantum communication networks. 
+      </dd> 
+      <dt class="no-print">
+       Share:
+      </dt> 
+      <dd class="no-print"> 
+       <div id="share_top"> 
+        <div data-url="https://www.sciencedaily.com/releases/2023/08/230830131937.htm" class="ssk-sm ssk-group"> <a href="#" class="ssk ssk-icon ssk-facebook" aria-label="Facebook"><span class="display-none">Facebook</span></a> <a href="#" class="ssk ssk-icon ssk-twitter" aria-label="Twitter"><span class="display-none">Twitter</span></a> <a href="#" class="ssk ssk-icon ssk-pinterest" aria-label="Pinterest"><span class="display-none">Pinterest</span></a> <a href="#" class="ssk ssk-icon ssk-linkedin" aria-label="LinkedIN"><span class="display-none">LinkedIN</span></a> <a href="#" class="ssk ssk-icon ssk-email" aria-label="Email"><span class="display-none">Email</span></a> 
+        </div> 
+       </div> 
+      </dd> 
+     </dl> 
+     <div class="mobile-top-rectangle"> 
+     </div> 
+     <div class="row"> 
+      <div class="col-md-8 col-md-push-4"> 
+       <div class="fullstory">
+        FULL STORY
+       </div> 
+       <hr class="hr-fullstory"> <!-- /story_photo --> 
+       <div class="clearfix"></div> 
+       <div id="story_text" class="hyphenate underline"> 
+        <p id="first" class="lead">Researchers have a new way to connect quantum devices over long distances, a necessary step toward allowing the technology to play a role in future communications systems.</p> 
+        <div id="text"> 
+         <p>While today's classical data signals can get amplified across a city or an ocean, quantum signals cannot. They must be repeated in intervals -- that is, stopped, copied and passed on by specialized machines called quantum repeaters. Many experts believe these quantum repeaters will play a key role in future communication networks, allowing enhanced security and enabling connections between remote quantum computers.</p> 
+         <p>The Princeton study, published Aug. 30 in <em>Nature</em>, details the basis for a new approach to building quantum repeaters. It sends telecom-ready light emitted from a single ion implanted in a crystal. The effort was many years in the making, according to Jeff Thompson, the study's principal author. The work combined advances in photonic design and materials science.</p> 
+         <p>Other leading quantum repeater designs emit light in the visible spectrum, which degrades quickly over optical fiber and must be converted before traveling long distances. The new device is based on a single rare earth ion implanted in a host crystal. And because this ion emits light at an ideal infrared wavelength, it requires no such signal conversion, which can lead to simpler and more robust networks.</p> 
+         <p>The device has two parts: a calcium tungstate crystal doped with just a handful of erbium ions, and a nanoscopic piece of silicon etched into a J-shaped channel. Pulsed with a special laser, the ion emits light up through the crystal. But the silicon piece, a whisp of a semiconductor stuck onto the top of the crystal, catches and guides individual photons out into the fiber optic cable.</p> 
+         <p>Ideally, this photon would be encoded with information from the ion, Thompson said. Or more specifically, from a quantum property of the ion called spin. In a quantum repeater, collecting and interfering the signals from distant nodes would create entanglement between their spins, allowing end-to-end transmission of quantum states despite losses along the way.</p> 
+         <p>Thompson's team first started working with erbium ions several years before, but first versions used different crystals that harbored too much noise. In particular, this noise caused the frequency of the emitted photons to jump around randomly in a process known as spectral diffusion. This prevented the delicate quantum interference that is necessary to operate quantum networks. To solve this problem, his lab started working with Nathalie de Leon, associate professor of electrical and computer engineering, and Robert Cava, a leading solid-state materials scientist and Princeton's Russell Wellman Moore Professor of Chemistry, to explore new materials that could host single erbium ions with much less noise.</p> 
+         <div id="insertion_middle"></div> 
+         <p>They winnowed the list of candidate materials from hundreds of thousands down to a few hundred, then a couple dozen, then three. Each of the three finalists took half a year to test. The first material turned out to be not quite clear enough. The second caused the erbium to have poor quantum properties. But the third, the calcium tungstate, was just right.</p> 
+         <p>To demonstrate that the new material is suitable for quantum networks, the researchers built an interferometer where photons randomly pass through one of two paths: a short path that is several feet long, or a long path that is 22 miles long (made of spooled optical fiber). Photons emitted from the ion can go on the long path or the short path, and about half the time, consecutive photons take opposite paths, and arrive at the output at the same time.</p> 
+         <p>When such a collision occurs, quantum interference causes the photons to leave the output in pairs if and only if they are fundamentally indistinguishable -- having the same shape and frequency. Otherwise, they leave the interferometer individually. By observing a strong suppression -- up to 80 percent -- of individual photons at the interferometer output, the team proved conclusively that the erbium ions in the new material emit indistinguishable photons. According to Salim Ourari, a graduate student who co-led the research, that puts the signal well above the hi-fi threshold.</p> 
+         <p>While this work crosses an important threshold, additional work is required to improve the storage time of quantum states in the spin of the erbium ion. The team is currently working on making more highly refined calcium tungstate, with fewer impurities that disturb the quantum spin states.</p> 
+        </div> 
+       </div> <!-- /story_text --> 
+      </div> <!-- /col-md-8 --> 
+      <div class="col-md-4 col-md-pull-8 less-padding-left no-print"> 
+       <div class="row"> 
+        <div class="col-xs-6 col-md-12"> 
+         <ul class="nav topics"> 
+          <li class="nav-header"> <a href="#">RELATED TOPICS</a> 
+           <ul id="related_topics" class="nav subnav"> 
+            <li> <a href="/news/matter_energy/">Matter &amp; Energy</a> 
+             <ul class="nav nav-condensed fa-ul"> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/matter_energy/spintronics/" rel="tag">Spintronics</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/matter_energy/quantum_physics/" rel="tag">Quantum Physics</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/matter_energy/physics/" rel="tag">Physics</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/matter_energy/quantum_computing/" rel="tag">Quantum Computing</a> </li> 
+             </ul> </li> 
+            <li> <a href="/news/computers_math/">Computers &amp; Math</a> 
+             <ul class="nav nav-condensed fa-ul"> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/computers_math/quantum_computers/" rel="tag">Quantum Computers</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/computers_math/spintronics/" rel="tag">Spintronics Research</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/computers_math/computers_and_internet/" rel="tag">Computers and Internet</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/computers_math/encryption/" rel="tag">Encryption</a> </li> 
+             </ul> </li> 
+           </ul> </li> 
+         </ul> 
+        </div> 
+        <div class="col-xs-6 col-md-12"> 
+         <ul class="nav topics"> 
+          <li class="nav-header"> <a href="#">RELATED TERMS</a> 
+           <ul id="related_terms" class="nav nav-condensed fa-ul"> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/quantum_number.htm">Quantum number</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/quantum_entanglement.htm">Quantum entanglement</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/quantum_computer.htm">Quantum computer</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/quantum_dot.htm">Quantum dot</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/quantum_tunnelling.htm">Quantum tunnelling</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/physics.htm">Physics</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/wave-particle_duality.htm">Wave-particle duality</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/linus_pauling.htm">Linus Pauling</a> </li> 
+           </ul> </li> 
+         </ul> 
+        </div> <!-- /col-xs-6 --> 
+       </div> <!-- /row --> 
+      </div> <!-- /col-md-4 --> 
+     </div> <!-- /row --> 
+     <div id="insertion_end"></div> 
+     <hr> 
+     <div id="story_source"> 
+      <p><strong>Story Source:</strong></p> 
+      <p><a href="https://engineering.princeton.edu/news/2023/08/30/simpler-way-connect-quantum-computers" style="text-decoration: underline" rel="noopener noreferrer" target="_blank">Materials</a> provided by <a href="https://engineering.princeton.edu" rel="noopener noreferrer" target="_blank"><strong>Princeton University, Engineering School</strong></a>. Original written by Scott Lyon. <em>Note: Content may be edited for style and length.</em></p> 
+     </div> <!-- /story_source --> 
+     <hr> <!-- /related_multimedia --> 
+     <div id="journal_references">
+      <p><strong>Journal Reference</strong>:</p> 
+      <ol class="journal"> 
+       <li>Salim Ourari, Łukasz Dusanowski, Sebastian P. Horvath, Mehmet T. Uysal, Christopher M. Phenicie, Paul Stevenson, Mouktik Raha, Songtao Chen, Robert J. Cava, Nathalie P. de Leon, Jeff D. Thompson. <strong>Indistinguishable telecom band photons from a single Er ion in the solid state</strong>. <em>Nature</em>, 2023; 620 (7976): 977 DOI: <a href="http://dx.doi.org/10.1038/s41586-023-06281-4" style="text-decoration: underline" rel="noopener noreferrer" target="_blank">10.1038/s41586-023-06281-4</a> </li> 
+      </ol> 
+      <hr> 
+     </div> <!-- /journal_references --> 
+     <div id="citations"> 
+      <div role="tabpanel" class="right-tabs clearfix"> 
+       <p class="pull-left"><strong>Cite This Page</strong>:</p> <!-- Nav tabs --> 
+       <ul class="nav nav-tabs" role="tablist"> 
+        <li role="presentation" class="active"><a href="#citation_mla" aria-controls="citation_mla" role="tab" data-toggle="tab">MLA</a></li> 
+        <li role="presentation"><a href="#citation_apa" aria-controls="citation_apa" role="tab" data-toggle="tab">APA</a></li> 
+        <li role="presentation"><a href="#citation_chicago" aria-controls="citation_chicago" role="tab" data-toggle="tab">Chicago</a></li> 
+       </ul> <!-- Tab panes -->
+       <div class="tab-content tab-citations"> 
+        <div role="tabpanel" class="tab-pane active" id="citation_mla">
+         Princeton University, Engineering School. "A simpler way to connect quantum computers." ScienceDaily. ScienceDaily, 30 August 2023. &lt;www.sciencedaily.com
+         <wbr>/
+         <wbr>releases
+         <wbr>/
+         <wbr>2023
+         <wbr>/
+         <wbr>08
+         <wbr>/
+         <wbr>230830131937.htm&gt;.
+        </div> 
+        <div role="tabpanel" class="tab-pane" id="citation_apa">
+         Princeton University, Engineering School. (2023, August 30). A simpler way to connect quantum computers. <em>ScienceDaily</em>. Retrieved February 19, 2024 from www.sciencedaily.com
+         <wbr>/
+         <wbr>releases
+         <wbr>/
+         <wbr>2023
+         <wbr>/
+         <wbr>08
+         <wbr>/
+         <wbr>230830131937.htm
+        </div> 
+        <div role="tabpanel" class="tab-pane" id="citation_chicago">
+         Princeton University, Engineering School. "A simpler way to connect quantum computers." ScienceDaily. www.sciencedaily.com
+         <wbr>/
+         <wbr>releases
+         <wbr>/
+         <wbr>2023
+         <wbr>/
+         <wbr>08
+         <wbr>/
+         <wbr>230830131937.htm (accessed February 19, 2024).
+        </div> 
+       </div> 
+      </div> 
+      <div class="clearfix"></div> 
+     </div> <!-- end citations --> 
+     <div class="clearfix"></div> 
+     <br>
+     <div class="head"> 
+      <div id="exploremore_heading" class="pull-left head-left">
+       Explore More
+      </div> 
+      <div class="pull-right head-right">
+       from ScienceDaily
+      </div> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="head-rule"> 
+     <div class="fullstory">
+      RELATED STORIES
+     </div> 
+     <hr class="hr-fullstory"> 
+     <div id="related_releases"> 
+      <div class="related-headline clearfix">
+       <a href="/releases/2023/11/231102135122.htm">Optical-Fiber Based Single-Photon Light Source at Room Temperature for Next-Generation Quantum Processing</a>
+      </div> 
+      <div class="related-summary"> <span class="story-date">Nov. 2, 2023 —</span> Single-photon emitters quantum mechanically connect quantum bits (or qubits) between nodes in quantum networks. They are typically made by embedding rare-earth elements in optical fibers at extremely ... 
+      </div> 
+      <div class="related-headline clearfix">
+       <a href="/releases/2023/05/230523123655.htm">Boost for the Quantum Internet</a>
+      </div> 
+      <div class="related-summary"> <span class="story-date">May 23, 2023 —</span> A quarter of a century ago, theoretical physicists proposed a way to transmit quantum information via quantum repeaters over long distances which would open the door to the construction of a ... 
+      </div> 
+      <div class="related-headline clearfix">
+       <a href="/releases/2022/03/220322111258.htm">Qubits: Developing Long-Distance Quantum Telecommunications Networks</a>
+      </div> 
+      <div class="related-summary"> <span class="story-date">Mar. 22, 2022 —</span> Computers, smartphones, GPS: quantum physics has enabled many technological advances. It is now opening up new fields of research in cryptography (the art of coding messages) with the aim of ... 
+      </div> 
+      <div class="related-headline clearfix">
+       <a href="/releases/2021/03/210324135438.htm">Optical Fiber Could Boost Power of Superconducting Quantum Computers</a>
+      </div> 
+      <div class="related-summary"> <span class="story-date">Mar. 24, 2021 —</span> The secret to building superconducting quantum computers with massive processing power may be an ordinary telecommunications technology - optical fiber. Physicists have measured and controlled a ... 
+      </div> 
+     </div> 
+    </div> <!-- /Main --> <!-- Sidebar --> 
+    <div class="col-sm-4 less-padding-left sidebar no-print"> 
+     <div class="pull-right btn-group btn-group-sm tools-top hidden-tiny hidden-xs" role="group" aria-label="..."> <a href="#" class="btn btn-default print black"><i class="fa fa-print"></i> &nbsp; <span class="hidden-sm">Print</span></a> <a href="#" class="btn btn-default email black"><i class="fa fa-envelope"></i> &nbsp; <span class="hidden-sm">Email</span></a> <a href="#" class="btn btn-default black" data-toggle="modal" data-target="#shareModal"><i class="fa fa-share"></i> &nbsp; <span class="hidden-sm">Share</span></a> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="hr-tools-top"> 
+     <div class="head"> 
+      <div id="breaking_heading" class="pull-left head-left">
+       <a href="/breaking/" class="breaking-head">Breaking</a>
+      </div> 
+      <div class="pull-right head-right">
+       this hour
+      </div> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="head-rule"> 
+     <ul id="justin_headlines" class="list-unstyled breaking-list"> 
+      <li><a href="/releases/2024/02/240216135841.htm">From CO2 to Biodegradable Plastics, Efficiently</a></li> 
+      <li><a href="/releases/2024/02/240216135835.htm">Oldest Fossil Reptile from Alps Is Forgery</a></li> 
+      <li><a href="/releases/2024/02/240212144634.htm">Salt Substitutes for Blood Pressure Control</a></li> 
+      <li><a href="/releases/2024/02/240215142301.htm">Icy Dwarf Planets With Geothermal Activity</a></li> 
+      <li><a href="/releases/2024/02/240215142140.htm">Reforestation Threatens Vast Tropical Grasslands</a></li> 
+      <li><a href="/releases/2024/02/240215142138.htm">New Direction for Sustainable Batteries</a></li> 
+      <li><a href="/releases/2024/02/240214122551.htm">A 'Quantum Leap' at Room Temperature</a></li> 
+      <li><a href="/releases/2024/02/240215113629.htm">Gravastar Inside Another Gravastar?</a></li> 
+      <li><a href="/releases/2024/02/240215113554.htm">Root Microbes: Secret to a Tastier Cup of Tea</a></li> 
+      <li><a href="/releases/2024/02/240215113551.htm">Ancient Retroviruses and Our Big Brains</a></li> 
+     </ul> 
+     <div class="head extra-top-margin"> 
+      <div id="most_popular_heading" class="pull-left head-left">
+       Trending Topics
+      </div> 
+      <div class="pull-right head-right">
+       this week
+      </div> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="head-rule"> 
+     <div id="most_popular_section1_head" class="side-subhead">
+      <a href="/news/space_time/" class="gray">SPACE &amp; TIME</a> 
+     </div> 
+     <div id="most_popular_section1"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/space_time/nasa/">NASA</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/space_time/space_missions/">Space Missions</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/space_time/black_holes/">Black Holes</a>
+      </div> 
+     </div> 
+     <div id="most_popular_section2_head" class="side-subhead">
+      <a href="/news/matter_energy/" class="gray">MATTER &amp; ENERGY</a> 
+     </div> 
+     <div id="most_popular_section2"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/matter_energy/quantum_physics/">Quantum Physics</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/matter_energy/thermodynamics/">Thermodynamics</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/matter_energy/weapons_technology/">Weapons Technology</a>
+      </div> 
+     </div> 
+     <div id="most_popular_section3_head" class="side-subhead">
+      <a href="/news/computers_math/" class="gray">COMPUTERS &amp; MATH</a> 
+     </div> 
+     <div id="most_popular_section3"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/computers_math/artificial_intelligence/">Artificial Intelligence</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/computers_math/computers_and_internet/">Computers and Internet</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/computers_math/internet/">Internet</a>
+      </div> 
+     </div> 
+     <div class="halfpage double-extra-top-margin"> 
+     </div> 
+     <div class="head extra-top-margin"> 
+      <div id="strange_offbeat_heading" class="pull-left head-left">
+       Strange &amp; Offbeat
+      </div> 
+      <div class="pull-right head-right">
+       &nbsp;
+      </div> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="head-rule"> 
+     <div id="strange_offbeat_section1_head" class="side-subhead">
+      <a href="/news/strange_offbeat/space_time/" class="gray">SPACE &amp; TIME</a> 
+     </div> 
+     <div id="strange_offbeat_section1"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240215142301.htm">Evidence of Geothermal Activity Within Icy Dwarf Planets</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240215113656.htm">Diverse Ancient Volcanoes on Mars Discovered by Planetary Scientist May Hold Clues to Pre-Plate Tectonic Activity on Earth</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240215113629.htm">A Star Like a Matryoshka Doll: New Theory for Gravastars</a>
+      </div> 
+     </div> 
+     <div id="strange_offbeat_section2_head" class="side-subhead">
+      <a href="/news/strange_offbeat/matter_energy/" class="gray">MATTER &amp; ENERGY</a> 
+     </div> 
+     <div id="strange_offbeat_section2"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240215142133.htm">First-Ever Atomic Freeze-Frame of Liquid Water</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240214122551.htm">A 'Quantum Leap' at Room Temperature</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240213130458.htm">Greetings from the Island of Enhanced Stability: The Quest for the Limit of the Periodic Table</a>
+      </div> 
+     </div> 
+     <div id="strange_offbeat_section3_head" class="side-subhead">
+      <a href="/news/strange_offbeat/computers_math/" class="gray">COMPUTERS &amp; MATH</a> 
+     </div> 
+     <div id="strange_offbeat_section3"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240215142306.htm">1,000 Atomic Qubits and Rising</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240212153511.htm">How Ancient Sea Creatures Can Inform Soft Robotics</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240209134402.htm">Researchers Show Classical Computers Can Keep Up With, and Surpass, Their Quantum Counterparts</a>
+      </div> 
+     </div> 
+    </div> <!-- /Sidebar --> 
+   </div> <!-- /Row --> 
+   <br> 
+  </div> <!-- /Container --> 
+  <div id="navwrapper"> 
+   <div id="topnav"> <!-- Static navbar --> 
+    <nav class="navbar yamm navbar-default navbar-static navbar-custom">
+     <div class="container"> 
+      <div class="navbar-header"> <button type="button" class="navbar-toggle collapsed menu" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span>Menu &nbsp;<i class="fa fa-bars"></i></span> </button> <a class="navbar-brand visible-xs" href="#"><span class="icon-s">S<span class="icon-d">D</span></span></a> 
+       <ul class="nav navbar-nav hidden-xs"> 
+        <li class="dropdown"> <a href="#" class="navbar-brand dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="icon-s">S<span class="icon-d">D</span></span></a> 
+         <ul class="dropdown-menu brand" role="menu"> 
+          <li><a href="/" role="menuitem">Home Page</a></li> 
+          <li class="divider"> </li> 
+          <li><a href="/news/top/science/" role="menuitem">Top Science News</a></li> 
+          <li class="divider"> </li> 
+          <li><a href="/news/" role="menuitem">Latest News</a></li> 
+         </ul> </li> 
+       </ul> 
+      </div> 
+      <div id="navbar" class="navbar-collapse collapse"> 
+       <ul class="nav navbar-nav"> 
+        <li class="dropdown visible-xs"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Home <span class="caret"></span></a> 
+         <ul class="dropdown-menu" role="menu"> 
+          <li><a href="/" role="menuitem">Home Page</a></li> 
+          <li class="divider"> </li> 
+          <li><a href="/news/top/science/" role="menuitem">Top Science News</a></li> 
+          <li class="divider"> </li> 
+          <li><a href="/news/" role="menuitem">Latest News</a></li> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Health <span class="caret"></span></a> 
+         <ul class="dropdown-menu dropdown-menu-left" role="menu"> 
+          <li class="menu-item"> 
+           <div class="yamm-content hyphenate"> 
+            <div>
+             View all the latest <strong><a href="/news/top/health/">top news</a></strong> in the health sciences, <span class="hidden-xs hidden-sm"><br></span>or browse the topics below:
+            </div> 
+            <div class="row"> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/health_medicine/">Health &amp; Medicine</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/health_medicine/allergy/" role="menuitem">Allergy</a></li> 
+               <li><a href="/news/health_medicine/cancer/" role="menuitem">Cancer</a></li> 
+               <li><a href="/news/health_medicine/cold_and_flu/" role="menuitem">Cold and Flu</a></li> 
+               <li><a href="/news/health_medicine/diabetes/" role="menuitem">Diabetes</a></li> 
+               <li><a href="/news/health_medicine/heart_disease/" role="menuitem">Heart Disease</a></li> 
+               <li><a href="/news/health_medicine/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/mind_brain/" role="menuitem">Mind &amp; Brain</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/mind_brain/add_and_adhd/" role="menuitem">ADD and ADHD</a></li> 
+               <li><a href="/news/mind_brain/alzheimer's/" role="menuitem">Alzheimer's</a></li> 
+               <li><a href="/news/mind_brain/headaches/" role="menuitem">Headaches</a></li> 
+               <li><a href="/news/mind_brain/intelligence/" role="menuitem">Intelligence</a></li> 
+               <li><a href="/news/mind_brain/psychology/" role="menuitem">Psychology</a></li> 
+               <li><a href="/news/mind_brain/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/living_well/" role="menuitem">Living Well</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/mind_brain/parenting/" role="menuitem">Parenting</a></li> 
+               <li><a href="/news/mind_brain/child_development/" role="menuitem">Child Development</a></li> 
+               <li><a href="/news/mind_brain/stress/" role="menuitem">Stress</a></li> 
+               <li><a href="/news/health_medicine/nutrition/" role="menuitem">Nutrition</a></li> 
+               <li><a href="/news/health_medicine/fitness/" role="menuitem">Fitness</a></li> 
+               <li><a href="/news/living_well/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+            </div> <!-- /row --> 
+           </div> <!-- /yamm-content --> </li> <!-- /menu-item --> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Tech <span class="caret"></span></a> 
+         <ul class="dropdown-menu dropdown-menu-left" role="menu"> 
+          <li class="menu-item"> 
+           <div class="yamm-content hyphenate"> 
+            <div>
+             View all the latest <strong><a href="/news/top/technology/">top news</a></strong> in the physical sciences &amp; technology, <span class="hidden-xs hidden-sm"><br></span>or browse the topics below:
+            </div> 
+            <div class="row"> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/matter_energy/" role="menuitem">Matter &amp; Energy</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/matter_energy/chemistry/" role="menuitem">Chemistry</a></li> 
+               <li><a href="/news/matter_energy/fossil_fuels/" role="menuitem">Fossil Fuels</a></li> 
+               <li><a href="/news/matter_energy/nanotechnology/" role="menuitem">Nanotechnology</a></li> 
+               <li><a href="/news/matter_energy/physics/" role="menuitem">Physics</a></li> 
+               <li><a href="/news/matter_energy/solar_energy/" role="menuitem">Solar Energy</a></li> 
+               <li><a href="/news/matter_energy/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/space_time/" role="menuitem">Space &amp; Time</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/space_time/black_holes/" role="menuitem">Black Holes</a></li> 
+               <li><a href="/news/space_time/dark_matter/" role="menuitem">Dark Matter</a></li> 
+               <li><a href="/news/space_time/extrasolar_planets/" role="menuitem">Extrasolar Planets</a></li> 
+               <li><a href="/news/space_time/solar_system/" role="menuitem">Solar System</a></li> 
+               <li><a href="/news/space_time/space_telescopes/" role="menuitem">Space Telescopes</a></li> 
+               <li><a href="/news/space_time/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/computers_math/" role="menuitem">Computers &amp; Math</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/computers_math/artificial_intelligence/" role="menuitem">Artificial Intelligence</a></li> 
+               <li><a href="/news/computers_math/mathematics/" role="menuitem">Mathematics</a></li> 
+               <li><a href="/news/computers_math/quantum_computers/" role="menuitem">Quantum Computers</a></li> 
+               <li><a href="/news/computers_math/robotics/" role="menuitem">Robotics</a></li> 
+               <li><a href="/news/computers_math/virtual_reality/" role="menuitem">Virtual Reality</a></li> 
+               <li><a href="/news/computers_math/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+            </div> <!-- /row --> 
+           </div> <!-- /yamm-content --> </li> <!-- /menu-item --> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Enviro <span class="caret"></span></a> 
+         <ul class="dropdown-menu dropdown-menu-left" role="menu"> 
+          <li class="menu-item"> 
+           <div class="yamm-content hyphenate"> 
+            <div>
+             View all the latest <strong><a href="/news/top/environment/">top news</a></strong> in the environmental sciences, <span class="hidden-xs hidden-sm"><br></span>or browse the topics below:
+            </div> 
+            <div class="row"> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/plants_animals/" role="menuitem">Plants &amp; Animals</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/plants_animals/agriculture_and_food/" role="menuitem">Agriculture and Food</a></li> 
+               <li><a href="/news/plants_animals/biology/" role="menuitem">Biology</a></li> 
+               <li><a href="/news/plants_animals/biotechnology/" role="menuitem">Biotechnology</a></li> 
+               <li><a href="/news/plants_animals/extinction/" role="menuitem">Extinction</a></li> 
+               <li><a href="/news/plants_animals/microbes_and_more/" role="menuitem">Microbes and More</a></li> 
+               <li><a href="/news/plants_animals/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/earth_climate/" role="menuitem">Earth &amp; Climate</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/earth_climate/climate/" role="menuitem">Climate</a></li> 
+               <li><a href="/news/earth_climate/earthquakes/" role="menuitem">Earthquakes</a></li> 
+               <li><a href="/news/earth_climate/geology/" role="menuitem">Geology</a></li> 
+               <li><a href="/news/earth_climate/global_warming/" role="menuitem">Global Warming</a></li> 
+               <li><a href="/news/earth_climate/pollution/" role="menuitem">Pollution</a></li> 
+               <li><a href="/news/earth_climate/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/fossils_ruins/" role="menuitem">Fossils &amp; Ruins</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/fossils_ruins/anthropology/" role="menuitem">Anthropology</a></li> 
+               <li><a href="/news/fossils_ruins/archaeology/" role="menuitem">Archaeology</a></li> 
+               <li><a href="/news/fossils_ruins/dinosaurs/" role="menuitem">Dinosaurs</a></li> 
+               <li><a href="/news/fossils_ruins/evolution/" role="menuitem">Evolution</a></li> 
+               <li><a href="/news/fossils_ruins/paleontology/" role="menuitem">Paleontology</a></li> 
+               <li><a href="/news/fossils_ruins/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+            </div> <!-- /row --> 
+           </div> <!-- /yamm-content --> </li> <!-- /menu-item --> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Society <span class="caret"></span></a> 
+         <ul class="dropdown-menu dropdown-menu-left" role="menu"> 
+          <li class="menu-item"> 
+           <div class="yamm-content hyphenate"> 
+            <div>
+             View all the latest <strong><a href="/news/top/society/">top news</a></strong> in the social sciences &amp; education, <span class="hidden-xs hidden-sm"><br></span>or browse the topics below:
+            </div> 
+            <div class="row"> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/science_society/" role="menuitem">Science &amp; Society</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/science_society/arts_and_culture/" role="menuitem">Arts &amp; Culture</a></li> 
+               <li><a href="/news/science_society/economics/" role="menuitem">Economics</a></li> 
+               <li><a href="/news/science_society/privacy_issues/" role="menuitem">Privacy Issues</a></li> 
+               <li><a href="/news/science_society/public_health/" role="menuitem">Public Health</a></li> 
+               <li><a href="/news/science_society/sports/" role="menuitem">Sports</a></li> 
+               <li><a href="/news/science_society/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/business_industry/" role="menuitem">Business &amp; Industry</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/computers_math/computers_and_internet/" role="menuitem">Computers &amp; Internet</a></li> 
+               <li><a href="/news/matter_energy/energy_and_resources/" role="menuitem">Energy &amp; Resources</a></li> 
+               <li><a href="/news/matter_energy/engineering/" role="menuitem">Engineering</a></li> 
+               <li><a href="/news/matter_energy/medical_technology/" role="menuitem">Medical Technology</a></li> 
+               <li><a href="/news/matter_energy/automotive_and_transportation/" role="menuitem">Transportation</a></li> 
+               <li><a href="/news/business_industry/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/education_learning/" role="menuitem">Education &amp; Learning</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/mind_brain/creativity/" role="menuitem">Creativity</a></li> 
+               <li><a href="/news/mind_brain/educational_psychology/" role="menuitem">Educational Psychology</a></li> 
+               <li><a href="/news/mind_brain/infant_and_preschool_learning/" role="menuitem">Infant &amp; Preschool</a></li> 
+               <li><a href="/news/mind_brain/learning_disorders/" role="menuitem">Learning Disorders</a></li> 
+               <li><a href="/news/science_society/stem_education/" role="menuitem">STEM Education</a></li> 
+               <li><a href="/news/education_learning/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+            </div> <!-- /row --> 
+           </div> <!-- /yamm-content --> </li> <!-- /menu-item --> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Quirky <span class="caret"></span></a> 
+         <ul class="dropdown-menu" role="menu"> 
+          <li><a href="/news/strange_offbeat/" role="menuitem">Top News</a></li> 
+          <li class="divider"> </li> 
+          <li><a href="/news/strange_offbeat/human_quirks/" role="menuitem">Human Quirks</a></li> 
+          <li><a href="/news/strange_offbeat/odd_creatures/" role="menuitem">Odd Creatures</a></li> 
+          <li><a href="/news/strange_offbeat/bizarre_things/" role="menuitem">Bizarre Things</a></li> 
+          <li><a href="/news/strange_offbeat/weird_world/" role="menuitem">Weird World</a></li> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+       </ul> 
+       <form action="/search/" method="get" class="navbar-form navbar-right" role="search"> 
+        <div class="form-group search"> 
+         <div class="input-group"> <label id="keywordlabel" for="keyword" class="display-none">Keyword:</label>
+          <input type="text" id="keyword" name="keyword" aria-labelledby="keywordlabel" title="Enter keyword to search" class="form-control hidden-xs" placeholder="Search"><span class="input-group-btn"><button class="btn btn-default" type="submit" aria-label="search"><i class="fa fa-search"><span class="display-none">Search</span></i></button></span> 
+         </div> 
+        </div> 
+       </form> 
+      </div> <!--/.nav-collapse --> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> <!-- /navwrapper --> 
+  <footer>
+   <div class="container light-gray"> 
+    <div class="row footer-links"> 
+     <div class="col-sm-12 col-md-4"> 
+      <div class="footer-head">
+       Free Subscriptions
+      </div> 
+      <hr class="footer-rule"> 
+      <p>Stay informed with ScienceDaily's free email newsletter, updated daily and weekly. Or view our many newsfeeds in your RSS reader:</p> 
+      <ul class="list-unstyled footer-list"> 
+       <li> <i class="fa fa-envelope fa-fw"></i> <a href="https://sciencedaily.substack.com">Email Newsletter</a> </li> 
+       <li> <i class="fa fa-rss fa-fw"></i> <a href="/newsfeeds.htm">RSS Feeds</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col-sm-12 col-md-4"> 
+      <div class="footer-head">
+       Follow Us
+      </div> 
+      <hr class="footer-rule"> 
+      <p>Keep up to date with the latest news from ScienceDaily via social networks:</p> 
+      <ul class="list-unstyled footer-list"> 
+       <li> <i class="fa fa-facebook fa-fw"></i> <a href="https://www.facebook.com/sciencedaily">Facebook</a> </li> 
+       <li> <i class="fa fa-twitter fa-fw"></i> <a href="https://twitter.com/sciencedaily">X / Twitter</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col-sm-12 col-md-4"> 
+      <div class="footer-head">
+       Have Feedback?
+      </div> 
+      <hr class="footer-rule"> 
+      <p>Tell us what you think of ScienceDaily -- we welcome both positive and negative comments. Have any problems using the site? Questions?</p> 
+      <ul class="list-unstyled footer-list"> 
+       <li> <i class="fa fa-comment fa-fw"></i> <a href="#" class="feedback">Leave Feedback</a> </li> 
+       <li> <i class="fa fa-phone fa-fw"></i> <a href="/contact.htm">Contact Us</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="container dark-gray"> 
+    <div class="bottom-links"> <a href="/about.htm">About This Site</a> &nbsp;|&nbsp; <a href="/staff.htm">Staff</a> &nbsp;|&nbsp; <a href="/contribute.htm">Contribute</a> &nbsp;|&nbsp; <a href="/advertise.htm">Advertise</a> &nbsp;|&nbsp; <a href="/privacy.htm">Privacy Policy</a> &nbsp;|&nbsp; <a href="/editorial.htm">Editorial Policy</a> &nbsp;|&nbsp; <a href="/terms.htm">Terms of Use</a> 
+    </div> 
+    <div id="bottom_text"> <a href="/copyright.htm">Copyright 1995-2024 ScienceDaily</a> or by other parties, where indicated. All rights controlled by their respective owners. Content on this website is for information only. It is not intended to provide medical or other professional advice. Views expressed here do not necessarily reflect those of ScienceDaily, contributors or partners. Financial support for ScienceDaily comes from advertisements and referral programs.
+    </div> 
+   </div> 
+  </footer><!-- Bootstrap core JavaScript
+	================================================== --><!-- Placed at the end of the document so the pages load faster -->  <!-- Page successfully generated: February 19, 2024 10:18:59 am -->
+ </body>
+</html>
