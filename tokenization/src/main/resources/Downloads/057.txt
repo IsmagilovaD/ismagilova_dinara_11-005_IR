@@ -1,0 +1,694 @@
+<!doctype html>
+<html lang="en"> 
+ <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1"> 
+  <title>Sensing and controlling microscopic spin density in materials | ScienceDaily</title> 
+  <meta name="description" content="Researchers found a way to tune the spin density in diamond by applying an external laser or microwave beam. The finding could open new possibilities for advanced quantum devices." id="metasummary"> 
+  <meta name="keywords" content="Spintronics; Physics; Quantum Computing; Quantum Physics; Spintronics Research; Quantum Computers; Computers and Internet; Encryption" id="metakeywords"> 
+  <meta name="last-modified" content="Mon, 19 Feb 2024 15:02:01 GMT"> 
+  <meta name="expires" content="Mon, 19 Feb 2024 16:02:01 GMT"> 
+  <meta property="og:title" id="og_title" content="Sensing and controlling microscopic spin density in materials"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" id="og_url" content="https://www.sciencedaily.com/releases/2023/08/230803112955.htm"> 
+  <meta property="og:image" content="https://www.sciencedaily.com/images/scidaily-icon.png"> 
+  <meta property="og:description" id="og_description" content="Researchers found a way to tune the spin density in diamond by applying an external laser or microwave beam. The finding could open new possibilities for advanced quantum devices."> 
+  <meta property="og:site_name" content="ScienceDaily">   <!-- Bootstrap core CSS --> <!-- Font Awesome CSS --> <!-- YAMM!3 CSS --> <!-- Social Share Kit CSS --> <!-- Custom styles for this template --> <!-- Google tag (gtag.js) --> 
+ </head> 
+ <body> 
+  <header>
+   <!-- Container -->
+   <div class="container white"> <!-- Row --> 
+    <div class="row header"> 
+     <div class="col-sm-5 col-md-4 no-padding-right"> 
+      <div class="logo"> <a href="/" title="ScienceDaily"></a> 
+       <hr class="hr-logo"> 
+       <div class="clearfix"></div> 
+       <div class="motto">
+        Your source for the latest research news
+       </div> 
+      </div> 
+     </div> 
+     <div class="col-sm-7 col-md-8 no-padding-left hidden-xs"> 
+      <div class="sharing"> 
+       <div id="controls" class="btn-group" role="group" aria-label="..."> <a href="#" class="btn btn-default topbar hidden-xs">Follow:</a> <a href="https://www.facebook.com/sciencedaily" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="Facebook" aria-label="Facebook Page"><i class="fa fa-facebook fa-fw"><span class="display-none">Facebook</span></i></a> <a href="https://twitter.com/sciencedaily" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="X/Twitter" aria-label="X/Twitter Page"><i class="fa fa-twitter fa-fw"><span class="display-none">X/Twitter</span></i></a> <a href="#" class="btn btn-default topbar hidden-xs">Subscribe:</a> <a href="/newsfeeds.htm" class="btn btn-default hidden-tiny" data-toggle="tooltip" data-placement="bottom" title="RSS Feeds" aria-label="RSS Feeds"><i class="fa fa-rss fa-fw"><span class="display-none">RSS Feeds</span></i></a> <a href="https://sciencedaily.substack.com" class="btn btn-default" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Newsletter" aria-label="Newsletter"><i class="fa fa-envelope-o fa-fw"><span style="display: none">Newsletter</span></i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="callout"> <strong>New!</strong> Sign up for our free <strong><a href="https://sciencedaily.substack.com/#" target="_blank">email newsletter</a></strong>.
+    </div> 
+   </div> <!-- /container --> 
+  </header>
+  <div id="contents" class="container white"> 
+   <div class="row"> <!-- Main --> 
+    <div class="col-sm-8 main less-padding-right hyphenate"> <!-- Top Science News --> 
+     <div class="head no-print"> 
+      <div class="pull-left head-left">
+       Science News
+      </div> 
+      <div class="pull-right head-right">
+       from research organizations
+      </div> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="head-rule no-print"> 
+     <h1 id="headline" class="headline">Sensing and controlling microscopic spin density in materials</h1> 
+     <h2 id="subtitle" class="subtitle">By fine-tuning the spin density in some materials, researchers may be able to develop new quantum sensors or quantum simulations.</h2> 
+     <dl class="dl-horizontal dl-custom"> 
+      <dt>
+       Date:
+      </dt> 
+      <dd id="date_posted">
+       August 3, 2023
+      </dd> 
+      <dt>
+       Source:
+      </dt> 
+      <dd id="source">
+       Massachusetts Institute of Technology
+      </dd> 
+      <dt>
+       Summary:
+      </dt> 
+      <dd id="abstract">
+       Researchers found a way to tune the spin density in diamond by applying an external laser or microwave beam. The finding could open new possibilities for advanced quantum devices. 
+      </dd> 
+      <dt class="no-print">
+       Share:
+      </dt> 
+      <dd class="no-print"> 
+       <div id="share_top"> 
+        <div data-url="https://www.sciencedaily.com/releases/2023/08/230803112955.htm" class="ssk-sm ssk-group"> <a href="#" class="ssk ssk-icon ssk-facebook" aria-label="Facebook"><span class="display-none">Facebook</span></a> <a href="#" class="ssk ssk-icon ssk-twitter" aria-label="Twitter"><span class="display-none">Twitter</span></a> <a href="#" class="ssk ssk-icon ssk-pinterest" aria-label="Pinterest"><span class="display-none">Pinterest</span></a> <a href="#" class="ssk ssk-icon ssk-linkedin" aria-label="LinkedIN"><span class="display-none">LinkedIN</span></a> <a href="#" class="ssk ssk-icon ssk-email" aria-label="Email"><span class="display-none">Email</span></a> 
+        </div> 
+       </div> 
+      </dd> 
+     </dl> 
+     <div class="mobile-top-rectangle"> 
+     </div> 
+     <div class="row"> 
+      <div class="col-md-8 col-md-push-4"> 
+       <div class="fullstory">
+        FULL STORY
+       </div> 
+       <hr class="hr-fullstory"> <!-- /story_photo --> 
+       <div class="clearfix"></div> 
+       <div id="story_text" class="hyphenate underline"> 
+        <p id="first" class="lead">Electronic devices typically use the charge of electrons, but spin -- their other degree of freedom -- is starting to be exploited. Spin defects make crystalline materials highly useful for quantum-based devices such as ultrasensitive quantum sensors, quantum memory devices, or systems for simulating the physics of quantum effects. Varying the spin density in semiconductors can lead to new properties in a material -- something researchers have long wanted to explore -- but this density is usually fleeting and elusive, thus hard to measure and control locally.</p> 
+        <div id="text"> 
+         <p>Now, a team of researchers at MIT and elsewhere has found a way to tune the spin density in diamond, changing it by a factor of two, by applying an external laser or microwave beam. The finding, reported this week in the journal <em>PNAS</em>, could open up many new possibilities for advanced quantum devices, the authors say. The paper is a collaboration between current and former students of professors Paola Cappellaro and Ju Li at MIT, and collaborators at Politecnico of Milano. The first author of the paper, Guoqing Wang PhD '23, worked on his PhD thesis in Cappellaro's lab and is now a postdoc at MIT.</p> 
+         <p>A specific type of spin defect known as a nitrogen vacancy (NV) center in diamond is one of the most widely studied systems for its potential use in a wide variety of quantum applications. The spin of NV centers is sensitive to any physical, electrical, or optical disturbance, making them potentially highly sensitive detectors. "Solid-state spin defects are one of the most promising quantum platforms," Wang says, partly because they can work under ambient, room-temperature conditions. Many other quantum systems require ultracold or other specialized environments.</p> 
+         <p>"The nanoscale sensing capabilities of NV centers makes them promising for probing the dynamics in their spin environment, manifesting rich quantum many body physics yet to be understood," Wang adds. "A major spin defect in the environment, called P1 center, can usually be 10 to 100 times more populous than the NV center and thus can have stronger interactions, making them ideal for studying many-body physics."</p> 
+         <p>But to tune their interactions, scientists need to be able to change the spin density, something that had previously seldom been achieved. With this new approach, Wang says, "We can tune the spin density so it provides a potential knob to actually tune such a system. That's the key novelty of our work."</p> 
+         <p>Such a tunable system could provide more flexible ways of studying the quantum hydrodynamics, Wang says. More immediately, the new process can be applied to some existing nanoscale quantum-sensing devices as a way to improve their sensitivity.</p> 
+         <p>Li, who holds a joint appointment in MIT's departments of Nuclear Science and Engineering and Materials Science and Engineering, explains that today's computers and information processing systems are all based on the control and detection of electrical charges, but some innovative devices are beginning to make use of the property called spin. The semiconductor company Intel, for example, has been experimenting with new kinds of transistors that couple spin and charge, potentially opening a path to devices based on spintronics.</p> 
+         <div id="insertion_middle"></div> 
+         <p>"Traditional CMOS transistors use a lot of energy," Li says, "but if you use spin, as in this Intel design, then you can reduce the energy consumption by a lot." The company has also developed solid-state spin qubit devices for quantum computing, and "spin is something people want to control in solids because it's more energy efficient, and it's also a carrier of quantum information."</p> 
+         <p>In the study by Li and his colleagues, the newly achieved level of control over spin density allows each NV center to act like a kind of atomic-scale "radar" that can both sense and control the nearby spins. "We basically use a particular NV defect to sense the surrounding electronic and nuclear spins. This quantum sensor reveals the nearby spin environment and how that's affected dynamically by the charge flow, which in this case is pumped up by the laser," Li says.</p> 
+         <p>This system makes it possible to dynamically change the spin concentration by a factor of two, he says. This could ultimately lead to devices where a single point defect or a single atom could be the basic computational unit. "In the long run, a single point defect, and the localized spin and the localized charge on that single point defect, can be a computing logic. It can be a qubit, it can be a memory, it can be a sensor," he says.</p> 
+         <p>He adds that much work remains to develop this newly found phenomenon. "We're not exactly there yet," he says, but what they have demonstrated so far shows that they have "really pushed down the measurement and control of the spin and charge state of point defects to an unprecedented level. So, in the long run, I think this would support using individual defect, or a small number of defects, to become the information processing and sensing devices."</p> 
+         <p>In this work so far, Wang says, "we find this phenomenon and we demonstrate it," but further work is needed to fully understand the physical mechanism of what is taking place in these systems. "Our next step is to dig more deeply into the physics, so we would like to know better what's the underlying physical mechanism" behind the effects they see. In the long term, "with better understanding of these systems, we hope to explore more quantum simulation and sensing ideas, such as simulating interesting quantum hydrodynamics, and even transporting quantum information between different spin defects."</p> 
+         <p>The findings were made possible, in part, by the team's development of a new wide-field imaging setup that allows them to measure many different spatial locations within the crystalline material simultaneously, using a fast single-photon detector array, combined with a microscope. "We are able to spatially image the density distribution over different spin species like a fingerprint, and the charge transport dynamics," although that work is still preliminary, Wang says.</p> 
+         <div id="insertion_bottom"></div> 
+         <p>Although their work was done using lab-grown diamond, the principles could be applied to other crystalline solid-state defects, he says. NV centers in diamond have been attractive for research because they can be used at room temperature and they have already been well-studied. But silicon vacancy centers, donors in silicon, rare-earth ions in solids, and other crystal materials may have different properties that could turn out to be useful for particular kinds of applications.</p> 
+         <p>"As information science progresses, eventually people will be able to control the positions and the charge of individual atoms and defects. That's the long-term vision," Li says. "If you can have every atom storing different information, it's a much larger information storage and processing capability" compared to existing systems where even a single bit is stored by a magnetic domain of many atoms. "You can say it's the ultimate limit of Moore's Law: eventually going down to one defect or one atom."</p> 
+         <p>While some applications may require much more research to develop to a practical level, for some kinds of quantum sensing systems, the new insights can be quickly translated into real-world uses, Wang says. "We can immediately improve the quantum sensors' performance based on our results," he says.</p> 
+         <p>"Overall, this result is very exciting for the field of solid-state spin defects,' says Chong Zu, an assistant professor of physics at Washington University in St. Louis, who specializes in quantum information but was not involved in this work. "In particular, it introduces a powerful approach of using charge ionization dynamics to continuously tune the local spin defect density, which is important in the context of applications of NV centers for quantum simulation and sensing."</p> 
+         <p>The research team included Changhao Li, Hao Tang, Boning Li, Francesca Madonini, Faisal Alsallom, and Won Kyu Calvin Sun, all at MIT; Pai Peng at Princeton University; and Federica Villa at the Politecnico de Milano, in Italy. The work was partly supported by the U.S. Defense Advanced Research Projects Agency.</p> 
+        </div> 
+       </div> <!-- /story_text --> 
+      </div> <!-- /col-md-8 --> 
+      <div class="col-md-4 col-md-pull-8 less-padding-left no-print"> 
+       <div class="row"> 
+        <div class="col-xs-6 col-md-12"> 
+         <ul class="nav topics"> 
+          <li class="nav-header"> <a href="#">RELATED TOPICS</a> 
+           <ul id="related_topics" class="nav subnav"> 
+            <li> <a href="/news/matter_energy/">Matter &amp; Energy</a> 
+             <ul class="nav nav-condensed fa-ul"> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/matter_energy/spintronics/" rel="tag">Spintronics</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/matter_energy/physics/" rel="tag">Physics</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/matter_energy/quantum_computing/" rel="tag">Quantum Computing</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/matter_energy/quantum_physics/" rel="tag">Quantum Physics</a> </li> 
+             </ul> </li> 
+            <li> <a href="/news/computers_math/">Computers &amp; Math</a> 
+             <ul class="nav nav-condensed fa-ul"> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/computers_math/spintronics/" rel="tag">Spintronics Research</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/computers_math/quantum_computers/" rel="tag">Quantum Computers</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/computers_math/computers_and_internet/" rel="tag">Computers and Internet</a> </li> 
+              <li> <i class="fa-li fa fa-angle-right"></i><a href="/news/computers_math/encryption/" rel="tag">Encryption</a> </li> 
+             </ul> </li> 
+           </ul> </li> 
+         </ul> 
+        </div> 
+        <div class="col-xs-6 col-md-12"> 
+         <ul class="nav topics"> 
+          <li class="nav-header"> <a href="#">RELATED TERMS</a> 
+           <ul id="related_terms" class="nav nav-condensed fa-ul"> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/quantum_entanglement.htm">Quantum entanglement</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/microwave.htm">Microwave</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/schrodinger's_cat.htm">Schrödinger's cat</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/quantum_tunnelling.htm">Quantum tunnelling</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/spin_(physics).htm">Spin (physics)</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/quantum_number.htm">Quantum number</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/quantum_dot.htm">Quantum dot</a> </li> 
+            <li> <i class="fa-li fa fa-angle-right"></i><a href="/terms/traffic_engineering_(transportation).htm">Traffic engineering (transportation)</a> </li> 
+           </ul> </li> 
+         </ul> 
+        </div> <!-- /col-xs-6 --> 
+       </div> <!-- /row --> 
+      </div> <!-- /col-md-4 --> 
+     </div> <!-- /row --> 
+     <div id="insertion_end"></div> 
+     <hr> 
+     <div id="story_source"> 
+      <p><strong>Story Source:</strong></p> 
+      <p><a href="https://news.mit.edu/2023/sensing-microscopic-spin-density-materials-0802" style="text-decoration: underline" rel="noopener noreferrer" target="_blank">Materials</a> provided by <a href="https://www.mit.edu/" rel="noopener noreferrer" target="_blank"><strong>Massachusetts Institute of Technology</strong></a>. Original written by David L. Chandler. <em>Note: Content may be edited for style and length.</em></p> 
+     </div> <!-- /story_source --> 
+     <hr> <!-- /related_multimedia --> 
+     <div id="journal_references">
+      <p><strong>Journal Reference</strong>:</p> 
+      <ol class="journal"> 
+       <li>Guoqing Wang, Changhao Li, Hao Tang, Boning Li, Francesca Madonini, Faisal F. Alsallom, Won Kyu Calvin Sun, Pai Peng, Federica Villa, Ju Li, Paola Cappellaro. <strong>Manipulating solid-state spin concentration through charge transport</strong>. <em>Proceedings of the National Academy of Sciences</em>, 2023; 120 (32) DOI: <a href="http://dx.doi.org/10.1073/pnas.2305621120" style="text-decoration: underline" rel="noopener noreferrer" target="_blank">10.1073/pnas.2305621120</a> </li> 
+      </ol> 
+      <hr> 
+     </div> <!-- /journal_references --> 
+     <div id="citations"> 
+      <div role="tabpanel" class="right-tabs clearfix"> 
+       <p class="pull-left"><strong>Cite This Page</strong>:</p> <!-- Nav tabs --> 
+       <ul class="nav nav-tabs" role="tablist"> 
+        <li role="presentation" class="active"><a href="#citation_mla" aria-controls="citation_mla" role="tab" data-toggle="tab">MLA</a></li> 
+        <li role="presentation"><a href="#citation_apa" aria-controls="citation_apa" role="tab" data-toggle="tab">APA</a></li> 
+        <li role="presentation"><a href="#citation_chicago" aria-controls="citation_chicago" role="tab" data-toggle="tab">Chicago</a></li> 
+       </ul> <!-- Tab panes -->
+       <div class="tab-content tab-citations"> 
+        <div role="tabpanel" class="tab-pane active" id="citation_mla">
+         Massachusetts Institute of Technology. "Sensing and controlling microscopic spin density in materials." ScienceDaily. ScienceDaily, 3 August 2023. &lt;www.sciencedaily.com
+         <wbr>/
+         <wbr>releases
+         <wbr>/
+         <wbr>2023
+         <wbr>/
+         <wbr>08
+         <wbr>/
+         <wbr>230803112955.htm&gt;.
+        </div> 
+        <div role="tabpanel" class="tab-pane" id="citation_apa">
+         Massachusetts Institute of Technology. (2023, August 3). Sensing and controlling microscopic spin density in materials. <em>ScienceDaily</em>. Retrieved February 19, 2024 from www.sciencedaily.com
+         <wbr>/
+         <wbr>releases
+         <wbr>/
+         <wbr>2023
+         <wbr>/
+         <wbr>08
+         <wbr>/
+         <wbr>230803112955.htm
+        </div> 
+        <div role="tabpanel" class="tab-pane" id="citation_chicago">
+         Massachusetts Institute of Technology. "Sensing and controlling microscopic spin density in materials." ScienceDaily. www.sciencedaily.com
+         <wbr>/
+         <wbr>releases
+         <wbr>/
+         <wbr>2023
+         <wbr>/
+         <wbr>08
+         <wbr>/
+         <wbr>230803112955.htm (accessed February 19, 2024).
+        </div> 
+       </div> 
+      </div> 
+      <div class="clearfix"></div> 
+     </div> <!-- end citations --> 
+     <div class="clearfix"></div> 
+     <br>
+     <div class="head"> 
+      <div id="exploremore_heading" class="pull-left head-left">
+       Explore More
+      </div> 
+      <div class="pull-right head-right">
+       from ScienceDaily
+      </div> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="head-rule"> 
+     <div class="fullstory">
+      RELATED STORIES
+     </div> 
+     <hr class="hr-fullstory"> 
+     <div id="related_releases"> 
+      <div class="related-headline clearfix">
+       <a href="/releases/2022/01/220126144221.htm">Diamond Quantum Sensor Detects 'Magnetic Flow' Excited by Heat</a>
+      </div> 
+      <div class="related-summary"> <span class="story-date">Jan. 26, 2022 —</span> Recently, magnons (units of electron spin excitation waves) have been considered for information processing. Especially, utilizing thermally excited energetic magnons have been of interest. In ... 
+      </div> 
+      <div class="related-headline clearfix">
+       <a href="/releases/2021/11/211103115424.htm">Quantifying Spin for Future Spintronics</a>
+      </div> 
+      <div class="related-summary"> <span class="story-date">Nov. 3, 2021 —</span> An international collaboration quantifies spin in a 2D quantum spin Hall insulator (QSHI), a promising option for future low-energy nano-electronic and spintronic devices. The team used anisotropic ... 
+      </div> 
+      <div class="related-headline clearfix">
+       <a href="/releases/2020/09/200904100628.htm">Nanoearthquakes Control Spin Centers in SiC</a>
+      </div> 
+      <div class="related-summary"> <span class="story-date">Sep. 4, 2020 —</span> Researchers have demonstrated the use of elastic vibrations to manipulate the spin states of optically active color centers in SiC at room temperature. They show a non-trivial dependence of the ... 
+      </div> 
+      <div class="related-headline clearfix">
+       <a href="/releases/2020/07/200707113217.htm">Portable System Boosts Laser Precision, at Room Temperature</a>
+      </div> 
+      <div class="related-summary"> <span class="story-date">July 7, 2020 —</span> Physicists have designed a quantum ''light squeezer'' that reduces quantum noise in an incoming laser beam by 15 percent. It is the first system of its kind to work at room temperature, making it ... 
+      </div> 
+     </div> 
+    </div> <!-- /Main --> <!-- Sidebar --> 
+    <div class="col-sm-4 less-padding-left sidebar no-print"> 
+     <div class="pull-right btn-group btn-group-sm tools-top hidden-tiny hidden-xs" role="group" aria-label="..."> <a href="#" class="btn btn-default print black"><i class="fa fa-print"></i> &nbsp; <span class="hidden-sm">Print</span></a> <a href="#" class="btn btn-default email black"><i class="fa fa-envelope"></i> &nbsp; <span class="hidden-sm">Email</span></a> <a href="#" class="btn btn-default black" data-toggle="modal" data-target="#shareModal"><i class="fa fa-share"></i> &nbsp; <span class="hidden-sm">Share</span></a> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="hr-tools-top"> 
+     <div class="head"> 
+      <div id="breaking_heading" class="pull-left head-left">
+       <a href="/breaking/" class="breaking-head">Breaking</a>
+      </div> 
+      <div class="pull-right head-right">
+       this hour
+      </div> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="head-rule"> 
+     <ul id="justin_headlines" class="list-unstyled breaking-list"> 
+      <li><a href="/releases/2024/02/240216135841.htm">From CO2 to Biodegradable Plastics, Efficiently</a></li> 
+      <li><a href="/releases/2024/02/240216135835.htm">Oldest Fossil Reptile from Alps Is Forgery</a></li> 
+      <li><a href="/releases/2024/02/240212144634.htm">Salt Substitutes for Blood Pressure Control</a></li> 
+      <li><a href="/releases/2024/02/240215142301.htm">Icy Dwarf Planets With Geothermal Activity</a></li> 
+      <li><a href="/releases/2024/02/240215142140.htm">Reforestation Threatens Vast Tropical Grasslands</a></li> 
+      <li><a href="/releases/2024/02/240215142138.htm">New Direction for Sustainable Batteries</a></li> 
+      <li><a href="/releases/2024/02/240214122551.htm">A 'Quantum Leap' at Room Temperature</a></li> 
+      <li><a href="/releases/2024/02/240215113629.htm">Gravastar Inside Another Gravastar?</a></li> 
+      <li><a href="/releases/2024/02/240215113554.htm">Root Microbes: Secret to a Tastier Cup of Tea</a></li> 
+      <li><a href="/releases/2024/02/240215113551.htm">Ancient Retroviruses and Our Big Brains</a></li> 
+     </ul> 
+     <div class="head extra-top-margin"> 
+      <div id="most_popular_heading" class="pull-left head-left">
+       Trending Topics
+      </div> 
+      <div class="pull-right head-right">
+       this week
+      </div> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="head-rule"> 
+     <div id="most_popular_section1_head" class="side-subhead">
+      <a href="/news/space_time/" class="gray">SPACE &amp; TIME</a> 
+     </div> 
+     <div id="most_popular_section1"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/space_time/nasa/">NASA</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/space_time/space_missions/">Space Missions</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/space_time/black_holes/">Black Holes</a>
+      </div> 
+     </div> 
+     <div id="most_popular_section2_head" class="side-subhead">
+      <a href="/news/matter_energy/" class="gray">MATTER &amp; ENERGY</a> 
+     </div> 
+     <div id="most_popular_section2"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/matter_energy/quantum_physics/">Quantum Physics</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/matter_energy/thermodynamics/">Thermodynamics</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/matter_energy/weapons_technology/">Weapons Technology</a>
+      </div> 
+     </div> 
+     <div id="most_popular_section3_head" class="side-subhead">
+      <a href="/news/computers_math/" class="gray">COMPUTERS &amp; MATH</a> 
+     </div> 
+     <div id="most_popular_section3"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/computers_math/artificial_intelligence/">Artificial Intelligence</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/computers_math/computers_and_internet/">Computers and Internet</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/news/computers_math/internet/">Internet</a>
+      </div> 
+     </div> 
+     <div class="halfpage double-extra-top-margin"> 
+     </div> 
+     <div class="head extra-top-margin"> 
+      <div id="strange_offbeat_heading" class="pull-left head-left">
+       Strange &amp; Offbeat
+      </div> 
+      <div class="pull-right head-right">
+       &nbsp;
+      </div> 
+     </div> 
+     <div class="clearfix"></div> 
+     <hr class="head-rule"> 
+     <div id="strange_offbeat_section1_head" class="side-subhead">
+      <a href="/news/strange_offbeat/space_time/" class="gray">SPACE &amp; TIME</a> 
+     </div> 
+     <div id="strange_offbeat_section1"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240215142301.htm">Evidence of Geothermal Activity Within Icy Dwarf Planets</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240215113656.htm">Diverse Ancient Volcanoes on Mars Discovered by Planetary Scientist May Hold Clues to Pre-Plate Tectonic Activity on Earth</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240215113629.htm">A Star Like a Matryoshka Doll: New Theory for Gravastars</a>
+      </div> 
+     </div> 
+     <div id="strange_offbeat_section2_head" class="side-subhead">
+      <a href="/news/strange_offbeat/matter_energy/" class="gray">MATTER &amp; ENERGY</a> 
+     </div> 
+     <div id="strange_offbeat_section2"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240215142133.htm">First-Ever Atomic Freeze-Frame of Liquid Water</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240214122551.htm">A 'Quantum Leap' at Room Temperature</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240213130458.htm">Greetings from the Island of Enhanced Stability: The Quest for the Limit of the Periodic Table</a>
+      </div> 
+     </div> 
+     <div id="strange_offbeat_section3_head" class="side-subhead">
+      <a href="/news/strange_offbeat/computers_math/" class="gray">COMPUTERS &amp; MATH</a> 
+     </div> 
+     <div id="strange_offbeat_section3"> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240215142306.htm">1,000 Atomic Qubits and Rising</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240212153511.htm">How Ancient Sea Creatures Can Inform Soft Robotics</a>
+      </div> 
+      <div class="sidebar-headline clearfix">
+       <a href="/releases/2024/02/240209134402.htm">Researchers Show Classical Computers Can Keep Up With, and Surpass, Their Quantum Counterparts</a>
+      </div> 
+     </div> 
+    </div> <!-- /Sidebar --> 
+   </div> <!-- /Row --> 
+   <br> 
+  </div> <!-- /Container --> 
+  <div id="navwrapper"> 
+   <div id="topnav"> <!-- Static navbar --> 
+    <nav class="navbar yamm navbar-default navbar-static navbar-custom">
+     <div class="container"> 
+      <div class="navbar-header"> <button type="button" class="navbar-toggle collapsed menu" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span>Menu &nbsp;<i class="fa fa-bars"></i></span> </button> <a class="navbar-brand visible-xs" href="#"><span class="icon-s">S<span class="icon-d">D</span></span></a> 
+       <ul class="nav navbar-nav hidden-xs"> 
+        <li class="dropdown"> <a href="#" class="navbar-brand dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="icon-s">S<span class="icon-d">D</span></span></a> 
+         <ul class="dropdown-menu brand" role="menu"> 
+          <li><a href="/" role="menuitem">Home Page</a></li> 
+          <li class="divider"> </li> 
+          <li><a href="/news/top/science/" role="menuitem">Top Science News</a></li> 
+          <li class="divider"> </li> 
+          <li><a href="/news/" role="menuitem">Latest News</a></li> 
+         </ul> </li> 
+       </ul> 
+      </div> 
+      <div id="navbar" class="navbar-collapse collapse"> 
+       <ul class="nav navbar-nav"> 
+        <li class="dropdown visible-xs"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Home <span class="caret"></span></a> 
+         <ul class="dropdown-menu" role="menu"> 
+          <li><a href="/" role="menuitem">Home Page</a></li> 
+          <li class="divider"> </li> 
+          <li><a href="/news/top/science/" role="menuitem">Top Science News</a></li> 
+          <li class="divider"> </li> 
+          <li><a href="/news/" role="menuitem">Latest News</a></li> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Health <span class="caret"></span></a> 
+         <ul class="dropdown-menu dropdown-menu-left" role="menu"> 
+          <li class="menu-item"> 
+           <div class="yamm-content hyphenate"> 
+            <div>
+             View all the latest <strong><a href="/news/top/health/">top news</a></strong> in the health sciences, <span class="hidden-xs hidden-sm"><br></span>or browse the topics below:
+            </div> 
+            <div class="row"> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/health_medicine/">Health &amp; Medicine</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/health_medicine/allergy/" role="menuitem">Allergy</a></li> 
+               <li><a href="/news/health_medicine/cancer/" role="menuitem">Cancer</a></li> 
+               <li><a href="/news/health_medicine/cold_and_flu/" role="menuitem">Cold and Flu</a></li> 
+               <li><a href="/news/health_medicine/diabetes/" role="menuitem">Diabetes</a></li> 
+               <li><a href="/news/health_medicine/heart_disease/" role="menuitem">Heart Disease</a></li> 
+               <li><a href="/news/health_medicine/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/mind_brain/" role="menuitem">Mind &amp; Brain</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/mind_brain/add_and_adhd/" role="menuitem">ADD and ADHD</a></li> 
+               <li><a href="/news/mind_brain/alzheimer's/" role="menuitem">Alzheimer's</a></li> 
+               <li><a href="/news/mind_brain/headaches/" role="menuitem">Headaches</a></li> 
+               <li><a href="/news/mind_brain/intelligence/" role="menuitem">Intelligence</a></li> 
+               <li><a href="/news/mind_brain/psychology/" role="menuitem">Psychology</a></li> 
+               <li><a href="/news/mind_brain/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/living_well/" role="menuitem">Living Well</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/mind_brain/parenting/" role="menuitem">Parenting</a></li> 
+               <li><a href="/news/mind_brain/child_development/" role="menuitem">Child Development</a></li> 
+               <li><a href="/news/mind_brain/stress/" role="menuitem">Stress</a></li> 
+               <li><a href="/news/health_medicine/nutrition/" role="menuitem">Nutrition</a></li> 
+               <li><a href="/news/health_medicine/fitness/" role="menuitem">Fitness</a></li> 
+               <li><a href="/news/living_well/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+            </div> <!-- /row --> 
+           </div> <!-- /yamm-content --> </li> <!-- /menu-item --> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Tech <span class="caret"></span></a> 
+         <ul class="dropdown-menu dropdown-menu-left" role="menu"> 
+          <li class="menu-item"> 
+           <div class="yamm-content hyphenate"> 
+            <div>
+             View all the latest <strong><a href="/news/top/technology/">top news</a></strong> in the physical sciences &amp; technology, <span class="hidden-xs hidden-sm"><br></span>or browse the topics below:
+            </div> 
+            <div class="row"> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/matter_energy/" role="menuitem">Matter &amp; Energy</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/matter_energy/chemistry/" role="menuitem">Chemistry</a></li> 
+               <li><a href="/news/matter_energy/fossil_fuels/" role="menuitem">Fossil Fuels</a></li> 
+               <li><a href="/news/matter_energy/nanotechnology/" role="menuitem">Nanotechnology</a></li> 
+               <li><a href="/news/matter_energy/physics/" role="menuitem">Physics</a></li> 
+               <li><a href="/news/matter_energy/solar_energy/" role="menuitem">Solar Energy</a></li> 
+               <li><a href="/news/matter_energy/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/space_time/" role="menuitem">Space &amp; Time</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/space_time/black_holes/" role="menuitem">Black Holes</a></li> 
+               <li><a href="/news/space_time/dark_matter/" role="menuitem">Dark Matter</a></li> 
+               <li><a href="/news/space_time/extrasolar_planets/" role="menuitem">Extrasolar Planets</a></li> 
+               <li><a href="/news/space_time/solar_system/" role="menuitem">Solar System</a></li> 
+               <li><a href="/news/space_time/space_telescopes/" role="menuitem">Space Telescopes</a></li> 
+               <li><a href="/news/space_time/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/computers_math/" role="menuitem">Computers &amp; Math</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/computers_math/artificial_intelligence/" role="menuitem">Artificial Intelligence</a></li> 
+               <li><a href="/news/computers_math/mathematics/" role="menuitem">Mathematics</a></li> 
+               <li><a href="/news/computers_math/quantum_computers/" role="menuitem">Quantum Computers</a></li> 
+               <li><a href="/news/computers_math/robotics/" role="menuitem">Robotics</a></li> 
+               <li><a href="/news/computers_math/virtual_reality/" role="menuitem">Virtual Reality</a></li> 
+               <li><a href="/news/computers_math/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+            </div> <!-- /row --> 
+           </div> <!-- /yamm-content --> </li> <!-- /menu-item --> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Enviro <span class="caret"></span></a> 
+         <ul class="dropdown-menu dropdown-menu-left" role="menu"> 
+          <li class="menu-item"> 
+           <div class="yamm-content hyphenate"> 
+            <div>
+             View all the latest <strong><a href="/news/top/environment/">top news</a></strong> in the environmental sciences, <span class="hidden-xs hidden-sm"><br></span>or browse the topics below:
+            </div> 
+            <div class="row"> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/plants_animals/" role="menuitem">Plants &amp; Animals</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/plants_animals/agriculture_and_food/" role="menuitem">Agriculture and Food</a></li> 
+               <li><a href="/news/plants_animals/biology/" role="menuitem">Biology</a></li> 
+               <li><a href="/news/plants_animals/biotechnology/" role="menuitem">Biotechnology</a></li> 
+               <li><a href="/news/plants_animals/extinction/" role="menuitem">Extinction</a></li> 
+               <li><a href="/news/plants_animals/microbes_and_more/" role="menuitem">Microbes and More</a></li> 
+               <li><a href="/news/plants_animals/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/earth_climate/" role="menuitem">Earth &amp; Climate</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/earth_climate/climate/" role="menuitem">Climate</a></li> 
+               <li><a href="/news/earth_climate/earthquakes/" role="menuitem">Earthquakes</a></li> 
+               <li><a href="/news/earth_climate/geology/" role="menuitem">Geology</a></li> 
+               <li><a href="/news/earth_climate/global_warming/" role="menuitem">Global Warming</a></li> 
+               <li><a href="/news/earth_climate/pollution/" role="menuitem">Pollution</a></li> 
+               <li><a href="/news/earth_climate/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/fossils_ruins/" role="menuitem">Fossils &amp; Ruins</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/fossils_ruins/anthropology/" role="menuitem">Anthropology</a></li> 
+               <li><a href="/news/fossils_ruins/archaeology/" role="menuitem">Archaeology</a></li> 
+               <li><a href="/news/fossils_ruins/dinosaurs/" role="menuitem">Dinosaurs</a></li> 
+               <li><a href="/news/fossils_ruins/evolution/" role="menuitem">Evolution</a></li> 
+               <li><a href="/news/fossils_ruins/paleontology/" role="menuitem">Paleontology</a></li> 
+               <li><a href="/news/fossils_ruins/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+            </div> <!-- /row --> 
+           </div> <!-- /yamm-content --> </li> <!-- /menu-item --> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Society <span class="caret"></span></a> 
+         <ul class="dropdown-menu dropdown-menu-left" role="menu"> 
+          <li class="menu-item"> 
+           <div class="yamm-content hyphenate"> 
+            <div>
+             View all the latest <strong><a href="/news/top/society/">top news</a></strong> in the social sciences &amp; education, <span class="hidden-xs hidden-sm"><br></span>or browse the topics below:
+            </div> 
+            <div class="row"> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/science_society/" role="menuitem">Science &amp; Society</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/science_society/arts_and_culture/" role="menuitem">Arts &amp; Culture</a></li> 
+               <li><a href="/news/science_society/economics/" role="menuitem">Economics</a></li> 
+               <li><a href="/news/science_society/privacy_issues/" role="menuitem">Privacy Issues</a></li> 
+               <li><a href="/news/science_society/public_health/" role="menuitem">Public Health</a></li> 
+               <li><a href="/news/science_society/sports/" role="menuitem">Sports</a></li> 
+               <li><a href="/news/science_society/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/business_industry/" role="menuitem">Business &amp; Industry</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/computers_math/computers_and_internet/" role="menuitem">Computers &amp; Internet</a></li> 
+               <li><a href="/news/matter_energy/energy_and_resources/" role="menuitem">Energy &amp; Resources</a></li> 
+               <li><a href="/news/matter_energy/engineering/" role="menuitem">Engineering</a></li> 
+               <li><a href="/news/matter_energy/medical_technology/" role="menuitem">Medical Technology</a></li> 
+               <li><a href="/news/matter_energy/automotive_and_transportation/" role="menuitem">Transportation</a></li> 
+               <li><a href="/news/business_industry/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+             <div class="col-xs-4"> 
+              <div class="menu-section">
+               <a href="/news/education_learning/" role="menuitem">Education &amp; Learning</a>
+              </div> 
+              <ul class="list-unstyled menu-topics"> 
+               <li><a href="/news/mind_brain/creativity/" role="menuitem">Creativity</a></li> 
+               <li><a href="/news/mind_brain/educational_psychology/" role="menuitem">Educational Psychology</a></li> 
+               <li><a href="/news/mind_brain/infant_and_preschool_learning/" role="menuitem">Infant &amp; Preschool</a></li> 
+               <li><a href="/news/mind_brain/learning_disorders/" role="menuitem">Learning Disorders</a></li> 
+               <li><a href="/news/science_society/stem_education/" role="menuitem">STEM Education</a></li> 
+               <li><a href="/news/education_learning/" role="menuitem">... <em>more topics</em></a></li> 
+              </ul> <!-- /menu-topics --> 
+             </div> <!-- /col-xs-4 --> 
+            </div> <!-- /row --> 
+           </div> <!-- /yamm-content --> </li> <!-- /menu-item --> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Quirky <span class="caret"></span></a> 
+         <ul class="dropdown-menu" role="menu"> 
+          <li><a href="/news/strange_offbeat/" role="menuitem">Top News</a></li> 
+          <li class="divider"> </li> 
+          <li><a href="/news/strange_offbeat/human_quirks/" role="menuitem">Human Quirks</a></li> 
+          <li><a href="/news/strange_offbeat/odd_creatures/" role="menuitem">Odd Creatures</a></li> 
+          <li><a href="/news/strange_offbeat/bizarre_things/" role="menuitem">Bizarre Things</a></li> 
+          <li><a href="/news/strange_offbeat/weird_world/" role="menuitem">Weird World</a></li> 
+         </ul> <!-- /dropdown-menu --> </li> <!-- /dropdown --> 
+       </ul> 
+       <form action="/search/" method="get" class="navbar-form navbar-right" role="search"> 
+        <div class="form-group search"> 
+         <div class="input-group"> <label id="keywordlabel" for="keyword" class="display-none">Keyword:</label>
+          <input type="text" id="keyword" name="keyword" aria-labelledby="keywordlabel" title="Enter keyword to search" class="form-control hidden-xs" placeholder="Search"><span class="input-group-btn"><button class="btn btn-default" type="submit" aria-label="search"><i class="fa fa-search"><span class="display-none">Search</span></i></button></span> 
+         </div> 
+        </div> 
+       </form> 
+      </div> <!--/.nav-collapse --> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> <!-- /navwrapper --> 
+  <footer>
+   <div class="container light-gray"> 
+    <div class="row footer-links"> 
+     <div class="col-sm-12 col-md-4"> 
+      <div class="footer-head">
+       Free Subscriptions
+      </div> 
+      <hr class="footer-rule"> 
+      <p>Stay informed with ScienceDaily's free email newsletter, updated daily and weekly. Or view our many newsfeeds in your RSS reader:</p> 
+      <ul class="list-unstyled footer-list"> 
+       <li> <i class="fa fa-envelope fa-fw"></i> <a href="https://sciencedaily.substack.com">Email Newsletter</a> </li> 
+       <li> <i class="fa fa-rss fa-fw"></i> <a href="/newsfeeds.htm">RSS Feeds</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col-sm-12 col-md-4"> 
+      <div class="footer-head">
+       Follow Us
+      </div> 
+      <hr class="footer-rule"> 
+      <p>Keep up to date with the latest news from ScienceDaily via social networks:</p> 
+      <ul class="list-unstyled footer-list"> 
+       <li> <i class="fa fa-facebook fa-fw"></i> <a href="https://www.facebook.com/sciencedaily">Facebook</a> </li> 
+       <li> <i class="fa fa-twitter fa-fw"></i> <a href="https://twitter.com/sciencedaily">X / Twitter</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col-sm-12 col-md-4"> 
+      <div class="footer-head">
+       Have Feedback?
+      </div> 
+      <hr class="footer-rule"> 
+      <p>Tell us what you think of ScienceDaily -- we welcome both positive and negative comments. Have any problems using the site? Questions?</p> 
+      <ul class="list-unstyled footer-list"> 
+       <li> <i class="fa fa-comment fa-fw"></i> <a href="#" class="feedback">Leave Feedback</a> </li> 
+       <li> <i class="fa fa-phone fa-fw"></i> <a href="/contact.htm">Contact Us</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="container dark-gray"> 
+    <div class="bottom-links"> <a href="/about.htm">About This Site</a> &nbsp;|&nbsp; <a href="/staff.htm">Staff</a> &nbsp;|&nbsp; <a href="/contribute.htm">Contribute</a> &nbsp;|&nbsp; <a href="/advertise.htm">Advertise</a> &nbsp;|&nbsp; <a href="/privacy.htm">Privacy Policy</a> &nbsp;|&nbsp; <a href="/editorial.htm">Editorial Policy</a> &nbsp;|&nbsp; <a href="/terms.htm">Terms of Use</a> 
+    </div> 
+    <div id="bottom_text"> <a href="/copyright.htm">Copyright 1995-2024 ScienceDaily</a> or by other parties, where indicated. All rights controlled by their respective owners. Content on this website is for information only. It is not intended to provide medical or other professional advice. Views expressed here do not necessarily reflect those of ScienceDaily, contributors or partners. Financial support for ScienceDaily comes from advertisements and referral programs.
+    </div> 
+   </div> 
+  </footer><!-- Bootstrap core JavaScript
+	================================================== --><!-- Placed at the end of the document so the pages load faster -->  <!-- Page successfully generated: February 19, 2024 10:21:27 am -->
+ </body>
+</html>

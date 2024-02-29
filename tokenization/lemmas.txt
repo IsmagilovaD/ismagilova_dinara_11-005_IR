@@ -1,0 +1,6306 @@
+incident: incidents
+Cuestas: Cuestas
+Elliott: Elliott
+Ecole: Ecole
+rate: rates rate
+inevitable: inevitable
+nonetheless: nonetheless
+Jie: Jie
+Rauer: Rauer
+htm: htm
+periodicity: periodicity
+snow: snow
+funnel: funneled
+Tire: Tire
+Castelnovo: Castelnovo
+shuttle: shuttling shuttled
+analogous: analogous
+Kuang: Kuang
+Amsterdam: Amsterdam
+exploit: exploits exploiting exploit exploited
+splitter: splitters splitter
+Geremew: Geremew
+yttrium: yttrium
+Nayfeh: Nayfeh
+lattice: lattice lattices
+accident: accidents accident
+mechanically: mechanically
+physically: physically
+qahe: QAHE
+scenario: scenario scenarios
+nudge: nudge
+static: static
+Kukuljan: Kukuljan
+fractional: fractional
+antenna: antennas antenna
+insulate: insulating
+liquid: liquids
+JILA: JILA
+particularly: particularly
+eye: eyes eye
+striking: striking
+conceptual: conceptual
+Giulia: Giulia
+prolong: prolonged
+reference: Reference
+indication: indications
+hydrodynamic: hydrodynamic hydrodynamics
+Haoyu: Haoyu
+Vescovo: Vescovo
+widely: widely
+Generating: Generating
+uio: UiO
+vivid: vivid
+degradation: degradation
+conversion: conversion
+Vladan: Vladan
+Polymer: Polymer
+altitude: altitude
+Larkin: Larkin
+unidirectional: unidirectional
+significantly: significantly
+Superfluid: Superfluid
+UCR: UCR
+Velasco: Velasco
+amplitude: amplitude
+writing: writing
+Thallium: Thallium
+nanoparticle: Nanoparticle Nanoparticles
+synthetic: synthetic
+funny: funny
+Engineering: Engineering
+celestial: celestial
+launch: launched launching launch
+Madhavan: Madhavan
+Kenichiro: Kenichiro
+Akio: Akio
+fashion: fashion
+fluff: fluff
+Aldarawsheh: Aldarawsheh
+recipient: recipient
+explore: explored Explore exploring explores
+accommodate: accommodate
+tune: tuned
+del: del
+species: species
+Electricity: Electricity
+localize: localized
+Yamauchi: Yamauchi
+cerium: cerium
+Lowther: Lowther
+down: down
+slightest: slightest
+Random: Random
+rub: rubbing
+likelihood: likelihood
+rubidium: rubidium
+side: side sides
+Harmon: Harmon
+unsure: unsure
+topological: Topological
+Yu: Yu
+conventional: conventional
+sensitivity: sensitivity
+Zeilinger: Zeilinger
+discrete: discrete
+capacitor: capacitors
+miniaturize: miniaturized Miniaturizing miniaturize
+Pugh: Pugh
+enable: enable Enables enabling enabled
+Statistics: Statistics
+succeed: succeeded
+Brakes: Brakes
+underway: underway
+execution: execution
+synthetize: synthetize
+entirely: entirely
+titanium: titanium
+Baker: Baker
+mission: Missions mission
+compound: compounds Compound
+University: University
+Katja: Katja
+measure: measure measured measures measuring
+parenting: Parenting
+Lowell: Lowell
+tunneling: Tunneling
+vdW: vdW
+Bawendi: Bawendi
+quality: quality qualities
+diselenide: diselenide
+adapt: adapt adapts adapted adapting
+researcher: Researchers researcher
+economy: economy
+Sebastian: Sebastian
+Alzheimer: Alzheimer
+msc: MSc
+Rahul: Rahul
+timeframe: timeframe
+Veneziale: Veneziale
+progressively: progressively
+application: applications application
+EMPA: EMPA
+metallic: metallic
+nanoscopic: nanoscopic
+Fubini: Fubini
+regardless: regardless
+moreover: Moreover
+rod: rod Rods
+interesting: interesting
+register: register
+verifiable: verifiable
+constant: constant constants
+trouble: trouble
+Metropolitan: Metropolitan
+Dyson: Dyson
+Tohoku: Tohoku
+compete: competing
+Clavin: Clavin
+emulate: Emulating emulate
+hierarchical: hierarchical
+crossover: crossover
+Weir: Weir
+Crowley: Crowley
+stain: stain
+incorporate: incorporated incorporate incorporates
+optimisation: optimisation
+guest: guest
+finger: finger
+read: read reading
+Gustavo: Gustavo
+number: number numbers
+mass: mass masses
+efficiency: efficiency efficiencies
+able: able
+papers: papers
+dissimilar: dissimilar
+numbering: numbering
+actor: actors actor
+Welch: Welch
+Oxford: Oxford
+IQC: IQC
+Scientific: Scientific
+grounds: grounds
+mother: mother
+continuous: continuous
+simulate: simulating simulate
+organization: organizations organization
+drive: driven drive driving drives
+applicability: applicability
+acsnano: acsnano
+chief: chief
+Sanaka: Sanaka
+localization: localization
+blockade: blockade
+permanently: permanently
+cumulative: cumulative
+dwarf: Dwarf
+database: database
+Integration: Integration
+oled: OLED OLEDs
+Dodge: Dodge
+Ruoshui: Ruoshui
+experimental: experimental
+dichalcogenide: dichalcogenide dichalcogenides
+intricate: intricate
+impressive: impressive
+Chemistry: Chemistry
+hamiltonian: Hamiltonian
+magnet: magnet
+gluon: gluons gluon
+Raymond: Raymond
+duration: duration
+reassure: reassuring
+torque: torque
+encode: encoding encode encoded encodes
+rhenium: rhenium
+Eagle: Eagle
+rhythm: rhythms
+Hans: Hans
+Sugar: Sugar
+microscopic: microscopic
+calculator: calculators calculator
+Nobuo: Nobuo
+dot: dots dot
+program: programs programmed
+unsolved: unsolved
+network: networks network
+maybe: maybe
+find: find found Finding
+Caltech: Caltech
+neighbor: neighbors
+functionality: functionalities functionality
+fusion: fusion
+business: businesses
+Air: Air
+tensile: tensile
+announce: announcing announced
+Benjamin: Benjamin
+robustness: robustness
+resemblance: resemblance
+neutralize: neutralized neutralize
+ultimately: Ultimately
+Luke: Luke
+support: support supported supporting
+produce: produced produce producing produces
+surprisingly: surprisingly
+Tajik: Tajik
+deviation: deviation
+school: schools
+Richard: Richard
+invest: invested
+tout: Tout
+Fogelström: Fogelström
+USTC: USTC
+Directed: Directed
+weight: weights weight
+July: July
+Kotakoski: Kotakoski
+Resources: Resources
+barium: barium
+AIM: AIM
+Nutrition: Nutrition
+USA: USA
+question: Questions question
+advancement: advancement advancements
+monitor: monitor monitoring monitored
+chip: chips chip
+Xiaomeng: Xiaomeng
+art: art
+bismuth: bismuth
+counterintuitive: counterintuitive
+fourth: fourth
+span: spanning span
+NISQ: NISQ
+Deotare: Deotare
+parent: parents parent
+creature: Creatures
+polycyclic: polycyclic
+cleanroom: cleanrooms
+subsequent: subsequent
+community: communities community
+Barlas: Barlas
+thermometry: thermometry
+Prof: Prof
+method: method methods
+Xiaoxing: Xiaoxing
+officer: officers
+construction: construction
+shop: shop
+coherence: coherences coherence
+Stefanie: Stefanie
+environmentally: environmentally
+skyrmion: skyrmions
+cancel: cancel canceling
+test: tested test tests
+reprogram: reprogram reprogrammed
+further: further
+Rosenblatt: Rosenblatt
+relative: relative
+coexist: coexist
+Hazardous: Hazardous
+Velcro: Velcro
+speculate: speculates speculate
+Wien: Wien
+decentralise: decentralised
+Rydberg: Rydberg
+author: authors author
+feel: felt feels feel
+VCQ: VCQ
+odds: odds
+Henry: Henry
+magnon: magnons magnon
+heater: heater
+Nobuhiro: Nobuhiro
+aip: AIP
+Los: Los
+equip: equipped
+people: people
+EPJ: EPJ
+informatics: informatics
+dye: dye
+conveniently: conveniently
+cautious: cautious
+Ferrell: Ferrell
+ubiquitous: ubiquitous
+vanish: vanishes vanish
+precisely: precisely
+nsls: NSLS
+electric: electric
+Elena: Elena
+outer: outer
+boon: boon
+transverse: Transverse
+unentangled: unentangled
+probabilistic: probabilistic
+trichalcogenide: trichalcogenides
+constantly: constantly
+factorize: factorized factorize
+irradiation: irradiation
+Breneman: Breneman
+paint: paints
+trend: Trending trends trend
+Hulbert: Hulbert
+reach: reaching reached reach reaches
+begin: began begin begins beginning
+selenium: selenium
+package: packages
+und: und
+Bisht: Bisht
+gram: gram
+series: series
+Niels: Niels
+Inside: Inside
+dft: DFT
+Demler: Demler
+largely: largely
+Meraner: Meraner
+Lucio: Lucio
+lead: led lead leading leads
+Spintronic: Spintronic
+portion: portion
+Cooper: Cooper
+lossy: lossy
+kernel: kernels
+Federation: Federation
+Chenliang: Chenliang
+website: website
+disc: discs
+Bharath: Bharath
+Atatüre: Atatüre
+city: city
+Krockenberger: Krockenberger
+win: winning
+eager: eager
+fabrication: fabrication
+contradictory: contradictory
+Ana: Ana
+aspire: aspire
+review: reviewed Reviewing reviews
+endeavor: endeavor
+module: modules
+Sangtarash: Sangtarash
+wherein: wherein
+production: production
+fail: fail failed
+Tropical: Tropical
+Mouktik: Mouktik
+hypothesise: hypothesised
+insight: insights insight
+significance: significance
+acceleration: Acceleration
+body: body
+exemplary: exemplary
+Fear: Fear
+quirk: quirk
+Niehoff: Niehoff
+chiefly: chiefly
+stage: stage stages
+spread: spread spreading spreads
+loom: looming
+Poland: Poland
+intact: intact
+catalytic: catalytic
+Academy: Academy
+Kaplan: Kaplan
+gradually: gradually
+Symmetries: Symmetries
+axial: axial
+prove: prove proved proving proven proves
+refined: refined
+successfully: successfully
+plant: Plants plant
+Xiaodong: Xiaodong
+massless: massless
+window: window
+wi: Wi
+Boson: Boson
+young: young
+Ryota: Ryota
+Croft: Croft
+notion: notion
+gold: Gold
+rid: rid
+Widera: Widera
+verify: verify verified
+area: area areas
+challenge: challenges challenge
+intermetallic: intermetallic
+Nature: Nature
+January: January
+tether: tether
+accumulate: accumulate
+name: named name
+Kurdi: Kurdi
+huge: huge
+Lester: Lester
+uv: UV
+purity: purity
+Curt: Curt
+exquisite: exquisite
+weaker: weaker
+HPV: HPV
+centimeter: centimeter
+superconductive: superconductive
+Bing: Bing
+Federica: Federica
+menu: Menu
+Junyoung: Junyoung
+Rios: Rios
+Hrmo: Hrmo
+mere: mere
+count: count
+mir: MIR
+Tilak: Tilak
+door: door doors
+vibrational: vibrational
+await: await
+cognition: cognition
+death: deaths
+snowstorm: snowstorm
+synaptic: Synaptic
+Cain: Cain
+giant: giant
+ba: Ba
+controllably: controllably
+underneath: underneath
+multiplication: multiplication
+doctoral: doctoral
+move: move moves moving moved
+focal: focal
+regard: regarded regard regarding
+micrometer: micrometers
+Spinaron: Spinaron
+NPJ: NPJ
+instead: Instead
+Rodolfo: Rodolfo
+February: February
+fraction: fraction fractions
+Lurie: Lurie
+tungstate: tungstate
+Park: Park
+collaboration: collaboration
+hydride: hydride
+pocket: pockets
+pond: pond
+designer: designer designers
+subtle: subtle
+parameter: parameter parameters
+remarkable: remarkable
+exceptionally: exceptionally
+smoke: smoke
+Alison: Alison
+millikelvin: millikelvins milliKelvin
+quantity: quantity quantities
+prerequisite: prerequisites
+Kandala: Kandala
+Holtzmann: Holtzmann
+strengthen: strengthens strengthening
+disruption: disruption
+Felix: Felix
+design: design designed designs
+crack: crack
+denote: denoted
+Gerischer: Gerischer
+professional: professional professionals
+defect: defects defect
+electrode: electrodes electrode
+supercool: Supercooling
+MGES: MGES
+infinitely: infinitely
+substrate: substrate substrates
+Turgut: Turgut
+Mete: Mete
+Fiebig: Fiebig
+Helen: Helen
+reliable: reliable
+have: have has having had
+Elmore: Elmore
+displace: displaced
+switch: switches switching switch switched
+physrevx: PhysRevX
+Jülich: Jülich
+diffusion: diffusion
+scientist: scientists
+Lechner: Lechner
+Dienstbier: Dienstbier
+Arne: Arne
+delay: delayed delay
+Ulbricht: Ulbricht
+lay: laid lay lays
+Educational: Educational
+geographically: geographically
+verifiably: verifiably
+Substances: Substances
+off: off
+vastly: vastly
+generator: generators generator
+weigh: weighed weigh weighing
+internal: internal
+finalist: finalists
+fingerprint: fingerprint
+auto: auto
+Falcon: Falcon
+Luca: Luca
+calibration: calibrations
+Brillouin: Brillouin
+Sessi: Sessi
+John: John
+Circuits: Circuits
+once: once
+substance: substance
+induce: induced induce
+Whitlow: Whitlow
+Waals: Waals
+California: California
+feeling: feeling
+Giovanna: Giovanna
+chargeless: chargeless
+Huali: Huali
+rust: rust
+hamper: hamper
+channel: channels channel
+supremacy: supremacy
+Tsukuba: Tsukuba
+richer: richer
+electronically: electronically
+manner: manner
+introduction: Introduction
+ultrashort: ultrashort
+Alarcón: Alarcón
+efficiently: Efficiently
+point: point points pointing
+ucc: UCC
+realisation: realisation
+success: success successes
+choose: chosen
+propagate: propagate propagating propagates propagated
+breakdown: breakdown
+possibly: possibly
+cheat: cheating
+Simmonds: Simmonds
+synchrony: synchrony
+Keerthy: Keerthy
+Magnesium: Magnesium
+Zache: Zache
+firmly: firmly
+Barbara: Barbara
+communication: communication
+apparently: apparently
+Electroluminescence: Electroluminescence
+presume: presumed
+source: source sources
+Skogh: Skogh
+relativity: relativity
+qshi: QSHI
+learn: learn learns learned
+uncover: uncover uncovered
+Geim: Geim
+Ruobing: Ruobing
+Braund: Braund
+scanner: scanner
+represent: represents represent representing represented
+quantized: quantized
+valence: valence
+Robotics: Robotics
+Sadowski: Sadowski
+arbitrarily: arbitrarily
+Cori: Cori
+Biznárová: Biznárová
+faster: faster
+positively: positively
+absence: absence
+bust: busted
+Rochester: Rochester
+oh: Oh
+execute: executing execute executes
+bundle: bundles bundle
+molecular: molecular
+why: why
+task: task tasks
+Youqi: Youqi
+wait: wait
+Yorktown: Yorktown
+contributor: contributors
+Jakob: Jakob
+OxideMEMS: OxideMEMS
+Vermersch: Vermersch
+Bochum: Bochum
+LL: LL
+Zhen: Zhen
+claim: claims claiming
+reinvent: reinvent
+Wiess: Wiess
+require: requires required require requiring
+twisty: Twisty
+PD: PD
+dissipationless: dissipationless
+incoming: incoming
+demonstration: demonstration demonstrations
+USC: USC
+Minoguchi: Minoguchi
+agree: agree
+Champaign: Champaign
+cryogenic: cryogenic
+greener: greener
+Kenji: Kenji
+Coyne: Coyne
+too: too
+manage: managed manage
+Hongfei: Hongfei
+Hussein: Hussein
+layered: layered
+Mahboob: Mahboob
+Huan: Huan
+improvement: improvements improvement
+tie: tied
+KyotoU: KyotoU
+Bode: Bode
+feature: features feature featuring featured
+South: South
+accept: accepted
+graduate: graduated graduate
+criterion: criterion criteria
+benzene: benzene
+condensate: condensate Condensates
+hinder: hindered
+constituent: constituent constituents
+analytical: analytical
+Tomohiro: Tomohiro
+loop: loop
+genre: genres
+nitrogen: nitrogen
+course: courses course
+licensing: licensing
+AlphaFold: AlphaFold
+Nowack: Nowack
+phosphorus: phosphorus
+force: force forces
+coefficient: coefficients
+coherent: coherent
+president: president
+depression: depression
+intervene: intervene
+intrinsically: intrinsically
+negligible: negligible
+Zuckerberg: Zuckerberg
+repository: repository
+stem: stems
+Zhizhan: Zhizhan
+nicely: nicely
+Shi: Shi
+strain: Strain
+fidelity: fidelity fidelities
+equally: Equally
+Guo: Guo
+reserve: reserved
+precision: precision
+conversation: conversation
+finer: finer
+gradient: gradient gradients
+Uday: Uday
+Joe: Joe
+qubit: qubit
+arsenal: arsenal
+plane: plane
+barcode: barcode
+slow: slow slows slowing
+Lancaster: Lancaster
+ultrathin: ultrathin
+somewhat: somewhat
+broadband: broadband
+Faisal: Faisal
+moon: moon
+Radiation: Radiation
+step: steps step
+Helium: Helium
+fruit: fruit fruits
+traditionally: traditionally
+imperfection: imperfections
+scarcity: scarcity
+embrace: embrace Embracing
+replace: replacing replace replaced replaces
+Ray: Ray
+evolve: evolves evolve
+achievable: achievable
+Fasel: Fasel
+customize: customizing
+diagnosis: diagnosis
+hardy: Hardy
+Newton: Newton
+effort: effort efforts
+purple: purple
+EPiQS: EPiQS
+Wagner: Wagner
+needle: needle
+supervise: supervising
+Annealers: Annealers
+checkerboard: checkerboard
+Jeannine: Jeannine
+everyone: everyone
+show: Shows shown showing showed
+London: London
+naive: naive
+burn: burning
+Linus: Linus
+Bernstein: Bernstein
+nominal: nominal
+warming: Warming
+Anders: Anders
+Converter: Converter
+domestic: domestic
+pressure: pressure
+advent: advent
+likely: likely
+Yuanqi: Yuanqi
+portfolio: portfolio
+circuitry: circuitry
+fewer: fewer
+thesis: thesis
+Qimiao: Qimiao
+server: servers
+bit: bits bit
+proportion: proportion
+useless: useless
+quintet: quintet quintets
+Chakravarthi: Chakravarthi
+student: student students
+Tina: Tina
+Learning: Learning
+empty: empty
+location: location locations
+Malla: Malla
+Schwartz: Schwartz
+market: markets market
+approximate: approximate
+Kalinowski: Kalinowski
+Amir: Amir
+generational: generational
+Ken: Ken
+Ashok: Ashok
+Strange: Strange
+hard: hard
+Sorts: Sorts
+donor: Donor donors
+usefulness: usefulness
+subject: subject subjected
+trace: Tracing
+bythe: bythe
+spectroscopic: spectroscopic
+try: trying tried try
+sensitive: sensitive
+Swansea: Swansea
+already: already
+wiring: wiring
+minimal: minimal
+Raha: Raha
+Averitt: Averitt
+organise: organise
+Sports: Sports
+Edmond: Edmond
+tiny: tiny
+break: Breaking break breaks
+path: path paths
+Hexaboride: Hexaboride
+Nanomaterials: Nanomaterials
+spur: spurred
+metro: metro
+fluid: fluid fluids
+difficulty: difficulty
+soon: soon
+custom: custom
+dress: dressed
+forecasting: forecasting
+crystalline: crystalline
+collection: collection
+mask: masks mask
+mimic: mimic mimics
+Junjie: Junjie
+teleporting: teleporting
+Maximenko: Maximenko
+abruptly: abruptly
+moisture: moisture
+nobody: Nobody
+noisy: noisy
+Danelski: Danelski
+elucidate: elucidates
+Evan: Evan
+arsenide: arsenide
+Heart: Heart
+Eva: Eva
+nextgen: Nextgen
+extended: extended
+Doll: Doll
+cheap: Cheap
+Harriet: Harriet
+cesii: CeSiI
+Gerster: Gerster
+ISTA: ISTA
+Wu: Wu
+defective: defective
+outline: outlined outlines
+Bourns: Bourns
+partial: partial
+Processors: Processors
+uncharted: uncharted
+entangled: entangled
+Beckert: Beckert
+worse: worse
+observe: observe observed observing
+spatial: spatial
+less: less
+Washington: Washington
+Combat: Combat
+Royce: Royce
+usinga: usinga
+fisher: fisher
+leverage: leveraging leveraged leverage leverages
+originally: originally
+Vigneau: Vigneau
+consider: considered considering considers consider
+private: private
+peel: peeled Peeling peel
+cutting: cutting
+tier: tiers
+hence: hence
+size: size sizes
+PNAS: PNAS
+Root: Root
+counterpart: counterpart
+disappear: disappear disappears
+smallest: smallest
+Greiner: Greiner
+resilience: resilience
+surpass: Surpass surpassing surpasses
+Brink: Brink
+system: system systems
+real: real
+Gui: Gui
+Tekwam: Tekwam
+dispersive: dispersive
+gate: gate gates
+relation: relation
+transmon: transmon transmons
+Florida: Florida
+infer: inferred infer inferring
+Robert: Robert
+organ: organs
+Danny: Danny
+geometric: geometric
+commercialize: commercialized
+Gonzalez: Gonzalez
+floppy: floppy
+indent: indents
+prior: Prior
+tomography: tomography
+Junichi: Junichi
+oscillation: oscillation oscillations
+optimum: optimum
+carrier: carriers carrier
+march: march
+Gluza: Gluza
+disadvantage: disadvantage
+dirt: dirt
+extinction: Extinction
+spdc: SPDC
+SLAC: SLAC
+Dempsey: Dempsey
+recognition: recognition
+interview: interviewed
+paradoxical: paradoxical
+fairly: fairly
+disperse: disperses
+fire: fire
+deployable: deployable
+Polytechnic: Polytechnic
+Duc: Duc
+surface: surface surfaces
+changer: changer
+worst: worst
+Kibble: Kibble
+photovoltaic: photovoltaic
+Telescopes: Telescopes
+stabilize: stabilized stabilizing stabilize
+Leitenstorfer: Leitenstorfer
+familiar: familiar
+Endowed: Endowed
+shell: shell
+seed: seeding
+lowest: lowest
+noble: noble
+depend: depends depend depending
+economic: economic
+buzz: buzz
+proximity: proximity
+Fitness: Fitness
+Chen: Chen
+Schüttelkopf: Schüttelkopf
+ideal: ideal
+Lego: Lego
+bulk: bulk
+SIMES: SIMES
+mountainous: mountainous
+research: research Researching researches
+Mikolas: Mikolas
+Kondo: Kondo
+compose: composed
+cleaner: cleaner
+want: want wanted wants
+Fossil: Fossil
+pattern: patterns pattern patterned
+Vazirani: Vazirani
+curve: Curves
+Ministry: Ministry
+orchestrate: orchestrated
+alter: alters altering alter
+Sejdinovic: Sejdinovic
+labelling: labelling
+longstanding: longstanding
+Ornelas: Ornelas
+guide: guides guide guided
+interaction: interaction interactions
+contestant: contestants
+Forschungsgemeinschaft: Forschungsgemeinschaft
+recipe: recipe
+incomplete: Incomplete
+initial: initial
+forth: forth
+seemingly: seemingly
+polar: polar
+ultraclean: ultraclean
+avenue: avenue
+Intuitively: Intuitively
+biphoton: biphoton biphotons
+tu: TU
+bear: bear bears bearing
+energetically: energetically
+Toxicity: Toxicity
+tastier: Tastier
+Schrödinger: Schrödinger
+late: Late
+enact: enact
+vacuum: Vacuum
+Gen: Gen
+substantial: substantial
+himself: himself
+forecast: forecast forecasted forecasts
+field: field fields
+consumption: consumption
+email: email emails
+sit: sits sit sitting
+eraser: eraser
+August: August
+stare: staring
+Ziebel: Ziebel
+Emil: Emil
+careful: careful
+icy: Icy
+Yoshida: Yoshida
+immune: immune
+explain: explained explain explains explaining
+Bioinformatics: Bioinformatics
+misinformation: Misinformation
+previously: previously
+William: William
+customise: customising
+fresh: fresh
+modification: modifications
+solid: Solid Solids
+model: model modeled
+antiferromagnet: antiferromagnets antiferromagnet
+Lambda: Lambda
+Nikhil: Nikhil
+Dunning: Dunning
+accomplishment: accomplishment
+extent: extent
+Hayakawa: Hayakawa
+border: border
+exist: exist exists existing existed
+conform: Conforming
+cnm: CNM
+inextricably: inextricably
+disk: disks
+Samuele: Samuele
+antimony: antimony
+connect: connected connect connecting connects
+swirling: swirling
+famously: famously
+complementary: complementary
+Werner: Werner
+professor: professors
+Iradwikanari: Iradwikanari
+stumble: stumbled
+cory: Cory
+Penn: Penn
+join: join joined joining
+concentrate: concentrating concentrated
+gainn: GaInN
+Chiral: Chiral
+yes: yes
+Farokh: Farokh
+Invention: Invention
+decide: decided
+Alexander: Alexander
+triplon: triplon Triplons
+Riverside: Riverside
+Analytics: Analytics
+intensive: intensive
+gel: gel
+Martina: Martina
+cuprate: cuprate cuprates
+Viterbi: Viterbi
+shine: Shining shine shines shone
+groundbreaking: groundbreaking
+anharmonic: anharmonic
+Radioactive: Radioactive
+Onda: Onda
+tcd: TCD
+Feynman: Feynman
+Zoe: Zoe
+standard: standards
+efficient: efficient
+novelty: novelty
+NASA: NASA
+horizon: horizon
+cloth: cloth
+mastermind: mastermind
+phonon: phonons phonon
+Jonilyn: Jonilyn
+state: state stated states
+nation: nation
+nonreciprocity: nonreciprocity
+agreement: agreement
+weakly: weakly
+cylindrical: cylindrical
+Borsch: Borsch
+Deutsche: Deutsche
+excitonic: excitonic excitonics
+analyze: Analyzing analyze analyzed
+analyse: analysed analysing
+implication: implications
+lab: lab labs
+Yifan: Yifan
+Flagship: Flagship
+binary: binary
+disagreement: disagreement
+Changlong: Changlong
+necessarily: necessarily
+optimize: optimized optimizing optimize
+Blankenship: Blankenship
+Artur: Artur
+Chica: Chica
+insert: inserted inserting
+variance: variance
+sure: sure
+transmit: transmits transmit transmitting transmitted
+magnetism: Magnetism
+land: land
+solve: solve solved Solving solves
+Fedele: Fedele
+hacker: hackers
+quantify: quantify Quantifying quantifies
+microchip: Microchip
+map: map maps mapping
+parkin: Parkin
+similarity: similarity
+touch: touch touching
+Louis: Louis
+Titus: Titus
+meantime: meantime
+tessellation: Tessellation
+unwanted: Unwanted
+wrong: wrong
+Kojda: Kojda
+Kate: Kate
+radioactivity: radioactivity
+tensor: tensor
+Nape: Nape
+barrage: barrage
+preserve: preserve preserving preserved
+Rock: Rock
+Margalit: Margalit
+challenging: challenging
+future: future Futures
+Cavendish: Cavendish
+reinforcement: reinforcement
+enhance: Enhanced enhance Enhancing enhances
+jump: jump
+best: best bested
+Borin: Borin
+glove: gloves glove
+continuum: continuum
+Pendharkar: Pendharkar
+security: security
+Nadeem: Nadeem
+radiative: radiative
+Alliance: Alliance
+Julian: Julian
+darkness: Darkness
+Fennel: Fennel
+densely: densely
+undertake: undertake undertaken
+degree: degree degrees
+correctly: correctly
+Notre: Notre
+role: roles role
+climb: climbing
+Andres: Andres
+Zheshen: Zheshen
+confound: confounding
+Evelyn: Evelyn
+Maria: Maria
+treatment: treatment
+commercially: commercially
+Ying: Ying
+Alex: Alex
+Pinterest: Pinterest
+essential: essential
+quintillionth: quintillionth
+Jingwei: Jingwei
+Choi: Choi
+impossible: impossible
+pessimistic: pessimistic
+master: master
+Dutta: Dutta
+reader: reader
+identification: identification
+Jia: Jia
+Acoustics: Acoustics
+Dafei: Dafei
+Ran: Ran
+Pickett: Pickett
+Dr: Dr
+sweep: sweep
+Shaoyun: Shaoyun
+similar: similar
+spend: spent
+collide: collide colliding
+broad: broad
+CHSH: CHSH
+deliberately: deliberately
+Ronny: Ronny
+infancy: infancy
+communicate: communicate
+flight: flight
+what: what
+Treatments: Treatments
+visible: visible
+planet: Planets planet
+catalyst: catalysts catalyst
+readily: readily
+Göran: Göran
+different: different
+Controlling: Controlling
+Nikolay: Nikolay
+Møller: Møller
+would: would
+Pribiag: Pribiag
+Auger: Auger
+Argillander: Argillander
+reporter: reporter reporters
+Rakesh: Rakesh
+formalism: formalism
+remember: remembers remember
+elsewhere: elsewhere
+Lawrence: Lawrence
+stimulant: Stimulants
+propagation: propagation
+KAKENHI: KAKENHI
+dramatic: dramatic
+housing: housing
+Yukawa: Yukawa
+dmr: DMR
+Alamos: Alamos
+Tantalizing: Tantalizing
+Liang: Liang
+flashlight: flashlight
+cosmology: cosmology
+uniqueness: uniqueness
+Santa: Santa
+intersection: intersection intersections
+seldom: seldom
+Moreno: Moreno
+louder: louder
+event: events
+Asher: Asher
+Classifiers: Classifiers
+regime: regimes regime
+sunlight: sunlight
+collision: collision
+float: floating float
+suddenly: suddenly
+Jing: Jing
+par: par
+comprehensive: comprehensive
+sea: Sea
+Levine: Levine
+monolayer: monolayer
+Denise: Denise
+certainly: certainly
+teach: teach
+Banszerus: Banszerus
+Yasuhiro: Yasuhiro
+cryptographic: cryptographic
+ferromagnetic: ferromagnetic
+inaugural: inaugural
+caution: caution cautions
+microkelvin: microkelvin microkelvins
+setting: settings
+Usman: Usman
+accompany: accompanied accompanies
+Professorial: Professorial
+Kathleen: Kathleen
+Nguyen: Nguyen
+radio: radio
+strictly: strictly
+glance: glance
+limitation: limitations limitation
+harbor: harbored
+Shriram: Shriram
+hair: hair
+separately: separately
+specifically: Specifically
+Tschaggelar: Tschaggelar
+Japan: Japan
+recognize: recognizing recognized
+nanodevice: nanodevice
+proper: proper
+quantumx: QuantumX
+Paleontology: Paleontology
+Kayyalha: Kayyalha
+Holmvall: Holmvall
+recent: recent
+tease: tease
+Swedish: Swedish
+reconstruction: reconstruction
+copper: copper
+specially: specially
+Vree: Vree
+Friend: Friend
+generation: generation
+predoctoral: predoctoral
+noise: noise
+COVID: COVID
+Hasan: Hasan
+partly: partly
+localise: localised
+style: style
+reactant: reactant reactants
+pivot: pivoted
+flat: flat
+aid: aid aiding
+Magnets: Magnets
+Jens: Jens
+analogy: analogy
+vaccine: Vaccine
+competitive: competitive
+coordination: coordination
+image: images image imaged
+ergodicity: ergodicity
+Kumar: Kumar
+Wieck: Wieck
+substantially: substantially
+supercomputer: supercomputers
+return: return returns
+Łukasz: Łukasz
+adverse: adverse
+Emeritus: Emeritus
+exceed: exceeding exceeds exceeded exceed
+line: lines line lined
+uninterrupted: uninterrupted
+lighting: lighting
+Dyakonov: Dyakonov
+project: project
+Boston: Boston
+meter: meter meters
+vehicle: vehicle
+background: background backgrounds
+center: centers
+good: good
+gan: GaN
+Dulal: Dulal
+antiproton: antiprotons
+ga: gA
+elapse: elapses
+superpositioning: superpositioning
+moulding: moulding
+lucky: lucky
+Stability: Stability
+phenomenon: phenomenon
+Paradox: Paradox
+subregion: subregions
+replacement: replacement
+Neto: Neto
+compliant: compliant
+deliver: delivers deliver delivered delivering
+happen: happens happening happen happened
+ithems: iTHEMS
+detect: detect detects detecting detected
+exert: exerted exerts
+Franke: Franke
+Save: Save
+modular: modular
+tool: tools
+Chun: Chun
+Ricci: Ricci
+problem: problems problem
+worldwide: worldwide
+description: description descriptions
+Zoller: Zoller
+Anvil: Anvil
+Cancer: Cancer
+provably: Provably
+grapple: grappled
+tolerance: tolerance
+Jörg: Jörg
+Cirac: Cirac
+usage: usage
+Lens: Lens
+highly: highly
+Initiative: Initiative
+big: Big
+Kaubrügger: Kaubrügger
+Tancredi: Tancredi
+formation: formation
+inertial: inertial
+furthermore: Furthermore
+compensate: compensate
+own: own owned
+bet: betting
+phase: phases phase Phasing
+Beysengulov: Beysengulov
+Seamus: Seamus
+SQUID: SQUID
+carefully: carefully
+Kyle: Kyle
+methanol: methanol
+Cai: Cai
+Marek: Marek
+circular: circular
+Mikael: Mikael
+Hangzhou: Hangzhou
+stick: stick stuck
+angle: angle angles
+diffusive: diffusive
+Spain: Spain
+backwards: backwards
+bottom: bottom
+up: up
+PRX: PRX
+process: Process processes processed
+scale: scales scale Scaling scaled
+tunable: Tunable
+Gustavsson: Gustavsson
+toxic: toxic
+Loock: Loock
+Bijnen: Bijnen
+Hanyan: Hanyan
+optoelectronic: optoelectronic
+Thermodynamics: Thermodynamics
+Antimatter: Antimatter
+human: humans
+geology: Geology
+variability: variability
+Megan: Megan
+circumvent: circumventing
+cyclically: cyclically
+Lorenz: Lorenz
+tension: tension
+plasmonic: plasmonic
+overlie: overlying
+tungsten: tungsten
+Offbeat: Offbeat
+endeavour: endeavour
+Mysteries: Mysteries
+chemist: Chemists chemist
+tagging: tagging
+generate: generate generated generates
+Hydrogenated: Hydrogenated
+Imaging: Imaging
+prospects: prospects
+Nanofabrication: Nanofabrication
+seek: seeking seek seeks sought
+facilitate: facilitated facilitate
+Valla: Valla
+Württemberg: Württemberg
+so: so
+generalization: generalization
+deeply: deeply
+clear: clear
+introduce: introducing introduce introduced introduces
+Quest: Quest
+Samuli: Samuli
+tame: taming tame
+higher: higher
+unpaired: unpaired
+Markus: Markus
+Zurek: Zurek
+fleeting: fleeting
+Tea: Tea
+Thinel: Thinel
+Tantalum: Tantalum
+Bush: Bush
+twirl: twirl
+Madonini: Madonini
+qcd: QCD
+Friedrich: Friedrich
+revolution: revolution
+Computers: Computers
+per: per
+STEM: STEM
+Agriculture: Agriculture
+prevent: prevent Prevents prevented
+zero: zeros
+must: must
+perovskite: perovskite perovskites
+interact: interact interacting interacts
+Deyi: Deyi
+Umesh: Umesh
+Claire: Claire
+adv: advs
+Southampton: Southampton
+eat: eaten
+specialist: specialists
+nowadays: nowadays
+hg: Hg
+reproducible: reproducible
+Multipartite: Multipartite
+Nanoearthquakes: Nanoearthquakes
+normally: normally
+idler: idler
+normal: Normal
+influential: influential
+Jin: Jin
+Safer: Safer
+excellent: excellent
+organize: organize
+Rezaee: Rezaee
+play: play plays playing played
+cryomagnet: cryomagnets
+keep: Keep keeps kept
+appear: appears appear appeared appearing
+Xiao: Xiao
+Warren: Warren
+Andrew: Andrew
+minute: minute minutes
+Briegel: Briegel
+Coldest: Coldest
+consequently: consequently
+Clara: Clara
+Christopher: Christopher
+band: band bands
+led: LEDs
+appointee: appointee
+do: do does did done doing
+short: short
+subthrust: subthrust
+occur: occurs occur occurring occurred
+Victor: Victor
+astronomical: astronomical
+all: all
+advertise: Advertise
+Anna: Anna
+pave: Paves pave paving paved
+differ: differs
+Preschool: Preschool
+gigantic: gigantic
+Kolkata: Kolkata
+Murto: Murto
+programming: programming
+niobate: niobate
+bulkier: bulkier
+Hecker: Hecker
+belief: belief
+head: heads head headed
+Da: Da
+Keenan: Keenan
+AMOLF: AMOLF
+qkd: QKD
+NTT: NTT
+Physics: Physics
+Artem: Artem
+Fritsch: Fritsch
+distribution: distributions distribution
+rest: rest
+serve: serve serves
+phd: PhD
+Wendin: Wendin
+cleanly: cleanly
+startup: startup
+barrier: barriers barrier
+employee: employees
+Cao: Cao
+fit: fit
+favorable: favorable
+redundant: redundant
+Sesing: Sesing
+hand: hands hand
+Olivier: Olivier
+practically: practically
+align: aligned aligning align
+collaborator: collaborators
+print: Print printed
+crash: Crashing
+nickelate: nickelate
+dynamically: dynamically
+Xuereb: Xuereb
+Counterparts: Counterparts
+Xiang: Xiang
+growth: growth
+niobium: niobium
+suggest: suggested suggests suggest
+affinity: affinity
+involve: involving involved involves involve
+Wolfgang: Wolfgang
+compiler: compiler
+squeeze: squeeze squeezed squeezing
+milk: milk
+domain: domain
+Neupert: Neupert
+react: react
+specialty: specialty
+context: context
+hydrogen: Hydrogen
+distinguish: distinguish distinguished
+Sean: Sean
+Vuletić: Vuletić
+emphasize: emphasizes Emphasize
+reveal: revealing reveals reveal revealed
+singular: singular
+capacitance: capacitance capacitances
+Binai: Binai
+poorly: poorly
+networked: networked
+infrastructure: infrastructure infrastructures
+primarily: primarily
+Affairs: Affairs
+bosonic: bosonic
+responsible: responsible
+amorphous: amorphous
+younger: younger
+browse: browse
+monopole: monopoles monopole
+strike: struck
+inspire: Inspired
+Andrei: Andrei
+thanks: thanks
+scholarship: scholarship
+rigorous: rigorous
+molybdenum: molybdenum
+Dobrautz: Dobrautz
+toggle: toggled
+Fang: Fang
+Rajibul: Rajibul
+LIGO: LIGO
+previous: previous
+modulator: modulators modulator
+cellphone: cellphones
+Nadkishore: Nadkishore
+dielectric: dielectric
+additionally: Additionally
+kindergartner: kindergartners
+exponentially: exponentially
+institution: institutions
+Ritsch: Ritsch
+detrimental: detrimental
+exotic: exotic
+accumulation: accumulation
+erasure: erasure
+native: native
+Jeffrey: Jeffrey
+Industries: Industries
+pretty: pretty
+Drummond: Drummond
+Fariborz: Fariborz
+pedestrian: pedestrian
+nanotube: nanotube nanotubes
+correct: Correcting corrected correct corrects
+Classical: Classical
+somehow: somehow
+Basov: Basov
+nanoribbon: nanoribbons
+re: RE
+philosophy: philosophy
+glom: glom
+Dario: Dario
+campaign: campaign
+compression: compression
+Guiding: Guiding
+Youngseok: Youngseok
+Online: Online
+invisible: invisible
+Army: Army
+hit: hit
+semimetal: semimetals
+Nanyang: Nanyang
+Artificial: Artificial
+Toeno: Toeno
+present: presents present presenting presented
+dissect: dissecting
+diverge: diverging diverged
+trail: trailing
+arrange: arrange arranged arranging
+chirality: chirality
+fog: fog
+spinaron: spinarons
+neighbour: neighbouring neighbours
+sharealike: ShareAlike
+Alberto: Alberto
+trough: troughs
+host: host hosts hosting
+pandemic: pandemic
+dense: dense
+Automobile: Automobile
+computationally: computationally
+Savona: Savona
+Qianfan: Qianfan
+cqt: CQT
+unusually: unusually
+coauthor: coauthors
+routinely: routinely
+highlight: Highlight highlights highlighting
+birth: birth
+sale: Sales
+iparticle: iparticles
+evaluate: evaluate
+Optoacoustic: Optoacoustic
+run: run runs running
+Collaborator: Collaborator
+Qubits: Qubits
+look: looking look looked looks
+fulfil: fulfil
+advanced: advanced
+Standard: Standard
+widespread: Widespread
+prepare: prepare prepared preparing
+Semiconductor: Semiconductor
+microscopy: microscopy
+Leon: Leon
+cut: cut cuts
+biologist: Biologists
+delve: delved
+Mangler: Mangler
+Marino: Marino
+Minnesota: Minnesota
+BMWK: BMWK
+shield: shielded
+strongly: strongly
+Zidong: Zidong
+trick: trick tricks
+Islam: Islam
+Kamal: Kamal
+femtowatt: femtowatt
+quadrature: quadrature quadratures
+Mickael: Mickael
+turbocharge: Turbocharge
+weak: weak
+ready: ready
+consecutive: consecutive
+negligibly: negligibly
+Küster: Küster
+epilepsy: epilepsy
+effect: effect effects
+rot: rot
+disrupt: disrupt disrupts
+assembly: assembly
+page: Page
+necessary: necessary
+result: results result resulting resulted
+fiber: fibers fiber
+Adrian: Adrian
+Haley: Haley
+interface: interface
+enter: enter entered entering
+Abdalghani: Abdalghani
+stm: STM
+dope: doped doping
+toolset: toolset
+Prize: Prize
+pebble: pebbles
+LU: LU
+detective: detective
+closing: Closing
+Fabrizio: Fabrizio
+Niedzielski: Niedzielski
+Renselaer: Renselaer
+Bell: Bell
+manipulable: manipulable
+speedup: speedup
+Te: Te
+retrieve: Retrieved retrieving retrieve
+Zhaohan: Zhaohan
+dead: dead
+interferometry: interferometry
+Barsukov: Barsukov
+Laboratory: Laboratory
+opportunity: opportunities opportunity
+Ytterbium: Ytterbium
+thicker: thicker
+set: set Sets setting
+Devereaux: Devereaux
+Marios: Marios
+Kingery: Kingery
+sphere: spheres
+civil: civil
+outside: outside
+Schanen: Schanen
+void: void
+minimalistic: minimalistic
+accelerate: accelerate accelerated accelerating
+determine: determined determine determines determining
+Saigo: Saigo
+modulation: modulation
+diverse: Diverse
+confront: Confront
+emergence: Emergence
+colleague: colleagues colleague
+wonderful: wonderful
+Burrows: Burrows
+burst: burst
+methodology: methodology
+ease: Ease
+dual: dual
+PASQAL: PASQAL
+poke: poke
+full: FULL
+Patric: Patric
+duality: duality
+idea: idea ideas
+reckoning: reckoning
+delighted: delighted
+Mohammadamin: Mohammadamin
+before: before
+Matsuzaki: Matsuzaki
+accuracy: accuracy
+somewhere: somewhere
+Allergy: Allergy
+rudimentary: rudimentary
+quark: Quark quarks
+bird: bird
+milli: milli
+clean: clean
+Gorgon: Gorgon
+Autocatalysis: Autocatalysis
+Tsai: Tsai
+compelling: compelling
+undergo: undergo undergoes
+alphabet: alphabet
+Lukin: Lukin
+revolutionise: revolutionise
+MSU: MSU
+gps: GPS
+Chenyu: Chenyu
+Krutyanskiy: Krutyanskiy
+vintage: vintage
+biologically: biologically
+OIST: OIST
+Brantut: Brantut
+heighten: heightening
+examine: examines examined Examining examine
+der: der
+Pioneer: Pioneer
+Kokail: Kokail
+anisotropy: anisotropy
+Dances: Dances
+push: pushing pushed pushes push
+Bethany: Bethany
+Knut: Knut
+Xiangzhi: Xiangzhi
+Jelena: Jelena
+whirling: whirling
+validate: validate validated validating
+highway: highway
+Pauli: Pauli
+Weiler: Weiler
+Agency: Agency
+academia: academia
+rank: rank
+Rodriguez: Rodriguez
+enhancement: enhancement
+Kobe: Kobe
+Shunsuke: Shunsuke
+immediate: immediate
+variation: variations variation
+halide: halide halides
+track: tracking
+rotten: rotten
+Royal: Royal
+forecaster: forecasters
+seconds: seconds
+MIRVAL: MIRVAL
+vector: vector
+Rüschlikon: Rüschlikon
+Martínez: Martínez
+securely: securely
+Flatiron: Flatiron
+just: just
+advertisement: advertisements
+synthesis: synthesis
+unexpected: unexpected
+else: else
+Junbo: Junbo
+hefty: hefty
+Matt: Matt
+Fulde: Fulde
+Columbia: Columbia
+Stadler: Stadler
+Tunability: Tunability
+namely: namely
+booth: booth
+Zhao: Zhao
+glimpse: Glimpse
+Volk: Volk
+ceiling: ceiling
+Sangouard: Sangouard
+understand: understand understood
+it: it
+auxiliary: auxiliary
+Nami: Nami
+analogue: analogues analogue
+Presidential: Presidential
+boundary: boundary boundaries
+Straintronics: Straintronics
+experimentalist: experimentalist
+Jiong: Jiong
+Girard: Girard
+Kliemt: Kliemt
+China: China
+label: labeled
+site: site
+chic: chic
+Taheri: Taheri
+impurity: impurities
+Blatt: Blatt
+refine: refine
+Public: Public
+Evered: Evered
+QTF: QTF
+Vigneshwaran: Vigneshwaran
+branch: branch branches
+manipulation: manipulation
+crowd: crowd
+prxquantum: PRXQuantum
+redefinition: redefinition
+Vlad: Vlad
+accelerometer: accelerometers
+tellurium: tellurium
+Yuan: Yuan
+curvature: curvature
+Joseph: Joseph
+dollar: dollars
+Energie: Energie
+Marcin: Marcin
+interior: interior
+iToffoli: iToffoli
+herald: heralding heralded
+buildup: buildup
+Wilson: Wilson
+option: options option
+Krcmarsky: Krcmarsky
+cable: cable
+Klaus: Klaus
+Religion: Religion
+Chi: Chi
+impose: imposed
+sheet: sheet sheets
+camera: camera
+impact: impact impacts impacting
+Division: Division
+superior: superior
+Julien: Julien
+narrower: narrower
+abstract: abstract
+ignite: ignited
+annealing: annealing
+School: School
+vibrationally: Vibrationally
+essentially: essentially
+hinge: hinges
+Coates: Coates
+Clerk: Clerk
+separation: separation
+exemplify: exemplifies
+fluorescent: fluorescent
+Zhuo: Zhuo
+Broyles: Broyles
+swissfel: SwissFEL
+Warwick: Warwick
+fix: fixed
+Eloisa: Eloisa
+Philippe: Philippe
+Alps: Alps
+unaltered: unaltered
+Chemicals: Chemicals
+distortion: Distortions Distortion
+literature: literature
+Grandi: Grandi
+Denmark: Denmark
+Erker: Erker
+self: Self
+Gerber: Gerber
+semiconducting: semiconducting
+conclude: concluded conclude concludes
+macrocosm: macrocosm
+Sponge: Sponge
+hyperbolic: Hyperbolic
+Nirala: Nirala
+vaccination: vaccinations
+Hariom: Hariom
+Han: Han
+Lado: Lado
+local: local
+Belgium: Belgium
+Laura: Laura
+electrically: electrically
+Taniguchi: Taniguchi
+investigation: investigation
+SWIR: SWIR
+watch: watched watch watching
+Goold: Goold
+convenient: convenient
+Victoria: Victoria
+shift: shifts shift shifted
+spin: spin spins spinning spun
+Matmon: Matmon
+tap: tap Tapping taps
+govern: governed govern
+Croucher: Croucher
+thermometer: thermometer
+correspondingly: correspondingly
+Dusanowski: Dusanowski
+Mpemba: Mpemba
+closer: closer
+term: TERMS term termed
+Posey: Posey
+trisulfide: trisulfide
+clever: clever
+Grainger: Grainger
+db: dB
+instruction: instructions
+pack: packed pack
+superconductor: superconductors superconductor
+confines: confines
+optimise: optimise optimising
+utilization: utilization
+subscription: Subscriptions
+mri: MRI
+Earth: Earth
+ensemble: ensembles ensemble
+semiconductor: semiconductors
+smart: smart
+MEEN: MEEN
+networking: networking
+unleash: unleash Unleashing
+entire: entire
+effective: effective
+stretch: stretching stretch stretched
+Konishi: Konishi
+Würzburg: Würzburg
+Lanyon: Lanyon
+Georgia: Georgia
+Hertz: Hertz
+Blue: Blue
+Mars: Mars
+Twisting: Twisting
+Scissors: Scissors
+subatomic: subatomic
+Kusumoto: Kusumoto
+societal: societal
+ftf: FTF
+angular: angular
+Bose: Bose
+situation: situation situations
+intense: intense
+Zenodo: Zenodo
+zirconium: zirconium
+autonomous: autonomous
+vibrate: vibrates vibrate Vibrating
+hang: hang hangs
+qurv: Qurv
+microscope: Microscope microscopes
+award: award awarded
+Extrasolar: Extrasolar
+proud: proud
+motion: motion motions
+bead: beads bead
+readjust: readjusting
+Water: Water
+Mobile: Mobile
+degrading: degrading
+decade: decade decades
+Gabriela: Gabriela
+Zhejiang: Zhejiang
+newer: newer
+Nanoscience: Nanoscience
+Yalin: Yalin
+establish: established establish establishes
+eigenvalue: eigenvalues
+QuEra: QuEra
+Paola: Paola
+IQM: IQM
+STORIES: STORIES
+negative: negative
+bind: bound bind
+sometimes: Sometimes
+Evolution: Evolution
+phthalocyanine: phthalocyanine
+protein: protein
+Zavjalov: Zavjalov
+leak: leaks
+Serniak: Serniak
+increasingly: increasingly
+Pei: Pei
+job: jobs
+Arrell: Arrell
+unusual: unusual
+hafnium: Hafnium
+Yan: Yan
+temperature: temperature temperatures
+Wireless: Wireless
+mean: meaning mean meant
+differentiate: differentiated differentiate
+information: information
+Muhammad: Muhammad
+Dynamics: Dynamics
+ultracold: ultracold
+beautifully: beautifully
+Jian: Jian
+Missouri: Missouri
+clearly: clearly
+misalign: misaligned
+Di: Di
+neural: neural
+aspect: aspects aspect
+Dynes: Dynes
+synchronize: synchronized
+pause: pause
+Princeton: Princeton
+trap: trapped Trap traps
+Kyiv: Kyiv
+polarization: polarization
+concentration: concentrations concentration
+Swiss: Swiss
+conductance: conductance
+Matthias: Matthias
+Chenru: Chenru
+nutshell: nutshell
+minimise: minimise minimises
+grasp: grasp
+Intelligence: Intelligence
+create: created create creates Creating
+calculation: calculations calculation
+compute: Computes computed compute
+manufacture: manufactured manufacturing
+fission: fission
+Argonne: Argonne
+Nickel: Nickel
+Ida: Ida
+trillion: trillions
+super: super
+Wei: Wei
+redo: redo
+receive: receiving received
+crucially: Crucially
+night: night
+isolation: isolation
+Gang: Gang
+Hiroshima: Hiroshima
+advance: advances advance Advancing
+Ares: Ares
+scaffolding: scaffolding
+Ren: Ren
+Qiannan: Qiannan
+Monash: Monash
+Carl: Carl
+randomization: randomization
+NIST: NIST
+Waluyo: Waluyo
+dioxide: dioxide
+Craig: Craig
+realization: realization
+bridge: bridged bridge Bridging bridges
+coherently: coherently
+energy: energies
+goal: goal
+Gene: Gene
+Brennan: Brennan
+spring: springs spring
+momentum: momentum
+painstakingly: painstakingly
+distinction: distinctions
+preliminary: preliminary
+quanta: quanta
+century: century
+height: height
+reflection: reflection reflections
+colored: colored
+EPSRC: EPSRC
+degrade: degraded degrade degrades
+Revolutionary: Revolutionary
+resistance: resistance resistances
+northeastern: Northeastern
+Kyoto: Kyoto
+Reptile: Reptile
+Seiffert: Seiffert
+conceptually: conceptually
+bandwidth: bandwidth bandwidths
+Mo: Mo
+earlier: earlier
+entanglement: entanglement
+silver: silver
+bad: bad
+ingredient: ingredient ingredients
+Ollerenshaw: Ollerenshaw
+twice: twice
+carriageway: carriageway
+Top: Top
+Trevor: Trevor
+Feuer: Feuer
+availability: availability
+Maine: Maine
+principle: principles principle
+conclusively: conclusively
+walk: walks walked
+biggest: biggest
+chemical: chemical
+Creativity: Creativity
+airborne: airborne
+excite: excited excite excites
+Debarshi: Debarshi
+Leap: Leap
+forward: forward
+Nürnberg: Nürnberg
+Ethan: Ethan
+Supercomputing: Supercomputing
+talk: talking talk
+aspiration: aspirations
+criminal: criminal
+build: build builds built
+QuantumCTek: QuantumCTek
+Barz: Barz
+PRESTO: PRESTO
+Malatino: Malatino
+measurable: measurable
+freeze: Freeze frozen freezes
+outcome: outcomes outcome
+yield: yield yielded yields
+Kuzum: Kuzum
+Ruhr: Ruhr
+bite: Bite
+Munich: Munich
+Kyo: Kyo
+assign: assign assigned assigns
+container: container
+retain: retain retained retaining retains
+FRIS: FRIS
+Maskara: Maskara
+HZB: HZB
+thing: thing Things
+thermoelectric: thermoelectric
+Nanoribbon: Nanoribbon
+receiver: receiver
+reasonable: reasonable
+discard: discard discarded
+adjustment: adjustments adjustment
+persistent: persistent
+underly: underly
+Brian: Brian
+collectively: collectively
+apart: apart
+Dublin: Dublin
+Widest: Widest
+rule: rules
+inherent: inherent
+Londi: Londi
+arrive: arriving arrive arrived
+inch: inches
+overcome: overcomes overcome overcoming overcame
+Morgan: Morgan
+interdisciplinarity: interdisciplinarity
+configure: configure configuring
+unchanged: unchanged
+SuperConga: SuperConga
+Eccellenza: Eccellenza
+extraordinarily: extraordinarily
+Duygu: Duygu
+decohere: decohere
+Reforestation: Reforestation
+Yichen: Yichen
+bunch: bunch
+peer: peer
+Yixuan: Yixuan
+emission: emissions emission
+prompt: prompting prompted
+uncertainty: uncertainty uncertainties
+Interferometer: Interferometer
+Spyros: Spyros
+Clauser: Clauser
+constitute: constitute constituting
+Temme: Temme
+store: store storing stored
+well: well
+Takahashi: Takahashi
+pumping: pumping
+sequential: sequential
+stochastic: Stochastic
+load: loaded
+Ellis: Ellis
+instantly: instantly
+Isaac: Isaac
+watershed: watershed
+meanwhile: meanwhile
+humor: Humor
+nearly: nearly
+Marsh: Marsh
+training: training
+silicate: silicate
+Brookhaven: Brookhaven
+rich: rich
+Karolyshyn: Karolyshyn
+severe: severe
+currently: currently
+regular: regular
+Anton: Anton
+microelectromechanical: microelectromechanical
+she: her she
+Lukas: Lukas
+pinpoint: pinpoint pinpointing
+billionth: billionths billionth
+prone: prone
+Faculty: Faculty
+year: years year
+procedure: procedures
+Graphics: Graphics
+qed: QED
+cube: cube
+tweaking: tweaking
+egg: egg
+decryption: decryption
+Toggle: Toggle
+quiet: quiet
+Higgs: Higgs
+Sarmistha: Sarmistha
+locally: locally
+Michelle: Michelle
+College: College
+neuron: neuron neurons
+Cryopreservation: Cryopreservation
+Health: Health
+demonstrate: demonstrated demonstrate demonstrating demonstrates
+pay: paid pay
+Kentaro: Kentaro
+photon: photon photons
+signature: signature signatures
+hindrance: hindrance
+originate: originates originated
+direction: directions
+settle: settle Settling
+remedy: remedies
+Twitter: Twitter
+Zewe: Zewe
+conical: conical
+sidestep: sidesteps
+Gabriel: Gabriel
+Fairness: Fairness
+wafer: wafers Wafer
+Aaron: Aaron
+car: cars car
+Ettlin: Ettlin
+Sahu: Sahu
+Atlantic: Atlantic
+cubic: cubic
+miniaturization: miniaturization
+Kaijie: Kaijie
+quantization: Quantization
+finally: Finally
+Zhubing: Zhubing
+fruitful: fruitful
+recommendation: recommendation
+adoption: adoption
+methodological: methodological
+Wiedemann: Wiedemann
+simultaneous: simultaneous
+trade: traded trade
+gross: Gross
+blossom: blossomed
+Anthony: Anthony
+nanowire: nanowires
+surprise: surprise
+Mack: Mack
+dog: dogs
+suppress: suppressing suppress suppressed suppresses
+soi: SOI
+reactive: reactive
+smartphone: smartphones smartphone
+outright: outright
+associate: associate associated associates
+Sels: Sels
+jargon: jargon
+ordinarily: Ordinarily
+interpretation: interpretation
+consideration: consideration
+spectacular: spectacular
+fold: folded
+burden: burden
+rotation: rotation
+Oklahoma: Oklahoma
+Halle: Halle
+Hilfiker: Hilfiker
+unknown: unknown
+encrypt: encrypted encrypt
+industrial: industrial
+wisdom: wisdom
+especially: especially
+stir: stir stirred
+Brunelli: Brunelli
+emotion: Emotion emotions
+proteins: proteins
+Lausanne: Lausanne
+von: von
+destruction: destruction
+cram: cram
+instance: instance instances
+Florian: Florian
+matrix: matrix
+waveplate: waveplates
+risk: risks
+unstable: unstable
+dump: dumping
+phosphine: phosphine
+dissipation: dissipation
+picocavity: picocavities
+D’Aurelio: D’Aurelio
+perfect: perfected perfect
+Drone: Drone
+buffer: buffer
+initially: initially
+text: text
+parametric: parametric
+ramp: ramp
+Review: Review
+hop: hop
+byeond: byeond
+photography: photography
+Paulson: Paulson
+switchable: Switchable
+Wallenberg: Wallenberg
+autocorrelation: autocorrelation
+Gail: Gail
+suspend: suspended
+magnetometry: magnetometry
+Roy: Roy
+Cui: Cui
+triangular: triangular
+unmatched: unmatched
+lower: lower lowering
+Pennsylvania: Pennsylvania
+Blockchain: Blockchain
+Kundu: Kundu
+coverage: coverage
+bandgap: bandgap
+tv: TVs TV
+certain: Certain
+legislation: legislation
+Turing: Turing
+scan: scan
+Jennifer: Jennifer
+Pittalwala: Pittalwala
+discharge: discharge
+Cryptography: Cryptography
+Jones: Jones
+Wearable: Wearable
+Creative: Creative
+systematically: systematically
+Secret: Secret
+Windgätter: Windgätter
+topologically: topologically
+shabby: shabby
+broader: broader
+old: old
+gravity: Gravity
+biodiversity: biodiversity
+unsolvable: unsolvable
+Takada: Takada
+plausible: plausible
+solidify: solidifies
+Helmut: Helmut
+whose: whose
+infeasible: infeasible
+quite: quite
+trouncing: trouncing
+unclear: unclear
+brute: brute
+sisiq: SiSiQ
+Regulatory: Regulatory
+Glennda: Glennda
+für: für
+indistinguishable: indistinguishable
+Guoqing: Guoqing
+replicate: replicate replicated
+Lukasz: Lukasz
+Ariando: Ariando
+pencil: pencil
+divide: dividing divides divide
+collaborate: collaborating collaborated
+nice: nice
+Tom: Tom
+mitigate: mitigate mitigated mitigates
+Fuki: Fuki
+additional: additional
+yet: yet
+Zumbühl: Zumbühl
+convince: convinced
+proton: protons
+emergent: emergent
+doughnut: doughnut doughnuts
+plague: plagued
+microprocessor: microprocessors
+string: string strings stringing
+Harry: Harry
+balance: balance Balancing
+Jennings: Jennings
+Hu: Hu
+strength: strength strengths
+pulse: pulses pulse Pulsed
+outcompete: outcompete
+preservation: preservation
+estimation: estimation
+popular: popular
+Gordon: Gordon
+Supercomputer: Supercomputer
+massive: massive
+prediction: predictions prediction
+contain: contain containing contains contained
+reaction: reactions reaction
+Chui: Chui
+strip: strips strip
+classically: Classically
+Iqbal: Iqbal
+Hee: Hee
+commonplace: commonplace
+particular: particular
+Multimedia: Multimedia
+exertion: exertion
+parlance: parlance
+pointy: pointy
+bounce: bounce bouncing bounces bounced
+statement: statement
+describe: describing described describe describes
+strangeness: strangeness
+scanning: Scanning
+Misha: Misha
+country: country countries
+MU: MU
+bilayer: bilayers
+article: article articles
+Medical: Medical
+JMU: JMU
+advantage: advantage advantages
+miniaturise: miniaturised
+halfway: halfway
+Tsepelin: Tsepelin
+guarantee: guarantees guaranteed guarantee
+computer: computer
+Cappellaro: Cappellaro
+witness: witness witnessed
+nanoelectronic: nanoelectronics
+Latini: Latini
+radically: radically
+Endres: Endres
+migrate: migrate
+ring: rings rung
+microelectronics: microelectronics
+lithium: lithium
+Krellner: Krellner
+Hazard: Hazard
+inaccuracy: inaccuracies
+qudit: qudits qudit
+Proton: Proton
+Energy: Energy
+Industry: Industry
+Nanodots: Nanodots
+NV: NV
+Borst: Borst
+quip: quips
+stretchable: stretchable
+computational: Computational
+arithmetic: arithmetic
+Christoph: Christoph
+Torsten: Torsten
+confidence: confidence
+Ataides: Ataides
+strong: strong
+swing: swing
+tail: Tail
+lane: lane lanes
+encoding: encodings
+processing: processing
+photodiode: photodiode photodiodes
+reopen: reopened reopens
+Tae: Tae
+Jesse: Jesse
+Malcolm: Malcolm
+Murphy: Murphy
+Murch: Murch
+González: González
+pure: pure
+factorization: factorization
+transistor: transistors transistor
+fuel: fuel
+Schwinger: Schwinger
+Haojun: Haojun
+opposite: opposite
+drape: draped
+leader: leader
+sector: sector
+fastest: fastest
+conceivable: conceivable
+detector: Detector detectors
+interested: interested
+main: main
+scramble: scrambled
+partnership: Partnerships partnership
+embed: embedded embedding
+pace: pace
+Kaiserslautern: Kaiserslautern
+Sarah: Sarah
+color: color Colors
+Nebraska: Nebraska
+indicate: indicated indicates
+verification: verification
+Youngkyu: Youngkyu
+absorption: absorption
+damage: damage
+randomness: randomness
+Xu: Xu
+decode: decode decoding
+Naval: Naval
+withstand: withstanding
+understanding: understanding
+smoothly: smoothly
+equivalent: equivalent equivalents
+feasible: feasible
+Jade: Jade
+contact: Contact contacting contacted
+Asish: Asish
+wheel: wheels wheel
+cumbersome: cumbersome
+agent: agents agent
+Moodys: Moodys
+come: come comes coming came
+Bots: Bots
+inefficient: inefficient
+laptop: laptop
+Perrin: Perrin
+total: total
+distribute: Distributed distributing distribute
+Hong: Hong
+negatively: negatively
+Jason: Jason
+belong: belong
+Jerry: Jerry
+such: such
+jpeg: jpeg
+Mivehvar: Mivehvar
+triboelectric: Triboelectric
+backward: backward
+Xun: Xun
+Kristan: Kristan
+partner: partners partner
+safe: safe
+devise: devised
+affect: affect affected affecting affects
+Melville: Melville
+scalable: scalable
+medium: medium
+cup: Cup cups
+assistant: assistant
+groundwork: groundwork
+flake: flakes
+critical: critical
+ditelluride: ditelluride
+interconnect: interconnected interconnects
+they: Their them they
+Alfred: Alfred
+sunburn: sunburn
+fluxonium: fluxonium fluxoniums
+architecture: architecture architectures
+nano: nano
+Planck: Planck
+numerous: numerous
+bustle: bustling
+Javid: Javid
+promote: promote
+Piryatinski: Piryatinski
+Sebe: Sebe
+Hung: Hung
+polarize: polarized polarizes
+Arnold: Arnold
+Calvin: Calvin
+glow: glowing
+Photonic: Photonic
+correspond: corresponding corresponds correspond
+provide: provided provide providing provides
+National: National
+visionary: visionaries
+Frañó: Frañó
+milestone: milestone Milestones
+far: far
+Petri: Petri
+ionization: ionization
+fleet: FLEET
+electrical: electrical
+Ludwig: Ludwig
+standpoint: standpoint
+controllable: controllable
+vice: vice
+puzzling: puzzling
+Tomonori: Tomonori
+Angel: Angel
+social: social
+exactly: exactly
+Goldilocks: Goldilocks
+Mello: Mello
+framework: framework
+drift: drifts drift
+stand: standing stands stand
+et: et
+pen: penned
+holder: holder
+quarter: quarter
+unlock: unlock unlocking Unlocks
+decision: decisions
+upper: upper
+extend: extending extend extends
+way: ways
+arbitrary: Arbitrary
+heating: heating
+Ukraine: Ukraine
+reason: reason reasons
+last: last
+Apoorv: Apoorv
+Sinitsyn: Sinitsyn
+Potassium: Potassium
+peek: peek Peeking
+eavesdrop: eavesdrop
+Manchester: Manchester
+Nonequilibrium: Nonequilibrium
+usb: USB
+foot: feet
+Jenny: Jenny
+chasm: chasm
+tick: tick
+Joakim: Joakim
+retrieval: retrieval
+Intermediate: Intermediate
+Edwin: Edwin
+Stefan: Stefan
+flipping: Flipping
+seal: sealed
+Heinrich: Heinrich
+Dietz: Dietz
+photoelectric: Photoelectric
+neutrinoless: neutrinoless
+Zhou: Zhou
+induction: induction
+chemistry: chemistries
+timescale: timescales
+optical: optical
+disruptive: disruptive
+de: de
+Copyright: Copyright
+formerly: formerly
+diversify: diversifies
+Max: Max
+shed: Shedding shed sheds
+Melissa: Melissa
+uniquely: uniquely
+Heather: Heather
+Ashley: Ashley
+ordinary: ordinary
+section: section
+Broadway: Broadway
+Kimizuka: Kimizuka
+achievement: achievement
+open: open opens opened Opening
+Neuromorphic: Neuromorphic
+crystal: crystals
+Kisslinger: Kisslinger
+gas: gas gases
+chamber: chamber
+finding: findings
+building: building
+nanometer: nanometer nanometers
+service: service services
+daily: daily
+stop: stop stopped
+Gutenberg: Gutenberg
+mutually: mutually
+nanocluster: nanoclusters
+exposure: exposure
+Jeschke: Jeschke
+Pin: Pin
+Colella: Colella
+dimensionality: dimensionality
+I: me
+eventually: eventually
+Quirks: Quirks
+flexible: Flexible
+Phalgun: Phalgun
+television: televisions
+collective: collective
+Montreal: Montreal
+Philip: Philip
+Millis: Millis
+gateway: gateway
+Sadeghi: Sadeghi
+calcium: calcium
+Yang: Yang
+joint: joint
+Mizohata: Mizohata
+scaffold: scaffolds scaffold
+outlet: outlets
+Riedmatten: Riedmatten
+bcs: BCS
+Vast: Vast
+attraction: attraction
+Krypton: Krypton
+Kranzl: Kranzl
+thickness: thickness
+Wits: Wits
+hexagonal: hexagonal
+UC: UC
+illuminate: illuminated
+backpack: backpack
+Manuel: Manuel
+transformation: transformation transformations
+assumption: assumptions assumption
+doctor: doctors
+testing: testing
+committee: committee
+Mikio: Mikio
+triangle: triangles
+indirectly: indirectly
+beamline: beamline
+Pichler: Pichler
+Bonilla: Bonilla
+grand: grand
+Pedro: Pedro
+Sun: Sun
+qfim: QFIM
+avoid: avoid avoiding avoids
+mirroring: mirroring
+work: work works working worked
+Materialien: Materialien
+Monica: Monica
+Schmiedmayer: Schmiedmayer
+Amanda: Amanda
+riken: RIKEN
+Program: Program
+emit: emits emit emitted emitting
+Hideki: Hideki
+timing: timing
+Chandler: Chandler
+exceptional: exceptional
+Jindal: Jindal
+central: central
+Lamas: Lamas
+Skyrme: Skyrme
+Mainz: Mainz
+hopefully: hopefully
+borrow: borrowed
+metamaterial: Metamaterials metamaterial
+Paxton: Paxton
+Matthew: Matthew
+Neutrinos: Neutrinos
+poison: poison
+Library: Library
+Zhitenev: Zhitenev
+Nanowire: Nanowire
+Grupos: Grupos
+outward: outward
+Olamide: Olamide
+polymer: polymers
+outstanding: outstanding
+Holger: Holger
+origami: origami origamis
+resonate: resonate
+conductor: conductors conductor
+out: out
+vibration: Vibrations vibration
+Chicago: Chicago
+emphasise: emphasise
+that: that
+square: square
+Stewart: Stewart
+virtual: Virtual
+statically: statically
+whenever: Whenever
+logic: logic
+QSCOUT: QSCOUT
+excitedly: excitedly
+Bonn: Bonn
+handedness: handedness
+millimeter: millimeters
+net: net
+Organ: Organ
+perception: perception
+hbn: hBN
+broaden: broaden
+programme: programme
+Chris: Chris
+Optics: Optics
+hundredth: hundredth hundredths
+Hao: Hao
+mythology: mythology
+Tonica: Tonica
+NSF: NSF
+confine: confined confine
+mysterious: mysterious
+amount: amount amounts
+Soldini: Soldini
+attribution: Attribution
+decompose: decomposed
+Souvik: Souvik
+foundry: foundry
+correspondence: correspondence
+frame: Frame
+decoupling: decoupling
+shatter: shattered shatters
+tricky: tricky
+peak: peaks peak
+hour: hour hours
+perpetual: perpetual
+Walkup: Walkup
+fluorescence: fluorescence
+digitally: digitally
+shrink: shrink shrinks Shrinking
+dark: dark
+Mattheakis: Mattheakis
+Whitney: Whitney
+wire: wire wires
+telecommunications: telecommunications
+steering: steering
+creation: creation
+radical: radicals radical
+diffraction: diffraction
+animal: Animals animal
+Worlds: Worlds
+elongate: elongated
+Yoder: Yoder
+encourage: encourage
+thinnest: thinnest
+mutual: mutual
+Tokura: Tokura
+Nanophotonics: Nanophotonics
+creamer: creamer
+Habicht: Habicht
+populous: populous
+ETH: ETH
+pump: pumped
+Google: Google
+modify: modify modifying modified
+Rice: Rice
+object: objects Object
+middle: middle
+deeper: deeper
+freedom: freedom
+Luo: Luo
+cqd: CQD CQDs
+universal: universal
+stretchy: stretchy
+fibre: fibre
+buy: buy
+characterize: characterize characterizing characterized characterizes
+concern: concern concerns concerning
+oldest: Oldest
+possibility: possibilities possibility
+hear: hear
+alternate: alternate alternating
+drawback: drawbacks
+occurrence: occurrence
+Ruoming: Ruoming
+euro: euros
+Nanotechnology: Nanotechnology
+discrepancy: discrepancies
+pipeline: pipelines
+Xin: Xin
+satellite: satellite satellites
+completely: completely
+Virginia: Virginia
+adjustable: adjustable
+become: become becomes becoming became
+predetermine: predetermined
+commonly: commonly
+colloid: colloids
+acknowledgement: acknowledgements
+flaw: Flaws
+interactive: interactive
+sapphire: sapphire
+generic: generic
+factor: factors factor
+intermediary: intermediary
+purpose: purposes purpose
+questionable: questionable
+nordic: Nordic
+element: elements element
+Bin: Bin
+Kannan: Kannan
+Polytechnique: Polytechnique
+Mihir: Mihir
+problematic: problematic
+Schweigler: Schweigler
+Austin: Austin
+alternative: alternative alternatives
+science: sciences
+Positioning: Positioning
+ensure: ensure ensuring ensured
+Butch: Butch
+George: George
+conjunction: conjunction
+unified: unified
+Chaos: Chaos
+Rey: Rey
+direct: direct
+half: half
+match: match
+alive: alive
+postdoc: postdoc postdocs
+permanent: Permanent
+chilled: chilled
+manipulate: manipulate Manipulating manipulated
+fall: falling fall
+shot: shots shot
+Ruffieux: Ruffieux
+Yale: Yale
+meaningful: meaningful
+diffuse: diffuses diffused
+everyday: everyday
+Ueno: Ueno
+conclusion: conclusion
+Er: Er
+Eddins: Eddins
+exact: exact
+mems: MEMS
+recreate: recreating recreate
+decisive: decisive
+issue: Issues issue
+grid: grid
+bioeconomy: bioeconomy
+forgery: Forgery
+Algorithmiq: Algorithmiq
+Automotive: Automotive
+uniform: uniform
+Guarnieri: Guarnieri
+harness: harnessing harness
+least: least
+Patrick: Patrick
+debug: debug
+Bard: Bard
+krypography: krypography
+ligand: ligands ligand
+wind: Wind
+expand: Expanding expand expands expanded
+attosecond: attosecond attoseconds
+Hamilton: Hamilton
+extraordinary: extraordinary
+elude: eluded
+Aeppli: Aeppli
+base: based base
+key: key keys
+exciting: exciting
+drop: dropping drop dropped
+tremendous: tremendous
+Culture: Culture
+coat: coated coats
+resilient: resilient
+dynamical: dynamical
+now: now
+Inorganic: Inorganic
+initiative: initiatives
+Massachusetts: Massachusetts
+ciphertext: ciphertext
+History: History
+Bob: Bob
+spectral: spectral
+extrapolation: extrapolation
+Robin: Robin
+antiferromagnetic: antiferromagnetic
+code: code coding codes
+electron: electron electrons
+puzzle: puzzle puzzles
+sightly: sightly
+Xiaowei: Xiaowei
+Food: Food
+unitary: unitary
+Törneholm: Törneholm
+Michel: Michel
+View: View
+Macfarlane: Macfarlane
+Schreier: Schreier
+aromatic: aromatic aromatics
+approximately: approximately
+tuneable: tuneable
+Song: Song
+cornerstone: cornerstone
+India: India
+nonlocality: nonlocality
+June: June
+you: Your you
+disturb: disturb disturbing disturbed disturbs
+Odd: Odd
+steady: steady
+oppose: opposed opposing
+modern: modern
+letter: letter
+Climate: Climate
+Superconducting: Superconducting
+Xia: Xia
+Lanthaler: Lanthaler
+Facebook: Facebook
+overhead: overhead
+nanoph: nanoph
+Coles: Coles
+correction: correction corrections
+depths: depths
+Wilhelm: Wilhelm
+expert: experts expert
+quadrupole: quadrupoles
+Won: Won
+reverse: reverse
+gating: gating
+superfluidity: superfluidity
+finite: finite
+freezing: freezing
+alkaline: alkaline
+Yizhong: Yizhong
+Aumentado: Aumentado
+ERC: ERC
+Vladislav: Vladislav
+roic: ROIC
+Noori: Noori
+Forbes: Forbes
+Observatory: Observatory
+elastic: elastic
+Carbon: Carbon
+license: licensed License
+technology: technology technologies
+traditional: traditional
+web: web
+fork: fork
+debunk: debunk
+plasma: plasmas
+Urton: Urton
+reshape: reshaped Reshape
+exchange: exchange exchanging exchanged
+know: know known Knowing knew knows
+fabric: fabric
+Bardeen: Bardeen
+Phenicie: Phenicie
+requirement: requirements requirement
+closely: closely
+Finland: Finland
+unconventional: unconventional
+Govia: Govia
+perfectly: perfectly
+Hayley: Hayley
+finely: finely
+bend: bends bend
+filter: filter filters
+double: double doubles Doubling
+excel: Excels
+adjust: adjust
+bank: banks
+Cygorek: Cygorek
+Hangleiter: Hangleiter
+child: Child
+totally: totally
+inaccessible: inaccessible
+massively: massively
+soup: soup
+Rishabh: Rishabh
+Greenberg: Greenberg
+probably: probably
+Aachen: Aachen
+quicker: quicker
+photoemission: photoemission
+Neutrino: Neutrino
+multimodality: multimodality
+Duan: Duan
+Schattner: Schattner
+Hall: Hall
+purely: purely
+µm: µm
+Cong: Cong
+theorist: theorists theorist
+company: companies company
+Kasprzyk: Kasprzyk
+administer: administer
+Independent: Independent
+select: selected selecting select
+Suzuki: Suzuki
+unambiguous: unambiguous
+nonmagnetic: nonmagnetic
+superimpose: superimposing
+Sum: Sum
+Längle: Längle
+Sabino: Sabino
+hospital: hospitals
+Transportation: Transportation
+Kira: Kira
+small: small
+unsuitable: unsuitable
+around: around
+edit: edited
+Jiaqi: Jiaqi
+rationally: rationally
+fact: fact
+accurate: accurate
+Dür: Dür
+resurrect: resurrected
+butcher: butchered
+excitation: excitations excitation
+beauty: beauty
+Ranzani: Ranzani
+strongest: strongest
+pillar: pillar
+Das: Das
+rotate: rotate rotated
+Lima: Lima
+motivation: motivation
+compatible: compatible
+organic: organic
+arc: ARC
+dissipate: dissipating dissipate
+imitate: imitated
+scatter: scattering scattered
+postdoctoal: postdoctoal
+freeway: freeway
+garage: garage
+angstrom: angstroms
+layer: layers layer
+democracy: democracies
+publish: published
+Transdisciplinary: Transdisciplinary
+Teleport: Teleport
+maximum: maximum
+aside: aside
+Löfwander: Löfwander
+Du: Du
+strategic: strategic
+Amal: Amal
+visualization: visualization
+department: department departments
+controversy: controversy
+enthusiastic: enthusiastic
+cluster: Cluster clusters
+nonlocal: nonlocal
+share: Share shared shares
+diagnostic: diagnostics diagnostic
+Alan: Alan
+Mechnich: Mechnich
+Frederik: Frederik
+potter: potter
+sign: Sign signs
+underlie: underlies
+roughly: roughly
+home: Home homes
+Xing: Xing
+Fermi: Fermi
+consequence: consequences consequence
+nm: nm
+resonant: resonant
+various: various
+single: single
+fragile: fragile
+excellently: excellently
+effectively: effectively
+attain: attaining
+considerable: considerable
+face: face facing
+Co: Co
+blanket: blanket
+Nemoto: Nemoto
+array: array arrays
+advice: advice
+MIT: MIT
+differently: differently
+ucl: UCL
+differential: differential
+ferroelectric: ferroelectric
+underwater: underwater
+incredibly: incredibly
+selectable: selectable
+Beamlines: Beamlines
+operate: operate operating operated operates
+Orlando: Orlando
+plastic: Plastics plastic
+RWTH: RWTH
+Goteti: Goteti
+mess: mess
+glide: glide gliding
+nanometre: nanometres nanometre
+greatly: greatly
+solution: solutions solution
+retention: retention
+Autti: Autti
+Maedeh: Maedeh
+Korea: Korea
+Chengran: Chengran
+recently: recently
+unprecedented: unprecedented
+dipole: dipoles dipole
+Caro: Caro
+Allen: Allen
+viable: viable
+maximization: maximization
+strategically: strategically
+Bathe: Bathe
+most: Most
+roughness: roughness
+Zhe: Zhe
+privacy: Privacy
+here: here
+intend: intended
+Binnig: Binnig
+sensor: sensors
+Gaurav: Gaurav
+Diego: Diego
+Rocket: Rocket
+immutable: immutable
+landscape: landscape
+similarly: similarly
+tweezer: Tweezer
+Manfred: Manfred
+Bouaziz: Bouaziz
+reasoning: reasoning
+hardware: hardware
+larger: larger
+multiuser: multiuser
+Consolidados: Consolidados
+spectrum: spectrum
+inversion: inversion
+revision: revision
+recover: recover
+ceramic: ceramic
+practical: practical
+Duke: Duke
+UKRI: UKRI
+Superfluids: Superfluids
+scalability: scalability
+Urbana: Urbana
+correlate: correlated
+Rinaldi: Rinaldi
+Turkel: Turkel
+Xinzhe: Xinzhe
+phosphorous: phosphorous
+Osborne: Osborne
+Iris: Iris
+physicist: physicists physicist
+simulated: simulated
+Ryu: Ryu
+easier: easier
+impossibly: impossibly
+help: help helped helps helping
+irradiate: irradiate
+Lounis: Lounis
+Chan: Chan
+reproduce: reproduce
+Ghahari: Ghahari
+headquarter: headquartered
+week: week weeks
+Bounds: Bounds
+Babin: Babin
+spider: spider
+telegraph: telegraph
+specialize: specializes
+Urban: Urban
+specialized: specialized
+Graphene: Graphene
+informed: informed
+version: versions version
+long: long
+Sergiy: Sergiy
+Waiting: Waiting
+lithography: lithography
+travel: traveling travel Travelling travels traveled
+explosion: explosion
+PSI: PSI
+Stijn: Stijn
+Karamlou: Karamlou
+seamless: seamless
+Fillers: Fillers
+psychology: Psychology
+chromophore: chromophore chromophores
+Sharmir: Sharmir
+Videnov: Videnov
+believe: believe believes believed
+there: there
+persist: persists persist
+realistic: realistic
+hold: Hold held holds holding
+potentially: potentially
+factory: factory
+Career: Career
+Yao: Yao
+reliably: reliably
+Stimulation: Stimulation
+tweezers: tweezers
+crosstalk: crosstalk
+change: changes change changing changed
+messy: messy
+Timo: Timo
+Barbour: Barbour
+inherit: inherit
+millisecond: millisecond milliseconds
+fermionic: fermionic
+found: founded
+founding: founding
+Viktor: Viktor
+miniature: miniature
+transport: transport transporting transported
+mathematician: Mathematicians
+DRINQS: DRINQS
+Heisenberg: Heisenberg
+oscillate: oscillating
+nanostructure: nanostructures nanostructure
+virus: Viruses
+Stanford: Stanford
+Shamir: Shamir
+confinement: confinement
+cone: cone cones
+placement: placement
+Mohit: Mohit
+Gravastar: Gravastar
+circulator: circulators
+kick: kicked kick
+characterise: characterised
+feedback: Feedback
+modulate: modulate modulating modulated
+Tschudin: Tschudin
+crazy: crazy
+manufacturable: manufacturable
+something: Something
+Frontier: Frontier
+Micronova: Micronova
+molecule: molecule molecules
+bitstr: bitstring
+global: Global
+mile: miles
+Xavier: Xavier
+draw: drawing drawn
+structural: structural
+Schuster: Schuster
+Yantao: Yantao
+block: blocks block
+gravitation: gravitation
+Srivatsa: Srivatsa
+Mollie: Mollie
+remarkably: remarkably
+response: response
+amplification: amplification
+heavyweight: heavyweights
+roll: rolls rolled
+adjunct: adjunct
+dopant: dopant
+Sydney: Sydney
+noncommercial: NonCommercial
+Sushi: Sushi
+curved: Curved
+photoelectron: photoelectron
+maximize: maximize
+nothing: Nothing
+melting: melting
+TUS: TUS
+addition: addition
+Zmeev: Zmeev
+desirable: desirable
+optomechanic: optomechanics
+Mile: Mile
+Assessment: Assessment
+consumer: consumer
+second: second
+thrust: thrust
+ACS: ACS
+experience: experience experienced experiencing
+die: died
+ocean: oceans ocean
+relationship: relationship
+discuss: discussing discussed
+variety: variety varieties
+Aveek: Aveek
+referral: referral
+enforce: enforces
+Trotter: Trotter
+reconfigure: reconfigure
+Liu: Liu
+platinum: platinum
+Jungsang: Jungsang
+repeater: repeaters repeater
+proposal: proposal proposals
+suppression: suppression
+Katharina: Katharina
+Sweden: Sweden
+Green: Green
+comprise: comprise comprising
+derivative: derivatives
+functionalization: functionalization
+prism: prisms
+Barani: Barani
+Simone: Simone
+Center: Center
+merge: merging
+attach: attached attaching attach
+Ong: Ong
+integrable: integrable
+cover: covering covers cover
+Dennis: Dennis
+Le: Le
+distant: distant
+Bertelli: Bertelli
+Mehmet: Mehmet
+flux: flux
+overhang: overhanging
+fellow: fellow
+thick: thick
+shorter: shorter
+contradict: contradict
+Cold: Cold
+remote: remote
+consist: consisting consist consists consisted
+drum: drums
+often: often
+Castro: Castro
+Saiya: Saiya
+Staffa: Staffa
+perspective: perspective perspectives
+gear: geared gear
+law: laws law
+physrevlett: PhysRevLett
+raise: raised raising RAISE
+Australia: Australia
+interval: interval intervals
+atomistic: atomistic
+DOE: DOE
+Hamiltonians: Hamiltonians
+breathing: breathing
+go: go going goes went gone
+pyrochlore: pyrochlore
+Lv: Lv
+mix: mix mixed mixing
+notoriously: notoriously
+electronic: electronic
+Takashi: Takashi
+low: low lows
+intuition: intuition
+synthesize: synthesized Synthesize synthesizing
+mention: mentions mentioned mention
+Newfound: Newfound
+Boyd: Boyd
+north: north
+destroy: destroying destroy destroyed
+revolutionize: Revolutionizes revolutionize revolutionized Revolutionizing
+Alsallom: Alsallom
+Vasmer: Vasmer
+systematic: systematic
+Grasslands: Grasslands
+consultant: consultant
+difficult: difficult
+Albert: Albert
+hurdle: hurdle
+Kenneth: Kenneth
+theorem: theorem
+tissue: tissue tissues
+encryption: Encryption
+anomalous: anomalous
+asterisk: asterisk
+operation: operation operations
+coax: coaxed
+deflect: deflected deflect
+engineer: engineers engineer engineered
+burgeon: burgeoning
+ising: Ising
+Boron: Boron
+noisier: noisier
+wave: waves
+augment: augmented
+compatibility: compatibility
+visually: visually
+someone: someone
+superposition: superposition superpositions
+Muleady: Muleady
+Paglione: Paglione
+wrap: wrapped wrap Wrapping
+largest: largest
+Lennon: Lennon
+ownership: ownership
+dub: Dubbed
+Gerasimos: Gerasimos
+ruler: ruler
+Retroviruses: Retroviruses
+Francesca: Francesca
+Universitaet: Universitaet
+Lago: Lago
+structure: Structure structures
+Microtechnology: Microtechnology
+condition: conditions condition conditioned
+Nottingham: Nottingham
+Robertson: Robertson
+ratio: ratios ratio
+cast: casts
+also: also
+Reiser: Reiser
+stabilization: stabilization
+transduction: transduction
+chalcogenide: chalcogenide
+assemblage: assemblages
+bill: bills
+math: maths
+cake: cake
+advantageous: advantageous
+remain: remain remains remained remaining
+Unearth: Unearth
+atomic: Atomic
+Bromide: Bromide
+Bernabé: Bernabé
+Letters: Letters
+decouple: Decoupled
+Bi: Bi
+Rostock: Rostock
+Barin: Barin
+driver: driver
+Cork: Cork
+Accelerator: Accelerator
+SNSF: SNSF
+Purdue: Purdue
+mechanic: mechanics
+foundational: Foundational
+mug: mug
+cream: cream
+need: need needed needing needs
+Propellant: Propellant
+slightly: slightly
+ecosystem: ecosystem
+intriguing: intriguing
+measurement: measurements measurement
+Dinosaurs: Dinosaurs
+squeezer: squeezer
+presence: presence
+Georg: Georg
+Ted: Ted
+KZ: KZ
+utilise: utilised utilise utilises utilising
+can: can ca
+profile: profiles profile
+Chair: Chair
+restriction: Restriction restrictions
+delicate: delicate
+implementation: Implementation
+quantitatively: quantitatively
+gnr: GNRs
+general: general
+Fossils: Fossils
+Moritz: Moritz
+cloud: clouds cloud
+common: common
+winnow: winnowed
+finance: finance
+pristine: pristine
+Siddiquee: Siddiquee
+boost: Boosting boosts Boost
+Boyang: Boyang
+Javier: Javier
+external: external
+sv: SVs
+n’t: n’t
+singlet: singlet
+JSPS: JSPS
+Alain: Alain
+Bluvstein: Bluvstein
+declare: declares
+fulfill: fulfill
+Qiang: Qiang
+ongoing: ongoing
+medicine: medicines
+Agrawal: Agrawal
+transfer: Transfer transferred transferring
+equal: equaled equal
+Trentino: Trentino
+Kyu: Kyu
+machine: machine machines
+rem: REM
+Strelcov: Strelcov
+ceo: CEO
+same: same
+optimally: optimally
+analysis: analyses analysis
+shortwave: shortwave
+Qiangqiang: Qiangqiang
+codesign: codesign
+globe: globe
+multilane: multilane
+black: Black
+References: References
+sequence: sequence sequences
+mind: Mind
+temporal: temporal
+impulse: impulses
+discover: discover Discovered discovering
+misleading: misleading
+Biotechnology: Biotechnology
+near: near
+poor: poor
+QRNG: QRNG
+relativistic: relativistic
+blink: blink
+Rubio: Rubio
+adder: adders
+integrate: integrated integrating integrate
+wall: wall
+happy: happy
+Ravindra: Ravindra
+peled: PeLEDs
+prospective: prospective
+innovator: Innovators
+consistent: consistent
+Kelvin: Kelvin
+smidgen: smidgen
+education: education
+algorithm: algorithms algorithm
+photosynthesis: photosynthesis
+NUS: NUS
+calculate: calculated calculate calculating
+focus: focusing focuses focus focused
+simplify: simplify
+silicon: silicon
+remove: removing removed remove removes
+vision: vision
+Lucheng: Lucheng
+highest: highest
+government: governments
+complete: complete
+likewise: likewise
+clock: clocks clock
+Schubert: Schubert
+sleuthing: Sleuthing
+how: how
+Austria: Austria
+barely: barely
+my: my
+notice: noticed
+check: Check
+afford: afford
+tendency: tendency
+space: SPACE spaces spaced
+Sami: Sami
+gain: gain gained Gaining
+apply: applied apply applies applying
+Yinong: Yinong
+language: language
+actively: actively
+Trinity: Trinity
+Aleksandr: Aleksandr
+Hui: Hui
+individual: individual individuals
+Wave: Wave
+successful: successful
+dauntingly: dauntingly
+Geilen: Geilen
+Leverett: Leverett
+ground: ground
+relate: RELATED
+interest: interest
+determination: determination
+Nik: Nik
+Structured: Structured
+immortalize: immortalized
+hide: hidden
+Hatef: Hatef
+cite: Cite
+debugging: debugging
+tug: tug
+interlinked: interlinked
+flask: flask
+RoHS: RoHS
+worth: worth
+poise: poised
+upscaling: upscaling
+Salguero: Salguero
+error: error errors
+vital: vital
+enigmatic: enigmatic
+Manning: Manning
+expression: expressions
+Beam: Beam
+billion: billions
+precise: precise
+Chatterjee: Chatterjee
+Franklin: Franklin
+Mourik: Mourik
+Juba: Juba
+extensive: extensive
+cost: cost costs
+Cava: Cava
+everywhere: everywhere
+Richardella: Richardella
+Julia: Julia
+inform: Inform
+explode: explode
+braid: braiding
+reversal: reversal
+heavy: heavy
+microled: microLEDs
+party: parties
+Jaeseoung: Jaeseoung
+Zoë: Zoë
+particle: particles particle
+Haoming: Haoming
+therefore: therefore
+date: Date dating
+notable: notable
+extrapolate: extrapolated
+Huber: Huber
+Mechanic: Mechanic
+usual: usual
+Matter: Matter
+sustainable: Sustainable
+Headaches: Headaches
+acoustically: acoustically
+Juan: Juan
+IEEE: IEEE
+infrared: infrared
+member: members member
+deep: deep
+spark: spark
+Beljonne: Beljonne
+broadcast: broadcast
+lend: lends
+nanomagnet: nanomagnets nanomagnet
+slower: slower
+indentation: Indentation indentations
+resource: resource
+Jani: Jani
+universally: universally
+Tang: Tang
+dance: dance
+Trisha: Trisha
+Steven: Steven
+signaling: signaling
+Sounds: Sounds
+iodine: iodine
+iron: iron
+Stores: Stores
+Kai: Kai
+cybersecurity: cybersecurity
+Lincoln: Lincoln
+Suheng: Suheng
+Dalziel: Dalziel
+Archaeology: Archaeology
+Ho: Ho
+Tony: Tony
+live: Living lives lived
+take: take taken takes taking took
+dominant: dominant
+greatest: greatest
+EQuS: EQuS
+Qian: Qian
+ferromagnetism: ferromagnetism
+Andi: Andi
+subset: subset
+expensive: expensive
+Guang: Guang
+GERDA: GERDA
+Franz: Franz
+underpin: underpin
+Straaten: Straaten
+motional: motional
+inequality: inequality inequalities
+inspiring: inspiring
+Xufeng: Xufeng
+Ali: Ali
+Cataldini: Cataldini
+Ridge: Ridge
+photoexcit: photoexciting
+realise: realised
+captivate: captivating
+lack: lack lacking
+unravel: unravel Unravels unraveling
+cooldown: cooldown
+permit: permits
+pd: PDs
+corrosion: corrosion
+Gibbs: Gibbs
+linear: linear
+necessitate: necessitate necessitates
+sense: Sensing sense
+powerful: powerful
+journey: journey journeys
+Aalto: Aalto
+lurk: lurking
+diamagnet: diamagnets
+JARA: JARA
+Fink: Fink
+progress: progress progresses
+Ripin: Ripin
+who: who
+timekeeping: timekeeping
+crater: craters
+attenuate: attenuating
+easy: easy
+hundred: hundreds
+optimization: Optimization
+van: van
+respective: respective
+sufficient: sufficient
+blueprint: blueprints
+itself: itself
+Fabian: Fabian
+simulation: simulations simulation
+Math: Math
+complexity: complexity
+oscillator: oscillators
+Menon: Menon
+Ayumu: Ayumu
+recombine: recombined recombines recombine
+gap: gap
+Busch: Busch
+Andreas: Andreas
+Lyu: Lyu
+tend: tends tend
+cheaper: cheaper
+Microsoft: Microsoft
+contribute: Contribute contributes contributed contributing
+Pradyumna: Pradyumna
+integral: integral
+Dizdar: Dizdar
+biodegradable: Biodegradable
+processor: processor
+journalist: journalist
+rare: rare
+Verhagen: Verhagen
+xps: XPS
+quickly: quickly
+international: international
+biomedical: biomedical
+Computing: Computing
+Gupta: Gupta
+allow: allows allowed allow allowing
+Fairfax: Fairfax
+unavoidable: unavoidable
+Huang: Huang
+parse: parse
+infant: Infant
+Holmstrand: Holmstrand
+Moungi: Moungi
+everything: everything
+York: York
+Microlaser: Microlaser
+metrology: metrology
+multilayered: multilayered
+coup: coup
+hope: hope hopes hoped
+grow: growing grow grows grown grew
+Vitalone: Vitalone
+incorrect: incorrect
+James: James
+friendly: friendly
+solely: solely
+flowchart: flowcharts
+apparatus: apparatus
+innovation: innovations
+beat: beat beats beating
+Li: Li
+remark: remark remarks
+Robot: Robot
+explanation: explanations
+Shuqiu: Shuqiu
+Shih: Shih
+conductivity: conductivity
+liken: likened
+establishment: establishment
+note: Note notes noting noted
+third: third
+Vladimir: Vladimir
+overlap: overlap overlaps
+Horvath: Horvath
+versa: versa
+knob: knob
+chance: chance
+UK: UK
+transformative: transformative
+nonreciprocal: nonreciprocal
+Tonnelé: Tonnelé
+banking: banking
+usability: usability
+Xiaolin: Xiaolin
+forever: forever
+multiplier: multiplier
+intensity: intensity intensities
+Tomas: Tomas
+floor: floor floors
+danish: Danish
+valuable: valuable
+density: density
+logical: logical
+OtaNano: OtaNano
+incrementally: incrementally
+Ferroelectricity: Ferroelectricity
+truly: truly
+Jarrige: Jarrige
+Zaletel: Zaletel
+Bayerbach: Bayerbach
+Pauling: Pauling
+extensible: extensible
+accountability: Accountability
+Kong: Kong
+Johannes: Johannes
+Communications: Communications
+palm: palm
+electromagnetism: electromagnetism
+anthracene: anthracene
+pathway: pathways pathway
+adhd: ADHD
+Society: Society
+sweat: Sweat
+Heights: Heights
+resolution: resolution
+coating: coating
+opensuperq: OpensuperQ
+entangle: entangle entangling
+Eric: Eric
+Bibek: Bibek
+bizarre: Bizarre
+pairwise: pairwise
+newly: newly
+supply: Supplying
+critically: critically
+circuit: circuit
+order: order ordered orders
+mining: mining
+Editorial: Editorial
+FWF: FWF
+house: house houses
+disorder: disorder
+Terry: Terry
+Möller: Möller
+scheme: schemes scheme
+detectable: detectable
+cyber: cyber
+fill: filled
+Mei: Mei
+simple: simple
+multimode: multimode
+mesoscopic: mesoscopic
+commercial: commercial
+assess: assesses assessing assess
+antidot: antidots antidot
+knot: Knot
+oma: OMA
+Commons: Commons
+geothermal: Geothermal
+abacus: abacus
+TMD: TMD
+physreva: PhysRevA
+moiré: moiré
+beam: beams
+supercurrent: supercurrent supercurrents
+Gaetano: Gaetano
+voids: voids
+range: range ranged ranging ranges
+Internet: Internet
+DARPA: DARPA
+adt: adts
+III: III
+Holes: Holes
+scene: scene scenes
+conversely: conversely
+correlation: correlation correlations
+Sensor: Sensor
+dislocation: dislocations
+timetime: timetime
+final: final
+electronics: electronics
+oak: oak
+importantly: Importantly
+theoretical: theoretical
+robust: Robust
+appropriate: appropriate
+Adina: Adina
+Yun: Yun
+occupy: occupy occupied
+telescope: telescope
+Siva: Siva
+manager: manager
+video: video
+depict: depicted
+Séamus: Séamus
+selection: selection
+Scherrer: Scherrer
+flip: flip flipped
+Sophie: Sophie
+trapping: Trapping
+superconductivity: superconductivity
+expertise: expertise
+Yide: Yide
+Franco: Franco
+origin: origins
+Romakanta: Romakanta
+nanosecond: nanoseconds
+Crete: Crete
+Paschen: Paschen
+curiosity: curiosity
+paradigm: paradigm
+then: then
+photonq: PhotonQ
+icfo: ICFO
+Armed: Armed
+intimately: intimately
+traverse: traverse
+split: Splitting splits split
+visit: visiting
+Geiger: Geiger
+Fuhrer: Fuhrer
+think: think thought thinking thinks
+IBM: IBM
+Human: Human
+Rangan: Rangan
+Neff: Neff
+he: He his
+Kaoru: Kaoru
+Heand: Heand
+doubt: doubt
+Raytheon: Raytheon
+Hengyun: Hengyun
+McCormick: McCormick
+either: either
+indeed: indeed
+stress: Stress
+generative: generative
+Bastian: Bastian
+pick: Picking pick
+Innovation: Innovation
+Wollongong: Wollongong
+tiniest: tiniest
+pivotal: pivotal
+Yoann: Yoann
+race: Race
+Minganti: Minganti
+Lesser: Lesser
+tolerant: tolerant
+stream: stream
+ice: ice
+mercury: mercury
+transformational: Transformational
+even: even
+Pritzker: Pritzker
+flow: flow flows flowing
+TUAT: TUAT
+ultralow: ultralow
+metric: metric
+status: status
+cm: cm
+refrigerator: refrigerator refrigerators
+clarify: clarifies clarifying
+Samarium: Samarium
+precursor: precursors precursor
+FAU: FAU
+Star: Star
+love: loving
+ITO: ITO
+Paolo: Paolo
+equation: equations equation
+Jessica: Jessica
+screen: screen
+utility: utility
+proxy: proxy
+improve: improved improve improving improves
+however: however
+versatile: versatile
+Simons: Simons
+microlens: microlenses
+dramatically: dramatically
+dissolve: dissolved
+Atomically: Atomically
+function: functioning function functions functioned
+comment: comments Commenting
+Patrik: Patrik
+Amit: Amit
+Anderson: Anderson
+wider: wider
+dispersed: dispersed
+Ezzell: Ezzell
+protagonist: protagonist
+Mitchison: Mitchison
+SDE: SDE
+expect: expected expect
+ago: ago
+Carroll: Carroll
+drumhead: drumheads
+mature: mature
+groupextend: groupextend
+Tan: Tan
+Radaelli: Radaelli
+hexagon: hexagons
+should: should
+Christian: Christian
+traceable: traceable
+distinct: distinct
+director: director
+Birmingham: Birmingham
+Zeiss: Zeiss
+Yazak: Yazak
+Bluebell: Bluebell
+token: tokens
+slice: slices
+coffee: coffee
+Planetary: Planetary
+ball: ball balls
+R&D: R&D
+synapse: synapse
+Hisao: Hisao
+Astronomy: Astronomy
+imager: imager
+story: STORY
+cool: cooling cooled cools cool
+will: will wo
+MLA: MLA
+actually: actually
+variable: variable variables
+Moonshot: Moonshot
+investigator: investigator
+link: linked linking link links
+Synchrotron: Synchrotron
+Evans: Evans
+resist: resist resists
+forefront: forefront
+Scott: Scott
+Sotiriadis: Sotiriadis
+Diabetes: Diabetes
+Jeff: Jeff
+Govenius: Govenius
+majority: majority
+showcase: showcases
+insurmountable: insurmountable
+Uysal: Uysal
+Headache: Headache
+missing: missing
+Skyrmion: Skyrmion
+few: few
+cousin: cousins
+unnerve: unnerved
+Pavel: Pavel
+Yong: Yong
+Nanotechnologies: Nanotechnologies
+heavier: heavier
+Dmitry: Dmitry
+conduct: conducted conduct Conducts conducting
+paper: paper
+sound: sound
+Håkansson: Håkansson
+Goossens: Goossens
+picosecond: picoseconds
+phy: Phy
+curious: curious
+Pokharel: Pokharel
+APA: APA
+Directorate: Directorate
+mip: MIP
+Marlou: Marlou
+PhysRevApplied: PhysRevApplied
+Promotion: Promotion
+Gu: Gu
+Cornell: Cornell
+back: backed back
+UZH: UZH
+sharing: sharing
+Gillam: Gillam
+subdivision: subdivisions subdivision
+Seismometer: Seismometer
+lofty: lofty
+management: management
+nab: nab
+naturally: naturally
+Office: Office
+sophisticated: sophisticated
+telluride: telluride
+immobile: immobile
+dash: dash
+thinner: thinner
+Etesamirad: Etesamirad
+Osman: Osman
+Giacomo: Giacomo
+much: much
+Cowen: Cowen
+optic: optic
+luminescent: luminescent
+NERSC: NERSC
+approximation: approximation
+strategy: strategy strategies
+little: little
+imagine: Imagine
+formidable: formidable
+flexibility: flexibility
+Delphi: Delphi
+Vannevar: Vannevar
+again: again
+hybrid: hybrid
+Grants: Grants
+threshold: threshold
+catalyze: catalyzed
+Frano: Frano
+repulsive: repulsive
+Interlayer: Interlayer
+periodic: Periodic
+minimalism: minimalism
+superhighway: superhighways
+university: universities
+cause: cause causing causes caused
+envision: envision envisions envisioned
+opaque: opaque
+corner: corners corner
+Takezawa: Takezawa
+gadget: gadgets
+Mason: Mason
+upload: uploads
+faithfully: faithfully
+electronvolt: electronvolt
+Designing: Designing
+software: software
+capability: capabilities capability
+capable: capable
+Connor: Connor
+redesign: redesign
+feed: Feeds feed
+pool: pools pooling
+decrease: decreases decreasing
+navigation: navigation
+shutter: shuttered
+Blanter: Blanter
+Raphael: Raphael
+perform: perform performed performing performs
+Ultrafast: Ultrafast
+lifetime: lifetimes lifetime
+resolve: resolve resolving Resolves resolved
+topology: topology
+Kazutaka: Kazutaka
+quantitative: quantitative
+reduction: reduction
+moment: moment moments
+Stiller: Stiller
+specific: specific
+Songtao: Songtao
+halve: halved
+Schrodinger: Schrodinger
+not: not
+tuning: tuning
+reduce: reduced reducing reduce reduces
+Photonics: Photonics
+Yildiz: Yildiz
+Janka: Janka
+thermo: thermo
+Undershute: Undershute
+environment: environment environments
+honeycomb: honeycomb
+reconfigurable: reconfigurable
+Threatens: Threatens
+surprising: surprising
+schedule: schedules
+nanopore: nanopores
+radar: radar
+substitute: Substitutes substitute
+experimentally: experimentally
+subfield: subfields
+Monz: Monz
+Natalia: Natalia
+Xuan: Xuan
+momenta: momenta
+Walter: Walter
+qmc: QMC
+German: German
+Joshi: Joshi
+enormous: enormous
+simulator: simulator simulators
+Rocco: Rocco
+colloidal: colloidal
+iceberg: icebergs
+Ivan: Ivan
+diamond: Diamonds
+assemble: assembled assembling assemble
+instrumental: instrumental
+synaps: synapses
+qah: QAH
+stuff: stuff
+refer: referred refers refer
+Nathalie: Nathalie
+crucial: crucial
+quench: quenched quench
+bell: bells
+outperform: outperform outperforming outperformed
+Quntao: Quntao
+distinctive: distinctive
+still: still
+redundancy: redundancy
+Uranium: Uranium
+early: early
+Camenzind: Camenzind
+grant: granted grant
+algebraic: Algebraic
+Taek: Taek
+Koolstra: Koolstra
+Alice: Alice
+turbine: turbine
+emitter: emitters emitter
+Seongshik: Seongshik
+connector: connectors
+team: team teams teamed
+tunnel: tunnel tunneled
+wealth: wealth
+resonator: resonator resonators
+expose: exposed expose
+means: means
+Houck: Houck
+Joonhee: Joonhee
+Ben: Ben
+alignment: alignment
+nanoporous: nanoporous
+appearance: appearance
+Disease: Disease
+orbit: orbits orbit orbiting
+maker: makers
+immediately: immediately
+assume: assumed assumes assume
+supervision: supervision
+technologically: technologically
+Shen: Shen
+brown: brown
+doubtful: doubtful
+violation: violation violations
+tangle: tangled
+Jerzy: Jerzy
+defence: defence
+enzyme: enzymes
+Way: Way
+cluttered: cluttered
+translate: translating translate translated translates
+continuously: continuously
+stack: stack stacks stacked stacking
+envisage: envisage
+orientational: orientational
+battery: Batteries Battery
+Jean: Jean
+fundamentally: fundamentally
+frustrated: frustrated
+multiply: multiplied multiplies
+behaviour: behaviour behaviours
+reality: Reality realities
+Sato: Sato
+survive: survive survived
+CFN: CFN
+Noh: Noh
+Bren: Bren
+spirit: spirit
+echo: echo
+metrological: Metrological
+linearly: linearly
+cavity: cavity cavities
+confirm: confirm Confirms confirmed confirming
+necessity: necessity
+proof: proof
+Adam: Adam
+money: money
+ai: AI
+sync: sync
+conjecture: conjecture
+Ovchinnikov: Ovchinnikov
+Wen: Wen
+Kiefer: Kiefer
+Illinois: Illinois
+suspect: suspected suspect
+contribution: contributions contribution
+coworker: coworkers
+vertically: vertically
+Bylander: Bylander
+principal: principal
+navigate: navigate navigates
+ability: ability abilities
+Yongqing: Yongqing
+person: person
+creep: creep creeping
+conception: conception
+Erlangen: Erlangen
+Qiu: Qiu
+Singapore: Singapore
+Eisert: Eisert
+exquisitely: exquisitely
+couple: Coupled couple Couples
+downhill: downhill
+Chong: Chong
+Stokey: Stokey
+Olga: Olga
+evidence: Evidence
+separate: separate separated Separates separating
+annoyance: annoyances
+Thermal: Thermal
+Särimner: Särimner
+Weiland: Weiland
+multiplex: multiplexed
+rewrite: rewrite
+nat: Nat
+accomplish: accomplish accomplished accomplishes
+cross: crosses crossed
+zz: ZZ
+Enrico: Enrico
+bolometer: bolometer
+next: next
+Sperlich: Sperlich
+reliability: reliability
+significant: significant
+Jacobs: Jacobs
+generally: generally
+dependence: dependence
+pyramid: pyramid
+content: Content
+Tencent: Tencent
+implement: implemented implement implementing
+prod: prod
+Peking: Peking
+configuration: configuration configurations
+valid: valid
+Reservoirs: Reservoirs
+Enviro: Enviro
+Mikhail: Mikhail
+individually: individually
+protonic: protonic
+beta: beta
+Lecturer: Lecturer
+Masaki: Masaki
+vortex: Vortex vortices
+puck: pucks
+ribbon: ribbons ribbon
+bitstring: bitstrings
+transparent: transparent
+easily: easily
+overview: overview
+BMBF: BMBF
+Gatto: Gatto
+nevertheless: nevertheless
+give: giving give gives given gave
+Daniel: Daniel
+surroundings: surroundings
+lawrencium: Lawrencium
+Si: Si
+programmable: programmable
+spec: specs
+dismiss: dismissed
+hint: hints hinted
+natively: natively
+Kulik: Kulik
+Dominik: Dominik
+Rahm: Rahm
+brain: Brains Brain
+Doucet: Doucet
+Heterojunction: Heterojunction
+Italy: Italy
+Davis: Davis
+Roux: Roux
+overtime: overtime
+theoretically: theoretically
+Papageorgiou: Papageorgiou
+Proceedings: Proceedings
+Stroscio: Stroscio
+Grover: Grover
+indefinitely: indefinitely
+entity: entity entities
+enigma: enigma
+Datta: Datta
+orientation: orientation orientations
+Zwettler: Zwettler
+Konstantatos: Konstantatos
+anymore: anymore
+Maxwell: Maxwell
+Thomás: Thomás
+straightforward: straightforward
+Haralambos: Haralambos
+competitor: competitors
+Excellence: Excellence
+dehydrate: dehydrating
+mobility: mobility
+berry: Berry
+exponential: exponential
+express: expressed expressing
+Undersecretary: Undersecretary
+capacitive: capacitive
+Gino: Gino
+Bohr: Bohr
+LinkedIN: LinkedIN
+nucleus: Nuclei nucleus
+Novel: Novel
+definite: definite
+QuTech: QuTech
+alone: alone
+St: St
+toolbox: toolbox
+Institutes: Institutes
+Stuttgart: Stuttgart
+forget: Forget forgetting forgotten
+Zhuk: Zhuk
+combine: combining combine combined combines
+Josephson: Josephson
+evident: evident
+Stephen: Stephen
+resemble: resemble
+scarce: scarce
+ordering: ordering
+Bernhard: Bernhard
+Rabl: Rabl
+Anthropology: Anthropology
+tapered: tapered
+true: true
+erroneous: erroneous
+fuse: fused
+deploy: deploying deployed deploy
+turn: turn turns turned turning
+Sheng: Sheng
+Ewout: Ewout
+Hays: Hays
+grain: grain
+Canteri: Canteri
+Tokyo: Tokyo
+include: including included includes include
+bamboozle: bamboozling
+properly: properly
+Scheie: Scheie
+validity: validity
+Yuichiro: Yuichiro
+bypass: bypass
+teleport: teleported
+Fund: Fund
+Hijazi: Hijazi
+David: David
+Devarakonda: Devarakonda
+media: media
+hardly: hardly
+pharmaceutical: pharmaceuticals
+Nicolas: Nicolas
+orient: oriented orient
+Micromachine: Micromachine
+magnetize: magnetized
+arrangement: arrangement arrangements
+Delft: Delft
+visualize: visualize visualized
+fluoresce: fluoresce
+surge: surges surge
+Professor: Professor
+tightly: tightly
+anisotropic: anisotropic
+EU: EU
+MC: MC
+Berg: Berg
+Meier: Meier
+Yulia: Yulia
+exicting: exicting
+region: regions region
+Weapons: Weapons
+QLAN: QLAN
+dependent: dependent
+colder: colder
+life: life
+traffic: Traffic
+Chase: Chase
+SEAS: SEAS
+greeting: Greetings
+planqk: PlanQK
+detection: detection
+Pluchar: Pluchar
+Tender: Tender
+knowledge: knowledge
+Lusch: Lusch
+latticework: latticework
+Minh: Minh
+Barbosa: Barbosa
+den: den
+Coatings: Coatings
+lot: lot lots
+dataset: datasets
+Alexandra: Alexandra
+Rhone: Rhone
+diode: diode diodes
+satisfactory: satisfactory
+Business: Business
+exit: exit
+pass: passed pass passing passes
+investment: investment
+Nandkishore: Nandkishore
+Fitzpatrick: Fitzpatrick
+Ding: Ding
+theory: theory theories
+coin: coins coin
+Jonas: Jonas
+countless: countless
+Sanders: Sanders
+stabilisation: stabilisation
+inject: injecting
+postulate: postulated
+spot: spot
+telecom: telecom
+address: address addressing addresses
+certify: certify
+resistivity: resistivity
+choice: choice
+breakthrough: Breakthrough breakthroughs
+sample: samples sample
+Lei: Lei
+bring: brought bring Brings bringing
+nanocrystal: nanocrystals nanocrystal
+Sir: Sir
+could: could
+Models: Models
+quantumbw: QuantumBW
+stray: stray
+swap: swapping SWAP
+discipline: disciplines
+copy: copying copied copies
+tailor: tailor Tailored
+routing: routing
+use: use used using Uses
+mode: modes mode
+Thunström: Thunström
+lifespan: lifespan lifespans
+Annika: Annika
+picture: pictures picture
+Ewold: Ewold
+Aristotle: Aristotle
+complement: complementing
+Ireland: Ireland
+phenomena: phenomena
+Nitin: Nitin
+electro: electro
+Betty: Betty
+heterostructure: heterostructures heterostructure
+fragility: fragility
+fabricate: fabricated fabricating fabricate
+Watanabe: Watanabe
+Stevenson: Stevenson
+make: make made making makes
+put: put puts putting
+simplified: simplified
+answer: answer answered Answering answers
+Federal: Federal
+irresponsible: irresponsible
+simplest: simplest
+eliminate: eliminated eliminates eliminating
+Kobori: Kobori
+minimize: minimized minimize minimizes minimizing
+Shiun: Shiun
+charge: charge charged charges
+underlying: underlying
+antiparticle: antiparticle
+approach: approach approaches approached
+restrained: restrained
+Foundation: Foundation
+news: news
+VTT: VTT
+Microstructure: Microstructure
+Vonka: Vonka
+bent: bent
+football: football
+bond: bonds bonded bonding
+Thompson: Thompson
+faint: faint
+hi: hi
+reconstruct: reconstruct reconstructs
+propose: proposed propose proposes proposing
+Kaubruegger: Kaubruegger
+micron: micron microns
+report: report reported reports reporting
+Hoang: Hoang
+Outlook: Outlook
+radiate: radiates
+radiant: Radiant
+Viscosity: Viscosity
+available: available
+laser: laser lasers
+Abhinav: Abhinav
+knock: knocked
+Masaaki: Masaaki
+taqs: TAQS
+rather: rather
+staff: Staff staffed
+app: app
+telephone: telephone
+overturn: Overturning
+Aravind: Aravind
+Soldatov: Soldatov
+Uppsala: Uppsala
+ten: tens
+detectivity: detectivity
+dimensional: dimensional
+extra: extra
+template: template templates
+Graziano: Graziano
+spontaneous: Spontaneous
+aluminum: aluminum
+Haque: Haque
+Kezilebieke: Kezilebieke
+Kaxiras: Kaxiras
+Subscribe: Subscribe
+inflection: inflection
+silica: silica
+Liehl: Liehl
+sender: sender
+academic: academics academic
+Peng: Peng
+Rosemary: Rosemary
+Joshua: Joshua
+end: ending end ends
+constraint: constraints constraint
+Unison: Unison
+conduit: conduits
+thousand: thousands
+Ju: Ju
+Sara: Sara
+Kharlan: Kharlan
+thus: thus
+Hendrik: Hendrik
+suggestion: suggestions
+philosophical: philosophical
+Tarr: Tarr
+transitive: transitive
+Universität: Universität
+pose: pose posed posing poses
+Zhuang: Zhuang
+comparable: comparable
+junk: junk
+shortcut: Shortcut
+acute: acute
+helical: helical
+position: position positioned positions
+message: messages message
+diameter: diameter
+Moses: Moses
+October: October
+slowdown: slowdown
+Villa: Villa
+erase: erase
+tip: tip
+independently: independently
+hire: hires
+Sheikh: Sheikh
+storage: storage
+Sepehr: Sepehr
+Jake: Jake
+exclusion: exclusion
+concept: concepts concept
+Ruins: Ruins
+Swanson: Swanson
+streamline: streamline
+Louise: Louise
+counter: counter
+xenon: xenon
+Fertile: Fertile
+whole: whole
+stimulate: stimulated stimulates stimulating
+Ourari: Ourari
+class: class
+ultimate: ultimate
+Capacitor: Capacitor
+clearer: clearer
+Pump: Pump
+Lewis: Lewis
+influence: influence influences Influenced influencing
+melt: melt
+MOF: MOF
+hundredfold: hundredfold
+Kim: Kim
+seem: seem seemed seems seeming
+spacetime: spacetime spacetimes
+file: files
+Dong: Dong
+Hommelhoff: Hommelhoff
+Åhlgren: Åhlgren
+Clifford: Clifford
+Landau: Landau
+markedly: markedly
+its: its
+gauge: gauge
+Knowles: Knowles
+which: which
+treat: treated treating
+hardest: hardest
+Eriksson: Eriksson
+control: Control controlled controls
+Linköping: Linköping
+basically: basically
+tree: trees tree
+pull: pull pulled
+handful: handful
+Chelsea: Chelsea
+fast: fast
+Naldesi: Naldesi
+Lolur: Lolur
+reactivity: reactivity
+qnn: QNNs
+Pettes: Pettes
+congratulate: Congratulating
+stay: Stay stayed
+Anand: Anand
+material: materials material
+Manoj: Manoj
+readout: readout
+Rensselaer: Rensselaer
+sandwich: sandwiched sandwich sandwiching
+naively: naively
+multiexciton: multiexciton multiexcitons
+compensation: compensation
+prevail: prevail prevailing
+refinement: refinement refinements
+target: target targeted
+almost: almost
+property: properties property
+swirl: swirl swirls
+Zijie: Zijie
+percent: percent
+depth: depth
+apple: apples
+Dolev: Dolev
+Boeing: Boeing
+homogeneity: homogeneity
+say: said says say saying
+characteristic: characteristic characteristics
+Bethe: Bethe
+Hubbard: Hubbard
+Nuclear: Nuclear
+dedication: dedication
+tight: tight
+length: length lengths
+onion: onion
+Lyon: Lyon
+Laboratories: Laboratories
+Ye: Ye
+classifier: classifier
+Harrington: Harrington
+place: places placing place placed
+UW: UW
+cell: cells cell
+Pino: Pino
+Haney: Haney
+mainly: mainly
+smaller: smaller
+fade: faded
+useful: Useful
+era: era
+original: Original
+mixture: mixture
+fully: fully
+hot: hot
+Elvia: Elvia
+randomly: randomly
+Trafton: Trafton
+susceptible: susceptible
+graph: graph
+khz: kHz
+equipment: equipment
+spectroscopy: spectroscopy
+Müllen: Müllen
+Shanta: Shanta
+broadly: broadly
+commercialization: commercialization
+recall: recall recalls
+heat: heat heated heats
+atom: atoms atom
+offer: offered offers offer offering
+Mårten: Mårten
+photoluminescence: photoluminescence
+Hacking: Hacking
+imperfect: imperfect
+harvesting: harvesting
+bedevil: bedevil
+opener: openers
+ambient: ambient
+drg: DRG
+recognizable: recognizable
+absolute: absolute
+vulnerable: vulnerable
+Calame: Calame
+node: nodes node
+Hofmann: Hofmann
+realm: realm
+Sunil: Sunil
+Blueprint: Blueprint
+hypothesize: hypothesized
+debate: debate
+Matteo: Matteo
+fpa: FPA
+Dresden: Dresden
+RSS: RSS
+financial: Financial
+Lucien: Lucien
+contrast: contrast contrasted
+Hsin: Hsin
+Hypersound: Hypersound
+courtesy: courtesy
+SiC: SiC
+ionic: ionic
+IFM: IFM
+discussion: discussion
+natural: natural
+box: box
+development: Development
+tough: tough
+spray: Spray
+invaluable: invaluable
+implant: implanted implant
+be: are be is was been were being am
+Fellowship: Fellowship
+survey: surveys
+Romanov: Romanov
+detail: detail Details
+technique: technique techniques
+threat: threat
+oxygen: oxygen
+Nori: Nori
+Roch: Roch
+disordered: disordered
+suppose: supposed Suppose
+Casanova: Casanova
+Grimm: Grimm
+attack: attacks Attacked
+Boulder: Boulder
+shape: shape shaped shapes
+jumble: jumble
+street: streets
+magic: magic
+transversely: transversely
+Transformer: Transformer
+Slot: Slot
+meet: meet meets
+Show: Show
+Kernel: Kernel
+bottleneck: bottleneck bottlenecks
+classification: classifications classification
+neighboring: neighboring
+movement: movement movements
+universe: universe
+merely: merely
+adaptive: Adaptive
+ahead: ahead
+resonance: resonance
+Plasmon: Plasmon
+Zentrum: Zentrum
+frequency: frequencies frequency
+respect: respect
+asymmetry: asymmetry
+Mathematics: Mathematics
+Kaito: Kaito
+dig: dig
+Scientist: Scientist
+facet: facets
+prototype: prototype prototypes
+dim: dim
+topic: TOPICS topic
+Zahra: Zahra
+acoustic: acoustic
+stronger: stronger
+derail: Derails
+Spintronics: Spintronics
+transition: transition transitions
+erbium: erbium
+textbook: textbooks textbook
+large: Large
+Biology: Biology
+Zheng: Zheng
+protect: protected protect protecting Protects
+pit: pit pitted
+decoherence: decoherence
+longer: longer
+Hemian: Hemian
+Fuels: Fuels
+Kitzman: Kitzman
+Zhu: Zhu
+freely: freely
+quick: quick
+Wanjura: Wanjura
+BBN: BBN
+flash: flash
+layering: layering
+Vincenzo: Vincenzo
+Mackillo: Mackillo
+France: France
+detailed: detailed
+roman: Roman
+where: where
+cosmos: cosmos
+hydrocarbon: hydrocarbon
+typical: typical
+account: account accounts accounting
+Rainer: Rainer
+deform: deforming deform
+Solar: Solar
+extensively: extensively
+Huzhou: Huzhou
+sibling: siblings
+get: get getting gets got gotten
+route: route
+United: United
+train: trained train trains
+wavelength: wavelengths wavelength
+integer: integer integers
+constrain: constrained
+Sheldon: Sheldon
+owner: owners
+relevant: relevant
+proceed: proceed
+Koch: Koch
+reconcile: reconcile reconciled
+Odobesko: Odobesko
+Eugene: Eugene
+femtosecond: femtosecond femtoseconds
+Samir: Samir
+wooden: wooden
+Micro: Micro
+pair: pairs Pairing pair Paired
+Alexandre: Alexandre
+macroscopic: macroscopic
+unit: units unit
+skill: skills
+intricately: intricately
+Twin: Twin
+João: João
+elegantly: elegantly
+nanomagnetic: nanomagnetic
+Bhattarai: Bhattarai
+whistle: whistles
+fine: fine
+consume: consuming
+irreversible: irreversible
+Fengren: Fengren
+deterministic: deterministic
+vacancy: vacancies vacancy
+passionate: passionate
+Entangler: Entangler
+expectation: expectations
+Neumann: Neumann
+competition: competition
+RODIN: RODIN
+release: releases released releasing release
+perplexing: perplexing
+utilize: utilizing utilizes utilize utilized
+Erne: Erne
+predict: predict predicted predicting predicts
+Urbanization: Urbanization
+Ul: Ul
+diamagnetic: diamagnetic
+bigger: bigger
+ÖAW: ÖAW
+Webb: Webb
+themselves: themselves
+volcano: Volcanoes
+connection: connection connections
+Jose: Jose
+vibe: Vibe
+rights: rights
+Abhay: Abhay
+tone: tones
+Scholl: Scholl
+Hallwachs: Hallwachs
+nationwide: nationwide
+Jacobi: Jacobi
+existence: existence
+Imperial: Imperial
+enlist: enlisted
+fund: Funding funded
+absorb: absorbs absorbing absorbed
+attribute: attributes attribute
+collect: collecting Collects
+Distancing: Distancing
+possess: possessing possess possessed possesses
+Sar: Sar
+Zu: Zu
+weather: weather
+starting: starting
+sd: SD
+loss: loss losses
+Politecnico: Politecnico
+Verba: Verba
+Catalysis: Catalysis
+September: September
+always: always
+time: time times
+ScienceDaily: ScienceDaily
+hunt: hunt
+better: better
+fault: fault
+Liquid: Liquid
+edge: edges edge edging edged
+boson: bosons
+welcome: welcome
+million: millions
+cooperation: cooperation
+identity: identity
+manifest: manifesting
+Möttönen: Möttönen
+reabsorb: reabsorbed
+positive: positive
+terminal: terminal
+reservoir: reservoir
+enough: enough
+notably: Notably
+latest: latest
+Valverde: Valverde
+Yinghao: Yinghao
+salt: Salt
+ibm: IBMs
+layout: layout
+Xiaolong: Xiaolong
+part: part Parts
+script: script
+Miyata: Miyata
+Xiaoyu: Xiaoyu
+breadth: breadth
+bsm: BSM
+Gravitational: Gravitational
+characterization: characterization
+physrevresearch: PhysRevResearch
+Keyword: Keyword
+impinge: impinging
+meticulously: meticulously
+IQOQI: IQOQI
+Myers: Myers
+November: November
+average: average
+multiple: multiple
+asset: assets
+tandem: tandem
+pioneer: pioneering pioneered pioneers
+shirt: shirts shirt
+repeat: repeated repeating
+road: road
+misunderstanding: misunderstandings
+parasitic: parasitic
+disorganized: disorganized
+malleable: malleable
+Emily: Emily
+Flu: Flu
+Semeghini: Semeghini
+attractive: attractive
+marry: Marries
+Medicine: Medicine
+Conan: Conan
+statistical: statistical
+snf: SNF
+Yexiong: Yexiong
+bulky: bulky
+ask: asked asking ask
+conductive: conductive
+power: power Powering powers powered
+kind: kinds kind
+title: titled
+LiDAR: LiDAR
+nemesis: nemeses
+someday: someday
+rearrange: rearrange rearranging
+orbital: orbital orbitals
+postdoctoral: postdoctoral
+ladder: ladder
+auburn: Auburn
+several: Several
+Sobol: Sobol
+nanotech: nanotech
+Lihong: Lihong
+Harvard: Harvard
+special: Special
+Ramanathan: Ramanathan
+Kanak: Kanak
+guess: guessing guess guessed guesses
+combination: combination combinations
+Shaw: Shaw
+interfere: interfering interfere interfered
+behave: behave behaving behaves
+axis: axis
+more: more
+Cubes: Cubes
+European: European
+minimum: minimum
+subsystem: subsystem subsystems
+Union: Union
+Defense: Defense
+tectonic: Tectonic
+output: output outputs
+latter: latter
+case: case cases
+embody: Embodying
+rapidly: rapidly
+update: updated
+spike: spikes
+Weird: Weird
+Kroha: Kroha
+straight: straight
+ion: ions ion
+Assoc: Assoc
+frequently: frequently
+Ellen: Ellen
+supercharge: supercharge
+sort: sort sorting
+participate: Participating
+Mingzhao: Mingzhao
+New: New
+Prodan: Prodan
+install: installed
+Nishad: Nishad
+anywhere: anywhere
+Tianhao: Tianhao
+Estimate: Estimate
+tackle: tackle tackles tackled
+Visakorpi: Visakorpi
+Stuart: Stuart
+Kuo: Kuo
+behavior: behavior behaviors
+dilution: dilution
+intrinsic: intrinsic
+fundamental: fundamental
+directly: directly
+exceedingly: exceedingly
+soil: soil
+heart: hearts
+Gravastars: Gravastars
+Helmholtz: Helmholtz
+plethora: plethora
+BESSY: BESSY
+cleverly: cleverly
+JST: JST
+workings: workings
+Oliver: Oliver
+Kang: Kang
+Charles: Charles
+safety: safety
+cigar: cigar
+Cincio: Cincio
+Zhi: Zhi
+predictive: predictive
+neutral: neutral
+attempt: attempts attempted
+baggage: baggage
+entropy: entropy
+mountain: Mountains Mountain
+ultraviolet: ultraviolet
+Rakonjac: Rakonjac
+cobalt: cobalt
+Balandin: Balandin
+Cicak: Cicak
+emerge: emerging emerge emerges emerged
+Whirlpools: Whirlpools
+figure: figured figures figuring figure
+arise: arise arising arose arises
+Yoni: Yoni
+environmental: environmental
+mediate: mediating mediated
+Amr: Amr
+Yilmaz: Yilmaz
+perpendicular: perpendicular
+type: type types
+DNA: DNA
+terbium: terbium terbiums
+Algorithmic: Algorithmic
+staggering: staggering
+form: form forming forms formed
+typically: typically
+benefit: benefits benefit
+Chunxiong: Chunxiong
+Dame: Dame
+magnetization: magnetization
+Mathias: Mathias
+overall: overall
+electromagnetic: electromagnetic
+Soft: Soft
+Kimmo: Kimmo
+dry: Dries
+imprint: imprinted
+render: renders render
+mechanism: mechanisms mechanism
+deposition: deposition
+Mott: Mott
+island: Island islands
+minimally: minimally
+consortium: consortium
+core: core
+Ancient: Ancient
+Müller: Müller
+temper: tempers
+Interfaces: Interfaces
+interdisciplinary: interdisciplinary
+Lennart: Lennart
+Arezoo: Arezoo
+assistance: assistance
+Volt: Volt
+enclose: enclosed
+rigid: rigid
+merit: merit
+nanoreactor: nanoreactor
+wide: wide
+simultaneously: simultaneously
+simplicity: simplicity
+labeling: labeling
+ride: ride
+strand: strands
+Hassler: Hassler
+inner: inner
+mark: mark marks marked
+paradoxically: Paradoxically
+Lin: Lin
+beneficial: beneficial
+WACQT: WACQT
+Silicone: Silicone
+RCQM: RCQM
+stimulus: stimuli
+NVIDIA: NVIDIA
+Knill: Knill
+Ting: Ting
+impractical: impractical
+uninvolved: uninvolved
+intentionally: intentionally
+patterning: patterning
+Indium: Indium
+purchase: purchasing
+violate: violates violating
+Quirky: Quirky
+nonlinear: nonlinear
+Schneider: Schneider
+converter: converters
+platform: platforms platform
+Yoshiharu: Yoshiharu
+appointment: appointment appointments
+aim: aims aiming
+Fan: Fan
+throughput: throughput
+inconvenient: inconvenient
+ancilla: ancilla
+irrespective: irrespective
+Matsushita: Matsushita
+Slim: Slim
+Bluefors: Bluefors
+Griffin: Griffin
+Witwatersrand: Witwatersrand
+Kaufman: Kaufman
+really: really
+Indeterminist: Indeterminist
+Okinawa: Okinawa
+Chuan: Chuan
+pendulum: pendulum
+occupation: occupation
+Projects: Projects
+Keian: Keian
+Ji: Ji
+Duet: Duet
+jam: jam Jams
+Copenhagen: Copenhagen
+unveil: unveil unveiling unveils unveiled
+pursuit: pursuit pursuits
+Rui: Rui
+energetic: energetic
+Maryland: Maryland
+Gerwin: Gerwin
+Miriam: Miriam
+unexplored: unexplored
+oxide: oxide oxides
+patch: patch
+pronounced: pronounced
+start: start started starts
+Dean: Dean
+Juelich: Juelich
+relatively: relatively
+illumination: illumination
+shut: shut
+admirable: admirable
+fi: Fi
+Baden: Baden
+Netherlands: Netherlands
+passive: passive
+greater: greater
+upgrade: upgrades
+adequately: adequately
+longitudinal: longitudinal
+Pollanen: Pollanen
+basic: basic
+Chao: Chao
+umbrella: umbrella
+modest: modest
+unipolar: Unipolar
+close: close
+Maletinsky: Maletinsky
+Satoshi: Satoshi
+Majorana: Majorana
+concerned: concerned
+observation: observations observation
+Needell: Needell
+condense: condensed
+facility: facility facilities
+doi: DOI
+cat: cat
+manual: manual
+Frontiers: Frontiers
+complicated: complicated
+thermally: thermally
+develop: developed develop developing develops
+digit: digits
+Helson: Helson
+realize: realized realize realizing realizes
+Schrieffer: Schrieffer
+retriever: retriever
+disagree: disagreed
+terahertz: terahertz
+mirror: mirrors mirror
+futurist: futurists
+Tran: Tran
+Kiyoshi: Kiyoshi
+Simon: Simon
+CU: CU
+Christo: Christo
+Shimizu: Shimizu
+kill: killing
+April: April
+activity: Activity activities
+protection: protection
+nanoindentation: nanoindentation
+Stampfer: Stampfer
+interplay: interplay
+Chin: Chin
+Zeng: Zeng
+Agustin: Agustin
+disturbance: disturbance disturbances
+fluctuation: fluctuations
+Briggs: Briggs
+stride: stride
+titanate: titanate
+Arkady: Arkady
+fiction: fiction
+act: act acting acted acts
+hole: hole
+metal: metals metal
+rectangle: rectangle
+FFG: FFG
+truth: truth
+catch: catching catches catch
+Koo: Koo
+intricacy: intricacies
+regulation: regulations
+Harumi: Harumi
+coupling: coupling couplings
+Nuances: Nuances
+Shinbrough: Shinbrough
+Michael: Michael
+twist: Twisted twist
+tunnelling: tunnelling
+innovative: innovative
+actual: actual
+Clemens: Clemens
+crescent: crescent
+current: current currents
+symmetric: Symmetric
+relaxation: relaxation
+muscle: muscle
+Wellman: Wellman
+teleportation: teleportation
+Innsbruck: Innsbruck
+Htoon: Htoon
+parity: parity
+Kae: Kae
+unpick: unpick
+save: saves saving
+Kokkoniemi: Kokkoniemi
+Berkeley: Berkeley
+throw: throw thrown throwing
+Salim: Salim
+Nanotunnel: Nanotunnel
+Pollution: Pollution
+amplify: amplifies amplified amplify
+Grüne: Grüne
+evaluation: evaluation
+Zurich: Zurich
+quasiparticle: quasiparticles quasiparticle
+modeling: modeling
+vapor: vapor
+Kardar: Kardar
+Märta: Märta
+impetus: impetus
+Homer: Homer
+Xianjing: Xianjing
+adatom: adatoms
+Alvaro: Alvaro
+American: American
+Noah: Noah
+preparation: preparation
+Kyushu: Kyushu
+collaborative: collaborative
+Tetrahedral: Tetrahedral
+Nitride: Nitride
+capture: captured capture captures
+Waterloo: Waterloo
+gene: genes
+kg: kg
+Motlagh: Motlagh
+spacing: spacing
+Efthimios: Efthimios
+Drum: Drum
+publication: publications publication
+handcuffs: handcuffs
+example: example examples
+tour: tour
+inability: inability
+Al: Al
+fluoride: fluoride
+Tune: Tune
+conflicting: conflicting
+Wolfe: Wolfe
+Cambridge: Cambridge
+kilometer: kilometers kilometer
+JP: JP
+Institute: Institute
+nearby: nearby
+pillow: pillow
+Larson: Larson
+fridge: fridge fridges
+interestingly: Interestingly
+Drost: Drost
+IQST: IQST
+Bright: Bright
+considerably: considerably
+simply: simply
+Diamond: Diamond
+observable: observable
+Ultrasound: Ultrasound
+family: family
+illustrate: illustrates illustrate Illustrating
+game: game games
+Fu: Fu
+promise: promising promise promises
+glass: glass glasses
+transmission: transmission transmissions
+Intelligent: Intelligent
+narrow: narrow narrowing
+thank: thank
+nanomechanical: nanomechanical
+EPFL: EPFL
+Dipankar: Dipankar
+golf: golf
+newsfeed: newsfeeds
+many: many
+Ge: Ge
+Feng: Feng
+morning: morning
+Poole: Poole
+exciton: exciton Excitons
+wizardry: wizardry
+Marlan: Marlan
+Wenchao: Wenchao
+investor: investors
+deposit: deposited depositing
+portable: portable
+employ: employ employed
+Solubility: Solubility
+gallium: gallium
+aware: aware
+luminescence: Luminescence
+Wakefield: Wakefield
+Peipei: Peipei
+cycling: cycling
+Shevtsov: Shevtsov
+inspiration: inspiration
+Corporation: Corporation
+OU: OU
+mathematically: Mathematically
+Cities: Cities
+Pittsburgh: Pittsburgh
+excess: excess
+Hease: Hease
+senior: senior
+spool: spooled spool
+foreseeable: foreseeable
+qsl: QSL
+see: see seeing Sees saw seen
+probe: probe probing probes
+Switzerland: Switzerland
+Schupp: Schupp
+Knerr: Knerr
+Fano: Fano
+unlabeled: unlabeled
+Claudio: Claudio
+centre: Centre
+shorten: shorten
+Sajant: Sajant
+CMOS: CMOS
+demand: Demands demand
+exhibit: exhibit exhibited exhibiting exhibits
+light: light
+Arts: Arts
+crop: crop
+adma: adma
+Kevin: Kevin
+campus: campus
+call: called call calls
+multiphoton: multiphoton
+imperative: imperative
+mistake: mistakes
+limit: Limit limited limiting limits
+essence: essence
+Gao: Gao
+chemically: chemically
+sufficiently: sufficiently
+basis: basis
+dimension: dimension dimensions
+relax: relaxing
+Bate: Bate
+Helsinki: Helsinki
+word: words word
+drug: drug drugs
+biological: biological
+tell: Tell tells
+Guilherme: Guilherme
+forest: Forests
+Niall: Niall
+akin: akin
+Chitambar: Chitambar
+Liljeroth: Liljeroth
+lie: lie lies
+Cuadra: Cuadra
+thin: thin thinned
+Rutgers: Rutgers
+pyroelectricity: Pyroelectricity
+difference: difference differences
+feasibly: feasibly
+coupler: coupler
+coprocessor: coprocessor
+Aman: Aman
+Africa: Africa
+criticality: criticality
+Chalmers: Chalmers
+inherently: inherently
+spatially: spatially
+meissner: Meissner
+Butterfly: Butterfly
+stable: Stable
+no: no
+hypersonic: hypersonic
+Gentle: Gentle
+resistant: resistant
+instantaneously: instantaneously
+Pablo: Pablo
+zne: ZNE
+Room: Room
+Mehdi: Mehdi
+deviate: deviated
+fly: flying
+accurately: accurately
+dictate: dictates dictated
+Mikko: Mikko
+Moore: Moore
+add: ADD adds added adding
+chain: chains chain
+very: very
+we: our we Us
+Gravina: Gravina
+Graf: Graf
+Helena: Helena
+FQAH: FQAH
+architect: architects
+transform: transform
+nanometric: nanometric
+byte: bytes
+theorize: theorized
+Marcus: Marcus
+duo: duo
+Caldwell: Caldwell
+financially: financially
+valley: valleys valley
+Tong: Tong
+earthquake: Earthquakes earthquake
+intuitive: intuitive
+width: width
+sst: SST
+Martin: Martin
+Palmstrøm: Palmstrøm
+Holmes: Holmes
+Guoliang: Guoliang
+important: important
+Elio: Elio
+Yanai: Yanai
+singularity: singularity
+trivial: trivial
+Samarth: Samarth
+conduction: conduction
+Mahalingam: Mahalingam
+Lutz: Lutz
+discovery: discovery discoveries
+Gneiting: Gneiting
+Konstanz: Konstanz
+Chikkaraddy: Chikkaraddy
+zone: zone
+Tara: Tara
+overarching: overarching
+spontaneously: spontaneously
+Olle: Olle
+carbide: carbide
+elementary: elementary
+unfruitful: unfruitful
+weekly: weekly
+reflect: reflect reflects reflected
+Arizona: Arizona
+aging: Aging
+Jixun: Jixun
+let: let Lets
+Peter: Peter
+classify: classify classifying classified Classifies
+Roher: Roher
+Journal: Journal
+Manovitz: Manovitz
+December: December
+rugby: rugby
+component: components component
+levitation: levitation
+major: major
+lecture: lecture
+biosensor: biosensors
+ferromagnet: ferromagnets
+membrane: membrane membranes
+Matryoshka: Matryoshka
+rely: relied rely relies relying
+isolate: isolated isolate isolating
+Meng: Meng
+Microbes: Microbes
+redistribute: redistributes
+past: past
+insulator: insulators insulator
+harder: harder
+photodetector: photodetectors photodetector
+modelling: modelling
+Parag: Parag
+interference: interference interferences
+Ferguson: Ferguson
+jiggle: jiggle
+argument: argument
+funder: funders
+analog: analogs
+Beth: Beth
+deepen: deepen
+formulate: formulate formulated
+identify: identified identifying identify
+rise: rise Rising rises risen
+Thomas: Thomas
+optomechanical: Optomechanical
+clay: clay
+apparent: apparent
+Aditya: Aditya
+Azar: Azar
+ideally: Ideally
+ramification: ramifications
+revelation: revelation revelations
+Rohit: Rohit
+drastic: drastic
+argon: Argon
+Icking: Icking
+Chandrasekaran: Chandrasekaran
+construct: construct constructing constructed
+cosmic: cosmic
+respond: respond
+triplet: triplet
+polarise: polarised
+petahertz: petahertz
+arrival: arrival
+Supersolid: Supersolid
+extrinsic: extrinsic
+Abdullah: Abdullah
+neutron: neutron Neutrons
+attract: attracted attract
+Economics: Economics
+Jeopardy: Jeopardy
+hockey: hockey
+Parisi: Parisi
+Kagome: Kagome
+Jacob: Jacob
+texture: texture textures
+lensing: lensing
+evade: Evading
+skin: skin
+ICREA: ICREA
+sized: sized
+magnitude: magnitude
+feasibility: feasibility
+agile: agile
+encompass: encompasses
+Hajim: Hajim
+flawless: flawless
+value: values value valued
+celsius: Celsius
+Cryan: Cryan
+performance: performance performances
+THz: THz
+intern: intern
+white: white
+amplifier: Amplifier Amplifiers
+vary: varying varied vary
+Shawulienu: Shawulienu
+Wili: Wili
+together: together
+rtn: RTN
+revert: reverting
+NTU: NTU
+nanomechanic: nanomechanics
+digital: digital
+dedicate: dedicated
+Sadgrove: Sadgrove
+Ling: Ling
+applicable: applicable
+dilute: dilute diluting
+Davenport: Davenport
+functional: functional
+Ignace: Ignace
+encounter: encounter encountered
+Data: Data
+fascinating: fascinating
+Univeristy: Univeristy
+when: when
+composition: composition
+Tool: Tool
+optically: optically
+group: group groups
+Euler: Euler
+extreme: extreme
+mathematical: mathematical
+MRAM: MRAM
+lose: lose lost losing loses
+Daaoub: Daaoub
+obey: obey
+ripple: ripples
+policy: Policy
+Chessboard: Chessboard
+Emrys: Emrys
+Teepe: Teepe
+quantumness: quantumness
+great: great
+Philipp: Philipp
+km: km
+rational: Rational
+confirmation: confirmation
+former: former
+day: day days
+film: film films
+define: defined defining defines define
+elevate: elevate
+Russell: Russell
+Polyhedron: Polyhedron
+Schindler: Schindler
+Guguschev: Guguschev
+unique: unique
+thereby: thereby
+profound: profound
+Meirzadeh: Meirzadeh
+Nathan: Nathan
+equivariant: equivariant
+Erwin: Erwin
+anyon: anyons
+Lake: Lake
+reversible: Reversible
+bec: BEC
+fermion: fermion fermions
+inaugurate: inaugurated
+maglev: maglev
+obstacle: obstacle Obstacles
+Sung: Sung
+Roos: Roos
+accord: according
+Fereshte: Fereshte
+kit: kit
+phononic: Phononic
+Naruki: Naruki
+Crooker: Crooker
+Summary: Summary
+action: action
+extremely: extremely
+amazingly: Amazingly
+basket: baskets basket
+immense: immense
+user: user
+continual: continual
+corrupt: corrupting
+volume: volume
+scholar: scholar Scholars
+input: input inputs
+World: World
+study: study studies studying studied
+pursue: pursuing pursue
+junction: junctions
+continue: continue continued continues
+Sigusch: Sigusch
+distraction: distractions
+practice: practice practices
+possible: possible
+candidate: candidate candidates
+instrument: instruments instrument
+drastically: drastically
+elaborate: elaborate
+Harshitra: Harshitra
+weirdness: weirdness
+garnet: garnet
+McLellan: McLellan
+emulsify: emulsifying
+Desire: Desire
+Wang: Wang
+Nicholas: Nicholas
+nascent: nascent
+deal: deal dealing
+restrict: Restricting restricted
+protocol: protocols protocol
+Tin: Tin
+fledged: fledged
+slowly: slowly
+Berlin: Berlin
+contaminant: contaminants
+may: may
+Ignacio: Ignacio
+bottle: bottles
+assist: assisted
+parallel: parallel
+compare: comparing compare compared compares
+convert: convert converted converts
+Senko: Senko
+geometry: geometry
+achieve: achieved achieve achieves achieving
+secure: secure
+Radiocarbon: Radiocarbon
+waveguide: waveguides waveguide
+hill: hill
+blind: blind
+nontoxic: Nontoxic
+San: San
+Ruoxi: Ruoxi
+write: written write wrote
+might: might
+Mustonen: Mustonen
+poodle: poodle
+elegant: elegant
+other: other others
+Crystal: Crystal
+since: since
+Germany: Germany
+Rubaiat: Rubaiat
+Kostya: Kostya
+away: away
+Jiang: Jiang
+golden: golden
+integrity: integrity
+parityqc: ParityQC
+pb: Pb
+Saha: Saha
+mostly: mostly
+jointly: jointly
+composite: composites composite
+photodetection: photodetection
+frequent: frequent
+fascinate: fascinates fascinated
+etch: etched
+magnetic: magnetic
+thousandth: thousandths
+telecommunication: telecommunication
+RISC: RISC
+Boning: Boning
+distance: distances distance
+Zhang: Zhang
+Pascal: Pascal
+primary: primary
+vr: VR
+Paul: Paul
+sudden: sudden
+Sian: Sian
+record: record recorded
+cleanliness: cleanliness
+Högen: Högen
+stump: Stumped
+Disorders: Disorders
+bolster: Bolster
+millionth: millionth
+repel: repels
+isolator: isolators
+enormously: enormously
+Thermomechanical: Thermomechanical
+unattainable: unattainable
+haze: haze
+speak: speaking speak speaks
+Colorado: Colorado
+patent: patent
+epjqt: epjqt
+device: Device devices
+Leah: Leah
+pole: poles pole
+Becquerel: Becquerel
+Forschungszentrum: Forschungszentrum
+dozen: dozen
+Council: Council
+decay: decay decays
+setup: setup setups
+Gullans: Gullans
+jostle: jostle
+predecessor: predecessors
+validation: validation
+one: ones
+Rivera: Rivera
+Wells: Wells
+Intel: Intel
+Hugues: Hugues
+Basel: Basel
+runtime: runtime
+Southern: Southern
+potential: potential potentials
+Science: Science
+Pai: Pai
+immersive: immersive
+high: high highs
+locate: locate locating located
+today: Today
+suite: suite
+Sylvie: Sylvie
+Jeremy: Jeremy
+Bao: Bao
+Michigan: Michigan
+directive: directive
+increase: increase increases increased increasing
+Katsumata: Katsumata
+simpler: simpler
+Friedman: Friedman
+Jakub: Jakub
+DFG: DFG
+inevitably: inevitably
+Nobel: Nobel
+practicality: practicality
+plan: plans plan planned
+carton: carton
+safeguard: safeguard
+Yi: Yi
+interpret: interpret interpreting
+period: periods period
+Katie: Katie
+gyroscope: gyroscopes
+right: right
+clue: Clues
+acceptor: acceptor
+aptly: aptly
+Johnpierre: Johnpierre
+Bhave: Bhave
+Morteza: Morteza
+computation: computation computations
+Gavras: Gavras
+Ma: Ma
+gem: gems
+desire: desired
+ever: Ever
+leadership: leadership
+utmost: utmost
+Fédérale: Fédérale
+Hart: Hart
+red: red
+Hua: Hua
+pig: pig
+suitable: suitable
+symphony: symphony
+durable: durable
+free: free
+speed: speed speeds
+Fractal: Fractal
+reflective: reflective
+upright: upright
+underscore: underscores
+spooky: spooky
+Chaoyang: Chaoyang
+later: later
+pentacene: pentacene
+engine: Engine engines
+rapid: rapid
+manageable: manageable
+Chang: Chang
+hydropower: hydropower
+Möbius: Möbius
+breath: breath
+Rick: Rick
+hematite: hematite
+chromium: chromium
+Jogunola: Jogunola
+list: listed list
+surround: surrounding surround
+Klemke: Klemke
+successive: successive
+station: station
+nanoscale: nanoscale
+extract: extract Extracting
+endless: endless
+Checkelsky: Checkelsky
+Jingdi: Jingdi
+remotely: remotely
+arcane: arcane
+quantum: quantum
+Pasupathy: Pasupathy
+paramagnetic: paramagnetic
+Nunnenkamp: Nunnenkamp
+phone: phones phone
+Wennerdal: Wennerdal
+millimetre: millimetre
+wish: wish
+carry: carries carried carry carrying
+table: Table
+Milano: Milano
+superthin: superthin
+voltage: voltage voltages
+Xinhao: Xinhao
+Baumberg: Baumberg
+Son: Son
+Kargar: Kargar
+complex: complexes complex
+unexcited: unexcited
+otherwise: otherwise
+roadblock: roadblock
+exterior: exterior
+index: indices index
+Fogarty: Fogarty
+coincidence: Coincidence
+usually: usually
+piece: piece pieces
+Newsletter: Newsletter
+lens: lenses
+eigenstate: eigenstate
+Brady: Brady
+amazing: amazing
+bath: bath
+refractive: refractive
+critique: critique
+randomize: randomized
+Fullerene: Fullerene
+undefined: undefined
+display: display displaying displays
+tns: TNS
+regulate: regulate regulates
+accessible: accessible
+Jun: Jun
+fluctuate: fluctuate
+Vienna: Vienna
+derive: derive Deriving derived
+amass: amassing
+month: months
+unify: unify
+investigate: investigate investigating investigated investigates
+obtain: obtained obtain obtaining
+Minhao: Minhao
+anticipate: anticipated
+sls: SLS
+probability: Probability
+Duy: Duy
+Gottesman: Gottesman
+piston: piston
+Nikolai: Nikolai
+equilibrium: equilibrium
+elusive: Elusive
+Junho: Junho
+Dikshant: Dikshant
+dynamic: dynamic
+accordance: accordance
+leave: leaves Leave leaving left
+Novoselov: Novoselov
+compact: compact
+infinite: infinite
+Su: Su
+intractable: intractable
+Jonathan: Jonathan
+Tyrol: Tyrol
+Singh: Singh
+product: product products
+Tanaka: Tanaka
+Shiba: Shiba
+access: access accessed accessing
+ChatGPT: ChatGPT
+lightwave: lightwave
+affiliate: Affiliated
+australian: Australian
+Fujiwara: Fujiwara
+neon: neon
+exploration: explorations exploration
+Sougato: Sougato
+follow: Follow follows Following followed
+view: Views
+Blázquez: Blázquez
+ultrasensitive: ultrasensitive
+perhaps: perhaps
+handle: handle
+technical: technical
+Tech: Tech
+technological: technological
+Lopez: Lopez
+yig: YIG
+Birgit: Birgit
+indicator: indicator
+mechanical: Mechanical
+patient: patient
+chinese: Chinese
+mitigation: mitigation
+redefine: redefines
+level: level levels
+optoacoustic: optoacoustics
+collapse: collapse collapsing
+Ebadi: Ebadi
+Kamimura: Kamimura
+Madelyn: Madelyn
+Arul: Arul
+Changhao: Changhao
+whisp: whisp
+experiment: experiment experiments experimenting
+instruct: instructed
+active: Active
+microwave: microwave microwaves
+milliwatt: milliwatt
+search: Search searching searches
+Xiaoyang: Xiaoyang
+Ringbauer: Ringbauer
+symmetry: symmetry
+Danillo: Danillo
+Thomale: Thomale
+calibrate: calibrate calibrating
+Anne: Anne
+identical: identical
+memory: memory memories
+Schiciano: Schiciano
+qad: QAD QADs
+Windows: Windows
+Igor: Igor
+cent: cent
+Finkelstein: Finkelstein
+footprint: footprint
+item: items
+perturbation: Perturbations
+photocatalysis: photocatalysis
+handed: handed
+send: send sends sent sending
+MS: MS
+bake: baking
+blood: Blood
+Direction: Direction
+perturb: perturbed perturb perturbing
+hotter: Hotter
+maintain: maintain maintaining
+capacity: capacities capacity
+Zürich: Zürich
+landmark: landmark
+Fun: Fun
+physical: physical
+Nutt: Nutt
+inversely: inversely
+never: never
+Sornborger: Sornborger
+Wayne: Wayne
+microsecond: microseconds microsecond
+trigger: triggered Trigger
+signal: signals Signal
+extension: extension
+Bilayer: Bilayer
+circularly: circularly
+Austrian: Austrian
+Yongjie: Yongjie
+First: First
+Glenn: Glenn
+only: only
+magnonic: magnonic
+Einstein: Einstein

@@ -1,0 +1,6 @@
+/.idea/
+**/target/
+output.json
+**/.DS_Store
+*.iml
+/.bsp/
