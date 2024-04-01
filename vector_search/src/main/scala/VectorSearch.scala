@@ -13,10 +13,18 @@ object VectorSearch {
 
   val TFIDFMatrix = loadTFIDFMatrix()
 
+  val pagesUrl = loadPagesUrl()
+
   def main(args: Array[String]): Unit = {
     val query = StdIn.readLine()
     val results = search(query)
     results.foreach(println)
+  }
+
+  def searchTopPages(query: String, pagesCount: Int = 10): List[(String, String)] = {
+    val res = search(query).map(_._1).take(pagesCount)
+
+    res.map(page => (page.replace(".txt", "").substring(1), pagesUrl(page)))
   }
 
   def search(query: String): List[(String, Double)] = {
@@ -38,7 +46,7 @@ object VectorSearch {
   def getSimilarities(queryVector: Map[String, Double]): List[(String, Double)] = {
     TFIDFMatrix.toList.flatMap { case (page, lemmaTfIdf) =>
       val similarity = calculateCosineSimilarity(queryVector, lemmaTfIdf)
-      if (similarity > 0.0) Some(page -> similarity) else None
+      Some(page -> similarity)
     }.sortBy(-_._2)
   }
 
@@ -50,6 +58,16 @@ object VectorSearch {
     }.toMap
     source.close()
     lemmas
+  }
+
+  def loadPagesUrl(): Map[String, String] = {
+    val source = Source.fromFile("src/main/resources/index.txt")
+    val pages = source.getLines.map { line =>
+      val words = line.split(" ")
+      (words(0), words(1))
+    }.toMap
+    source.close()
+    pages
   }
 
   def loadTFIDFMatrix(): Map[String, Map[String, Double]] = {

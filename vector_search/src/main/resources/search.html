@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vector Search</title>
+  <script>
+    function performSearch() {
+      var query = document.getElementById("query").value;
+      var url = "/search?query=" + encodeURIComponent(query);
+
+      fetch(url)
+              .then(response => response.json())
+              .then(result => {
+                // Очищаем результаты предыдущего поиска
+                document.getElementById("searchResult").innerHTML = "";
+
+                // Проходимся по результатам поиска и формируем список
+                result.pages.forEach(page => {
+                  var pageNumber = page.pageNumber;
+                  var pageUrl = page.pageUrl;
+
+                  // Создаем элемент списка и гиперссылку
+                  var listItem = document.createElement("li");
+                  var link = document.createElement("a");
+                  link.href = pageUrl;
+                  link.textContent = "Страница " + pageNumber;
+
+                  // Добавляем гиперссылку в элемент списка
+                  listItem.appendChild(link);
+
+                  // Добавляем элемент списка в результаты поиска
+                  document.getElementById("searchResult").appendChild(listItem);
+                });
+              });
+    }
+  </script>
+</head>
+<body>
+<h1>Vector Search</h1>
+<input type="text" id="query" placeholder="Введите запрос">
+<button onclick="performSearch()">Искать</button>
+<ul id="searchResult"></ul>
+</body>
+</html>
